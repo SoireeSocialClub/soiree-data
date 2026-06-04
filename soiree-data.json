@@ -2,7 +2,7 @@
   "meta": {
     "week": "June 3, 2026",
     "updated": "2026-06-03",
-    "eventCount": "40+",
+    "eventCount": "25+",
     "topStoryHeadline": "Obama Presidential Center Opens on Juneteenth with Historic Black Artist Commissions",
     "topStorySummary": "One of the largest single commissions of Black artists at a major public institution — Njideka Akunyili Crosby, Rashid Johnson, Lorna Simpson, Jeffrey Gibson, and more. Opening weekend is free to the public in Chicago's Jackson Park.",
     "executiveSummary": [
@@ -11,7 +11,6 @@
       "On the policy front: a federal judge has blocked the Kennedy Center's planned closure and ordered Trump's name removed from the building within two weeks. The NSO remains in institutional peril."
     ]
   },
-
   "events": [
     {
       "id": "joy-guidry",
@@ -27,23 +26,6 @@
       "description": "Experimental ambient performance moving through jazz, minimalism, opera, ballet, blues, and gospel. 75 minutes, no intermission. One of the most original experimental musicians working in New York.",
       "status": "urgent",
       "urgentNote": "Tonight & Tomorrow — Final Performances",
-      "featured": false,
-      "juneteenth": false
-    },
-    {
-      "id": "sheila-e-bric",
-      "title": "Sheila E. + DJ Spinna — BRIC Celebrate Brooklyn! Opening Night",
-      "discipline": "Music",
-      "venue": "Lena Horne Bandshell, Prospect Park",
-      "address": "Prospect Park, Brooklyn",
-      "dates": "June 4, 2026 · 6:30 PM",
-      "dateSort": "2026-06-04",
-      "price": "Free",
-      "free": true,
-      "url": "https://bricartsmedia.org/event/opening-night-sheila-e-leon-knight-dj-spinna",
-      "description": "Opening night of one of New York's longest-running free outdoor concert series. Sheila E. has been a defining force in Black R&B, funk, and pop since the 1980s.",
-      "status": "urgent",
-      "urgentNote": "This Week",
       "featured": false,
       "juneteenth": false
     },
@@ -198,23 +180,6 @@
       "free": false,
       "url": "https://www.joyce.org/performances/step-afrika-1g2r",
       "description": "Step Afrika! transforms Jacob Lawrence's Migration Series into percussive, embodied performance. A meditation on the Great Migration of Black Americans to the North.",
-      "status": "upcoming",
-      "urgentNote": "",
-      "featured": false,
-      "juneteenth": false
-    },
-    {
-      "id": "dead-prez",
-      "title": "dead prez — Lincoln Center Summer for the City",
-      "discipline": "Hip-Hop",
-      "venue": "The Dance Floor, Lincoln Center",
-      "address": "Lincoln Center, Upper West Side",
-      "dates": "June 11, 2026 · 8:00 PM",
-      "dateSort": "2026-06-11",
-      "price": "Free",
-      "free": true,
-      "url": "https://www.lincolncenter.org/series/summer-for-the-city",
-      "description": "The influential Black hip-hop duo makes their Lincoln Center debut as part of Summer for the City's free programming.",
       "status": "upcoming",
       "urgentNote": "",
       "featured": false,
@@ -427,40 +392,6 @@
       "juneteenth": true
     },
     {
-      "id": "bric-juneteenth",
-      "title": "BRIC Celebrate Brooklyn! Juneteenth: Infinity Song + Victory Boyd",
-      "discipline": "Music",
-      "venue": "Lena Horne Bandshell, Prospect Park",
-      "address": "Prospect Park, Brooklyn",
-      "dates": "June 19, 2026 · 4:00 PM",
-      "dateSort": "2026-06-19",
-      "price": "Free",
-      "free": true,
-      "url": "https://bricartsmedia.org/event/juneteenth-at-bcb-infinity-song-annie-and-the-caldwells-victory-boyd-dj-duane",
-      "description": "Brooklyn siblings Infinity Song, Victory Boyd, and the Mississippi Caldwell family. Black family musical lineage, free outdoors in Prospect Park.",
-      "status": "upcoming",
-      "urgentNote": "",
-      "featured": false,
-      "juneteenth": true
-    },
-    {
-      "id": "weeksville-juneteenth",
-      "title": "Weeksville Heritage Center: Juneteenth Food Festival",
-      "discipline": "Cultural Festival",
-      "venue": "Weeksville Heritage Center",
-      "address": "1698 Bergen St, Crown Heights, Brooklyn",
-      "dates": "June 19, 2026 · 12:00–8:00 PM",
-      "dateSort": "2026-06-19",
-      "price": "TBD",
-      "free": false,
-      "url": "https://www.weeksvillesociety.org/",
-      "description": "5th annual Juneteenth celebration at a historic free Black community site. Over 31 Black-owned food vendors, music, double-dutch, and cultural programming.",
-      "status": "upcoming",
-      "urgentNote": "",
-      "featured": false,
-      "juneteenth": true
-    },
-    {
       "id": "bronx-book-festival",
       "title": "Bronx Book Festival",
       "discipline": "Literary",
@@ -512,57 +443,6 @@
       "juneteenth": false
     },
     {
-      "id": "iaaf",
-      "title": "International African Arts Festival — 55th Annual",
-      "discipline": "Cultural Festival",
-      "venue": "Lincoln Terrace Park",
-      "address": "Crown Heights, Brooklyn",
-      "dates": "July 3–5, 2026",
-      "dateSort": "2026-07-03",
-      "price": "TBD",
-      "free": false,
-      "url": "https://www.iaafestival.org/",
-      "description": "Three days of Pan-African music, dance, spoken word, African marketplace, fashion, and youth programming. Theme: HANGANENI (\"Let's Unite\"). In its sixth decade.",
-      "status": "planahead",
-      "urgentNote": "",
-      "featured": false,
-      "juneteenth": false
-    },
-    {
-      "id": "de-la-soul",
-      "title": "De La Soul + Pete Rock — SummerStage Queens",
-      "discipline": "Hip-Hop",
-      "venue": "Flushing Meadows-Corona Park",
-      "address": "Flushing Meadows-Corona Park, Queens",
-      "dates": "July 17, 2026",
-      "dateSort": "2026-07-17",
-      "price": "Free",
-      "free": true,
-      "url": "https://cityparksfoundation.org/summerstage/",
-      "description": "Two foundational voices of Native Tongues-era hip-hop, both deeply rooted in New York. Free in Queens. A significant outdoor show for anyone who holds the canon.",
-      "status": "planahead",
-      "urgentNote": "",
-      "featured": false,
-      "juneteenth": false
-    },
-    {
-      "id": "bedstuy-film",
-      "title": "BedStuy Film Festival at Billie Holiday Theatre",
-      "discipline": "Film",
-      "venue": "Billie Holiday Theatre",
-      "address": "1368 Fulton St, Bedford-Stuyvesant, Brooklyn",
-      "dates": "July 17–19, 2026",
-      "dateSort": "2026-07-17",
-      "price": "TBD",
-      "free": false,
-      "url": "https://thebillieholidaytheatre.org/",
-      "description": "Emerging Black filmmakers: short films, documentaries, features, and Q&As. A direct pipeline to the next generation of Black film.",
-      "status": "planahead",
-      "urgentNote": "",
-      "featured": false,
-      "juneteenth": false
-    },
-    {
       "id": "sanford-biggers",
       "title": "Sanford Biggers: Homecoming — Socrates Sculpture Park",
       "discipline": "Visual Art",
@@ -581,7 +461,6 @@
       "exhibition": true
     }
   ],
-
   "exhibitions": [
     {
       "id": "willie-cole-exh",
@@ -617,7 +496,6 @@
       "status": "International · On View"
     }
   ],
-
   "news": [
     {
       "id": "obama-center",
@@ -628,7 +506,11 @@
       "url": "https://www.obama.org/press-releases/final-group-of-commissioned-artists-for-campus/",
       "summary": "The Obama Presidential Center opens in Chicago's Jackson Park on Juneteenth with site-specific commissions from Njideka Akunyili Crosby, Rashid Johnson, Lorna Simpson, Jeffrey Gibson, and more. Akunyili Crosby created the first official portrait of Barack and Michelle Obama. Opening weekend is free to the public.",
       "detail": "One of the largest single commissions of Black artists at a major public institution in recent memory. The Juneteenth opening is a deliberate cultural statement. Multiple artists Soirée follows are represented here.",
-      "meta": ["Visual Art · Public Art · Museums", "Chicago · Opening June 19", "Free Opening Weekend"],
+      "meta": [
+        "Visual Art · Public Art · Museums",
+        "Chicago · Opening June 19",
+        "Free Opening Weekend"
+      ],
       "featured": true,
       "urgent": false
     },
@@ -693,7 +575,6 @@
       "urgent": false
     }
   ],
-
   "appointments": [
     {
       "id": "alicia-graf-mack",
@@ -728,7 +609,6 @@
       "description": "First African woman selected to curate the Venice Biennale. Her vision — 'In Minor Keys' — is being realized by her team. Open through November 2026."
     }
   ],
-
   "urgencyItems": [
     "Ailey at BAM — June 4–7",
     "Jeffrey Gibson at the Met — Closes June 9",
