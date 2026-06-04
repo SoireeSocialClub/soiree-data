@@ -562,6 +562,180 @@
       "detail": "",
       "featured": false,
       "urgent": false
+    },
+    {
+      "id": "valerie-coleman",
+      "title": "Valerie Coleman Piano Concerto Premieres at the NSO — Performed by Michelle Cann",
+      "discipline": "Classical Music · Composition",
+      "category": "Classical · This Week",
+      "date": "June 5–6, 2026",
+      "url": "https://www.kennedy-center.org/nso/home/2025-2026/gray-cann/",
+      "summary": "Black composer Valerie Coleman's Piano Concerto — an NSO co-commission — has its world premiere at the Kennedy Center this week. The soloist is Michelle Cann, a Black pianist and Sphinx Medal of Excellence winner. Coleman was named one of the Top 35 Women Composers by The Washington Post.",
+      "detail": "",
+      "meta": [
+        "Classical Music · Composition",
+        "Kennedy Center · June 5–6",
+        "World Premiere"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false
+    },
+    {
+      "id": "edmonia-lewis",
+      "title": "Edmonia Lewis: Said in Stone — First-Ever Retrospective Closes at Peabody Essex Museum June 7",
+      "discipline": "Visual Art · Sculpture",
+      "category": "Visual Art · Closing This Week",
+      "date": "Closes June 7, 2026",
+      "url": "https://www.pem.org/exhibitions/edmonia-lewis-said-in-stone",
+      "summary": "The first-ever retrospective of Edmonia Lewis — the first Black and Indigenous artist born in the US to achieve international acclaim as a sculptor — closes June 7 at the Peabody Essex Museum in Salem, MA. Thirty sculptures plus archival material. Travels to Georgia Museum of Art in August 2026.",
+      "detail": "",
+      "meta": [
+        "Visual Art · Sculpture",
+        "Peabody Essex Museum · Closes June 7",
+        "Travels to Georgia August 2026"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": true
+    },
+    {
+      "id": "virginia-chihota",
+      "title": "Virginia Chihota: Kutera mutsara / Hearing Inner Lines at Nicola Vassell Gallery — Closes June 13",
+      "discipline": "Visual Art · Painting",
+      "category": "Visual Art · Closing June 13",
+      "date": "Closes June 13, 2026",
+      "url": "https://www.nicolavassell.com/exhibitions/36-virginia-chihota-kutera-mutsara-hearing-inner-lines/",
+      "summary": "Zimbabwean artist Virginia Chihota's first solo presentation with Nicola Vassell Gallery — one of New York's important galleries led by a Black gallerist — is on view through June 13. Works on paper and large-scale canvases explore questions of being, belonging, and the mutability of self.",
+      "detail": "",
+      "meta": [
+        "Visual Art · Painting",
+        "Nicola Vassell Gallery · Closes June 13"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": true
+    },
+    {
+      "id": "cth-grant",
+      "title": "Classical Theatre of Harlem Receives $1 Million Grant Toward Permanent Home",
+      "discipline": "Theatre · Arts Infrastructure",
+      "category": "Theatre · Funding",
+      "date": "2026",
+      "url": "https://www.cthnyc.org/press-releases/the-classical-theatre-of-harlem-receives-1-million-grant-from-the-dale-and-deborah-smith-foundation/",
+      "summary": "CTH received a $1 million grant from the Dale and Deborah Smith Foundation toward a permanent home — a significant milestone for a company that has operated for over two decades without one. Also announced: free outdoor Othello at Marcus Garvey Park, summer 2026.",
+      "detail": "",
+      "meta": [
+        "Theatre · Arts Infrastructure",
+        "Harlem"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false
+    },
+    {
+      "id": "cave-canem-30",
+      "title": "Cave Canem Marks 30th Anniversary — Exhibition Opens at August Wilson Cultural Center",
+      "discipline": "Poetry · Literature",
+      "category": "Literary · Milestone",
+      "date": "2026",
+      "url": "https://cavecanempoets.org/news/30-years-of-cave-canem-update-on-the-2026-fellowship/",
+      "summary": "Cave Canem — the most important Black poetry institution in the US — marks its 30th anniversary in 2026. The exhibition 'the total black, being spoken' opens at the August Wilson African American Cultural Center in June 2026, running through June 2027, with a reunion gathering fellows and co-founders alongside guest poet Rita Dove.",
+      "detail": "",
+      "meta": [
+        "Poetry · Literature",
+        "August Wilson Cultural Center · June 2026"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false
+    },
+    {
+      "id": "awuor-ouma",
+      "title": "Awuor Ouma Wins 2026 Cave Canem Prize for Blue Hands, Brown Skin",
+      "discipline": "Poetry · Literature",
+      "category": "Literary · Award",
+      "date": "March 25, 2026",
+      "url": "https://cavecanempoets.org/news/cave-canem-awards-awuor-oumas-blue-hands-brown-skin-their-esteemed-eponymous-prize/",
+      "summary": "Kenyan poet Awuor Ouma, based in Berlin, won the 2026 Cave Canem Prize for 'Blue Hands, Brown Skin' — a collection exploring migration, grief, and memory between Kenya and Berlin. $10,000 prize. Publication by University of Georgia Press, Fall 2026.",
+      "detail": "",
+      "meta": [
+        "Poetry · Literature",
+        "Cave Canem Prize · $10,000",
+        "Publication Fall 2026"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false
+    },
+    {
+      "id": "mfa-boston",
+      "title": "MFA Boston Lays Off Its Only Black, Muslim, and Indigenous Curators — Community Backlash Continues",
+      "discipline": "Museums · Cultural Representation",
+      "category": "Policy · Ongoing",
+      "date": "January 30, 2026 · Ongoing",
+      "url": "https://news.artnet.com/art-world/mfa-boston-denies-racial-layoffs-2743776",
+      "summary": "MFA Boston laid off 33 staff including its only Black, Muslim, and Indigenous curators, plus roles in community engagement and equity programs. Nearly 2,000 people signed a reinstatement petition. More than 130 faculty at Massachusetts College of Art wrote to museum leadership. No reinstatement has been announced.",
+      "detail": "",
+      "meta": [
+        "Museums · Cultural Representation",
+        "Boston · Ongoing"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false
+    },
+    {
+      "id": "neh-ruling",
+      "title": "Federal Judge Rules DOGE-Led NEH Grant Cancellations Unconstitutional — FY2027 Threat Remains Active",
+      "discipline": "Funding and Policy",
+      "category": "Policy · Developing",
+      "date": "May 7, 2026",
+      "url": "https://www.washingtonpost.com/politics/2026/05/07/doge-neh-humanities-grants-ruling/",
+      "summary": "Judge Colleen McMahon ruled that 1,400+ NEH grant cancellations were unlawful and unconstitutional — DOGE used ChatGPT to flag 'history,' 'culture,' and 'identity' as DEI-related. Over $100 million restored. The administration's FY2027 budget simultaneously proposes to permanently wind down the NEA, NEH, and IMLS.",
+      "detail": "",
+      "meta": [
+        "Funding and Policy",
+        "$100M+ Restored",
+        "FY2027 Threat Active"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false
+    },
+    {
+      "id": "nea-jazz-masters",
+      "title": "NEA Jazz Masters 2026: Carmen Lundy and Patrice Rushen Among Honorees",
+      "discipline": "Jazz · Classical · Music",
+      "category": "Awards · Jazz",
+      "date": "Announced November 2025",
+      "url": "https://www.arts.gov/news/press-releases/2025/2026-nea-jazz-masters-announced",
+      "summary": "The 2026 NEA Jazz Masters are vocalist Carmen Lundy and pianist/composer Patrice Rushen — both Black artists with careers spanning five-plus decades — alongside percussionist Airto Moreira and broadcaster Rhonda Hamilton. The NEA Jazz Masters fellowship is the highest honor the US government bestows on jazz artists.",
+      "detail": "",
+      "meta": [
+        "Jazz · Music",
+        "NEA Jazz Masters · Highest US Honor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false
+    },
+    {
+      "id": "photography-black-arts-movement",
+      "title": "Photography and the Black Arts Movement, 1955–1985 Travels to Mississippi Museum of Art July 25",
+      "discipline": "Visual Art · Photography",
+      "category": "Visual Art · Exhibition",
+      "date": "July 25 – November 1, 2026",
+      "url": "https://www.nga.gov/exhibitions/photography-and-black-arts-movement-1955-1985",
+      "summary": "The first exhibition to center photography's role in the Black Arts Movement travels to the Mississippi Museum of Art July 25 – November 1, after its runs at the National Gallery of Art and the Getty. Co-curated by Deborah Willis, director of NYU's Center for Black Visual Culture.",
+      "detail": "",
+      "meta": [
+        "Visual Art · Photography",
+        "Mississippi Museum of Art · July 25"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false
     }
   ],
   "appointments": [
@@ -596,6 +770,22 @@
       "category": "Visual Art · International",
       "url": "https://www.labiennale.org/en/art/2026",
       "description": "First African woman selected to curate the Venice Biennale. Her vision — 'In Minor Keys' — is being realized by her team. Open through November 2026."
+    },
+    {
+      "id": "carmen-lundy-patrice-rushen",
+      "name": "Carmen Lundy & Patrice Rushen",
+      "role": "NEA Jazz Masters 2026",
+      "category": "Jazz · Honors",
+      "url": "https://www.arts.gov/news/press-releases/2025/2026-nea-jazz-masters-announced",
+      "description": "The highest honor the US government bestows on jazz artists. Both Lundy and Rushen are Black artists with careers spanning five-plus decades in jazz, composition, and performance."
+    },
+    {
+      "id": "lynda-roscoe-hartigan",
+      "name": "Lynda Roscoe Hartigan",
+      "role": "Director, Smithsonian American Art Museum",
+      "category": "Museums · Appointment",
+      "url": "https://www.artforum.com/news/lynda-roscoe-hartigan-to-lead-saa-1234748322/",
+      "description": "Hartigan takes the SAAM director role September 8, 2026. She previously developed SAAM's collection of American folk art and African American art — a significant appointment for the national institution."
     }
   ],
   "urgencyItems": [
