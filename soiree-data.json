@@ -420,8 +420,12 @@
       "url": "https://www.tonyawards.com/",
       "summary": "Joshua Henry won Best Actor in a Musical for Ragtime at Lincoln Center Theater — the production's first Tony after four prior nominations. Qween Jean, born in Haiti and founder of Black Trans Liberation, became the first openly transgender person to win a Tony Award for her costume design on Cats: The Jellicle Ball. Ragtime also won Best Revival of a Musical.",
       "detail": "",
-      "meta": ["Theatre · Tony Awards", "Joshua Henry · Best Actor", "Qween Jean · Historic Win"],
-      "image": ""https://cdn.jsdelivr.net/gh/SoireeSocialClub/soiree-data@main/Images/141531-12.jpg",
+      "meta": [
+        "Theatre · Tony Awards",
+        "Joshua Henry · Best Actor",
+        "Qween Jean · Historic Win"
+      ],
+      "image": "https://cdn.jsdelivr.net/gh/SoireeSocialClub/soiree-data@main/Images/141531-12.jpg",
       "featured": true,
       "urgent": false
     },
@@ -434,7 +438,11 @@
       "url": "https://www.obama.org/visit/grand-opening/",
       "summary": "The Obama Presidential Center in Chicago's Jackson Park opens to the public June 19 on Juneteenth. 30 commissioned works by 30 Black artists — Njideka Akunyili Crosby, Theaster Gates, Lorna Simpson, Rashid Johnson, Carrie Mae Weems, Mark Bradford, Julie Mehretu, and others. 23 works accessible outdoors, free of charge. The largest collection of site-specific commissions by Black artists at a single institution in recent memory.",
       "detail": "",
-      "meta": ["Visual Art · Public Art", "Chicago · June 19", "30 Artists · 23 Works Free Outdoors"],
+      "meta": [
+        "Visual Art · Public Art",
+        "Chicago · June 19",
+        "30 Artists · 23 Works Free Outdoors"
+      ],
       "image": "",
       "featured": false,
       "urgent": false
@@ -448,7 +456,10 @@
       "url": "https://www.keranews.org/news/2026-06-10/dallas-black-dance-theatre-new-leader-following-labor-dispute",
       "summary": "DBDT has named Kristie Patton Foster executive director, following a 2024–25 labor dispute in which the company fired its entire main company after dancers unionized with AGMA. The dispute cost DBDT $560,000 in NLRB settlements. The company approaches its 50th season.",
       "detail": "",
-      "meta": ["Dance · Arts Leadership", "DBDT · 50th Season Approaching"],
+      "meta": [
+        "Dance · Arts Leadership",
+        "DBDT · 50th Season Approaching"
+      ],
       "image": "",
       "featured": false,
       "urgent": false
@@ -462,7 +473,10 @@
       "url": "https://www.artnews.com/art-news/news/2026-guggenheim-fellowships-artist-winners-1234781151/",
       "summary": "The 2026 Guggenheim Fellowship class includes Black artists American Artist (conceptual/tech-based work), Sonya Clark (textile, hair), Allison Janae Hamilton (interdisciplinary), and choreographer Kyle Abraham, founder of A.I.M by Kyle Abraham in its 20th year.",
       "detail": "",
-      "meta": ["Awards · Fellowships", "101st Cohort · 223 Fellows"],
+      "meta": [
+        "Awards · Fellowships",
+        "101st Cohort · 223 Fellows"
+      ],
       "image": "",
       "featured": false,
       "urgent": false
@@ -476,7 +490,11 @@
       "url": "https://www.washingtonpost.com/politics/2026/05/07/doge-neh-humanities-grants-ruling/",
       "summary": "Judge Colleen McMahon permanently barred the Trump administration from canceling over $100 million in NEH grants, ruling the process unlawful and unconstitutional. DOGE admitted using ChatGPT to flag grants containing 'history,' 'culture,' and 'identity' as DEI-related. The FY2027 White House budget still proposes eliminating IMLS entirely.",
       "detail": "",
-      "meta": ["Funding and Policy", "$100M+ Restored", "FY2027 Threat Continues"],
+      "meta": [
+        "Funding and Policy",
+        "$100M+ Restored",
+        "FY2027 Threat Continues"
+      ],
       "image": "",
       "featured": false,
       "urgent": false
@@ -490,7 +508,10 @@
       "url": "https://www.artnews.com/art-news/news/black-arts-institutions-funding-nea-cuts-1234747703/",
       "summary": "The NEA's Challenge America program — which for over 20 years funded small arts organizations serving underserved communities — has been cancelled for FY2026. Museum Hue lost both an NEA matching grant and an IMLS National Leadership Grant. Research on the systemic underfunding of culturally-specific institutions has been interrupted.",
       "detail": "",
-      "meta": ["Arts Funding · Policy", "NEA · Challenge America Cancelled"],
+      "meta": [
+        "Arts Funding · Policy",
+        "NEA · Challenge America Cancelled"
+      ],
       "image": "",
       "featured": false,
       "urgent": false
@@ -504,7 +525,10 @@
       "url": "https://cavecanempoets.org/news/30-years-of-cave-canem-update-on-the-2026-fellowship/",
       "summary": "Cave Canem — the foundational organization for Black poets in the United States — marks 30 years in 2026 with a Fellows reunion this month and a satellite exhibition 'the total black, being spoken' opening at the August Wilson African American Cultural Center, running through June 2027.",
       "detail": "",
-      "meta": ["Poetry · Literature", "August Wilson Cultural Center · June 2026"],
+      "meta": [
+        "Poetry · Literature",
+        "August Wilson Cultural Center · June 2026"
+      ],
       "image": "",
       "featured": false,
       "urgent": false
@@ -518,7 +542,11 @@
       "url": "https://www.amazon.com/Cool-Machine-Novel-Harlem-Trilogy/dp/0385550502",
       "summary": "Cool Machine, Whitehead's tenth novel and the conclusion of the Harlem Trilogy, publishes July 21. Set in 1981 New York, bringing Ray Carney's saga into the era of reckless real estate and corruption. Publishers Weekly calls it 'the greatest New York novel in years.' From a two-time Pulitzer Prize winner.",
       "detail": "",
-      "meta": ["Literature · Publishing", "Publishes July 21", "Harlem Trilogy Complete"],
+      "meta": [
+        "Literature · Publishing",
+        "Publishes July 21",
+        "Harlem Trilogy Complete"
+      ],
       "image": "",
       "featured": false,
       "urgent": false
@@ -532,7 +560,10 @@
       "url": "https://www.nga.gov/exhibitions/photography-and-black-arts-movement-1955-1985",
       "summary": "The first exhibition to center photography's role in the Black Arts Movement travels to the Mississippi Museum of Art July 25, after runs at the National Gallery of Art and the Getty. Co-curated by Deborah Willis.",
       "detail": "",
-      "meta": ["Visual Art · Photography", "Mississippi Museum of Art · July 25"],
+      "meta": [
+        "Visual Art · Photography",
+        "Mississippi Museum of Art · July 25"
+      ],
       "image": "",
       "featured": false,
       "urgent": false
@@ -597,7 +628,8 @@
       "through": "September 2026 (culminating exhibition)",
       "url": "https://www.studiomuseum.org/exhibitions-and-events",
       "description": "Three emerging Black and Afro-Latinx artists in residence. Culminating exhibition opens September.",
-      "free": true
+      "free": true,
+      "price": "Free"
     },
     {
       "id": "studio-museum-fade",
@@ -607,7 +639,8 @@
       "through": "September 6, 2026",
       "url": "https://www.studiomuseum.org/exhibitions/fade",
       "description": "The sixth 'F' show of emerging artists. Seventeen artists across painting, sculpture, video, and installation.",
-      "free": true
+      "free": true,
+      "price": "Free"
     },
     {
       "id": "studio-museum-kiwanga",
@@ -617,7 +650,8 @@
       "through": "April 1, 2027",
       "url": "https://www.studiomuseum.org/exhibitions/kapwani-kiwanga-bleed",
       "description": "Site-specific commission drawing on the 'flying geese' quilting pattern — a symbol of the Underground Railroad — in fugitive dyes that shift over time.",
-      "free": true
+      "free": true,
+      "price": "Free"
     },
     {
       "id": "bronx-museum-aim-biennial",
@@ -627,7 +661,8 @@
       "through": "June 29, 2026",
       "url": "https://bronxmuseum.org/exhibition/seventh-aim-biennial/",
       "description": "Emerging NYC-based artists from underrepresented communities. Closes June 29 — free.",
-      "free": true
+      "free": true,
+      "price": "Free"
     },
     {
       "id": "moma-ideas-of-africa",
@@ -637,7 +672,8 @@
       "through": "July 25, 2026",
       "url": "https://www.moma.org/calendar/exhibitions/5755",
       "description": "MoMA's survey of African and African diasporic photography — Malick Sidibé, Kwame Brathwaite, Seydou Keïta, Njideka Akunyili Crosby, and others. Curated by Oluremi C. Onabanjo. Closes July 25.",
-      "free": false
+      "free": false,
+      "price": "Admission required"
     },
     {
       "id": "whitney-biennial-2026",
@@ -647,7 +683,8 @@
       "through": "August 23, 2026",
       "url": "https://whitney.org/exhibitions/2026-biennial",
       "description": "The 82nd edition, curated by Marcela Guerrero and Drew Sawyer. Includes Precious Okoyomon and artists of African descent.",
-      "free": false
+      "free": false,
+      "price": "Admission required"
     },
     {
       "id": "venice-biennale-kouoh",
@@ -657,7 +694,8 @@
       "through": "November 2026",
       "url": "https://www.labiennale.org/en/art/2026",
       "description": "First African woman to curate the Venice Biennale. Her vision realized by her team after her passing in May 2025.",
-      "free": false
+      "free": false,
+      "price": "Admission required"
     }
   ],
   "urgencyItems": [
