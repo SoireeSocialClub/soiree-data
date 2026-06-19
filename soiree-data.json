@@ -691,7 +691,8 @@
       ],
       "image": "",
       "featured": true,
-      "urgent": true
+      "urgent": true,
+      "weekAdded": "2026-06-17"
     },
     {
       "id": "nmaahc-revelation-abstraction",
@@ -709,7 +710,8 @@
       ],
       "image": "",
       "featured": true,
-      "urgent": false
+      "urgent": false,
+      "weekAdded": "2026-06-17"
     },
     {
       "id": "met-2026-27-seven-black-artists",
@@ -727,7 +729,8 @@
       ],
       "image": "",
       "featured": true,
-      "urgent": false
+      "urgent": false,
+      "weekAdded": "2026-06-17"
     },
     {
       "id": "ailey-bam-hymn-revival",
@@ -744,7 +747,8 @@
       ],
       "image": "",
       "featured": false,
-      "urgent": false
+      "urgent": false,
+      "weekAdded": "2026-06-17"
     },
     {
       "id": "angel-blue-rangwanasha-turandot",
@@ -761,7 +765,8 @@
       ],
       "image": "",
       "featured": false,
-      "urgent": false
+      "urgent": false,
+      "weekAdded": "2026-06-17"
     },
     {
       "id": "lawrence-brownlee-paris-opera",
@@ -778,7 +783,8 @@
       ],
       "image": "",
       "featured": false,
-      "urgent": false
+      "urgent": false,
+      "weekAdded": "2026-06-17"
     },
     {
       "id": "lights-out-nat-king-cole",
@@ -795,7 +801,8 @@
       ],
       "image": "",
       "featured": false,
-      "urgent": true
+      "urgent": true,
+      "weekAdded": "2026-06-17"
     },
     {
       "id": "lambda-literary-awards-2026",
@@ -812,7 +819,8 @@
       ],
       "image": "",
       "featured": false,
-      "urgent": false
+      "urgent": false,
+      "weekAdded": "2026-06-17"
     },
     {
       "id": "houston-grand-opera-2026-27",
@@ -829,7 +837,8 @@
       ],
       "image": "",
       "featured": false,
-      "urgent": false
+      "urgent": false,
+      "weekAdded": "2026-06-17"
     },
     {
       "id": "peter-gelb-met-retirement",
@@ -846,7 +855,8 @@
       ],
       "image": "",
       "featured": false,
-      "urgent": false
+      "urgent": false,
+      "weekAdded": "2026-06-17"
     },
     {
       "id": "creative-capital-2026-grants",
@@ -863,7 +873,8 @@
       ],
       "image": "",
       "featured": false,
-      "urgent": false
+      "urgent": false,
+      "weekAdded": "2026-06-17"
     },
     {
       "id": "obama-center-juneteenth",
@@ -881,7 +892,8 @@
       ],
       "image": "",
       "featured": false,
-      "urgent": false
+      "urgent": false,
+      "weekAdded": "earlier"
     },
     {
       "id": "santiago-hudson-tony",
@@ -898,7 +910,8 @@
       ],
       "image": "",
       "featured": false,
-      "urgent": false
+      "urgent": false,
+      "weekAdded": "earlier"
     },
     {
       "id": "joshua-henry-tony",
@@ -915,7 +928,8 @@
       ],
       "image": "",
       "featured": false,
-      "urgent": false
+      "urgent": false,
+      "weekAdded": "earlier"
     },
     {
       "id": "qween-jean-tony",
@@ -933,7 +947,8 @@
       ],
       "image": "",
       "featured": false,
-      "urgent": false
+      "urgent": false,
+      "weekAdded": "earlier"
     },
     {
       "id": "dallas-black-dance-theatre",
@@ -950,7 +965,8 @@
       ],
       "image": "",
       "featured": false,
-      "urgent": false
+      "urgent": false,
+      "weekAdded": "earlier"
     },
     {
       "id": "kennedy-center-name-removal",
@@ -967,7 +983,8 @@
       ],
       "image": "",
       "featured": false,
-      "urgent": false
+      "urgent": false,
+      "weekAdded": "earlier"
     },
     {
       "id": "nea-anti-dei-restrictions",
@@ -985,7 +1002,8 @@
       ],
       "image": "",
       "featured": false,
-      "urgent": false
+      "urgent": false,
+      "weekAdded": "earlier"
     },
     {
       "id": "black-arts-orgs-nea-cuts",
@@ -1002,7 +1020,8 @@
       ],
       "image": "",
       "featured": false,
-      "urgent": false
+      "urgent": false,
+      "weekAdded": "earlier"
     },
     {
       "id": "nyc-arts-existential-cuts",
@@ -1019,7 +1038,8 @@
       ],
       "image": "",
       "featured": false,
-      "urgent": false
+      "urgent": false,
+      "weekAdded": "earlier"
     },
     {
       "id": "rene-matic-deutsche-borse",
@@ -1036,7 +1056,8 @@
       ],
       "image": "",
       "featured": false,
-      "urgent": false
+      "urgent": false,
+      "weekAdded": "earlier"
     },
     {
       "id": "dreamgirls-revival-development",
@@ -1053,7 +1074,8 @@
       ],
       "image": "",
       "featured": false,
-      "urgent": false
+      "urgent": false,
+      "weekAdded": "earlier"
     },
     {
       "id": "cave-canem-magnitude-bond",
@@ -1069,7 +1091,8 @@
       ],
       "image": "",
       "featured": false,
-      "urgent": false
+      "urgent": false,
+      "weekAdded": "earlier"
     },
     {
       "id": "bcala-literary-awards",
@@ -1086,7 +1109,8 @@
       ],
       "image": "",
       "featured": false,
-      "urgent": false
+      "urgent": false,
+      "weekAdded": "earlier"
     }
   ],
   "appointments": [
