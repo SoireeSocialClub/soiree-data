@@ -676,6 +676,196 @@
   ],
   "news": [
     {
+      "id": "new-camerata-saint-georges",
+      "title": "New Camerata Opera Stages the Chevalier de Saint-Georges' Only Surviving Opera",
+      "discipline": "Opera",
+      "category": "Opera · Black Composer Revival",
+      "date": "June 18–21, 2026",
+      "url": "https://www.newcamerataopera.org/lamant-anonyme",
+      "summary": "New Camerata Opera brings L'amant anonyme — the only surviving opera by 18th-century Black French composer Joseph Bologne, Chevalier de Saint-Georges — to the Rose Nagelberg Theatre at Baruch Performing Arts Center. The new production is set in a 1960s television studio, inspired by the era of Leontyne Price. Music direction by Kelly Lam, direction by Brandon Shaw McKnight. Funded in part by Opera America's 2026 NYC opera grants.",
+      "detail": "",
+      "meta": [
+        "Opera · Black Composer",
+        "Baruch PAC · June 18–21",
+        "Only Surviving Work"
+      ],
+      "image": "",
+      "featured": true,
+      "urgent": true
+    },
+    {
+      "id": "nmaahc-revelation-abstraction",
+      "title": "NMAAHC Opens Revelation: A Journey into Abstraction",
+      "discipline": "Visual Art · Museum",
+      "category": "Visual Art · Exhibition",
+      "date": "June 12, 2026",
+      "url": "https://nmaahc.si.edu/explore/exhibitions/revelation",
+      "summary": "The Smithsonian's National Museum of African American History and Culture opened a major exhibition of 41 works by 38 Black abstract artists, drawn entirely from its permanent collection. Organized into five thematic sections, with a companion design show and a published catalog from Rizzoli Electa, funded by the Terra Foundation for American Art.",
+      "detail": "",
+      "meta": [
+        "Visual Art · Museum",
+        "Washington, D.C.",
+        "38 Artists · 41 Works"
+      ],
+      "image": "",
+      "featured": true,
+      "urgent": false
+    },
+    {
+      "id": "met-2026-27-seven-black-artists",
+      "title": "Metropolitan Opera Announces 2026-27 Season with Seven Black Artists in Major Roles",
+      "discipline": "Opera",
+      "category": "Opera · Season Announcement",
+      "date": "Announced February 2026 · Tickets on sale late June 2026",
+      "url": "https://www.metopera.org/about/press-releases/the-metropolitan-operas-2026-27-season/",
+      "summary": "The Met's 2026-27 season features seven Black artists in prominent roles: Angel Blue as Aida and Desdemona, Ryan Speedo Green as Banquo in a new Macbeth and as Klingsor in Parsifal, plus J'Nai Bridges, Lawrence Brownlee, Latonia Moore, Leah Hawkins, and Will Liverman. The season also includes the world premiere of Missy Mazzoli's Lincoln in the Bardo, directed by Lileana Blain-Cruz, October 19–November 14. Single tickets go on sale to the public in late June.",
+      "detail": "",
+      "meta": [
+        "Opera · Season",
+        "7 Black Artists",
+        "Tickets on Sale Late June"
+      ],
+      "image": "",
+      "featured": true,
+      "urgent": false
+    },
+    {
+      "id": "ailey-bam-hymn-revival",
+      "title": "Alvin Ailey at BAM: Hymn Returns After Fifteen Years Under Alicia Graf Mack",
+      "discipline": "Dance",
+      "category": "Dance · Institution",
+      "date": "June 4–7, 2026",
+      "url": "https://ailey.org/series/ailey-bam",
+      "summary": "Alvin Ailey American Dance Theater's first BAM engagement under new Artistic Director Alicia Graf Mack featured the revival of Judith Jamison's Hymn, her Emmy-winning 1993 tribute to Ailey, performed for the first time in over fifteen years. Opening night included a free roundtable with members of the original cast.",
+      "detail": "",
+      "meta": [
+        "Dance · Institution",
+        "BAM · First Season Under Graf Mack"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false
+    },
+    {
+      "id": "angel-blue-rangwanasha-turandot",
+      "title": "Angel Blue and Masabane Cecilia Rangwanasha Featured in Met Opera's Turandot",
+      "discipline": "Opera",
+      "category": "Opera · Performance",
+      "date": "May 19 – June 4, 2026",
+      "url": "https://operawire.com/anna-pirozzi-angela-meade-masabane-cecilia-rangwanasha-angel-blue-roberto-alagna-lead-metropolitan-operas-turandot-revival/",
+      "summary": "Angel Blue performed as Liù across five performances of the Met's Turandot revival. South African soprano Masabane Cecilia Rangwanasha also featured as an alternate Turandot — two Black sopranos in the same major production, conducted by Oksana Lyniv.",
+      "detail": "",
+      "meta": [
+        "Opera · Performance",
+        "Met Opera"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false
+    },
+    {
+      "id": "lawrence-brownlee-paris-opera",
+      "title": "Lawrence Brownlee Stars in La Cenerentola at the Paris Opera",
+      "discipline": "Opera",
+      "category": "Opera · International",
+      "date": "June 3 – July 11, 2026",
+      "url": "https://www.operadeparis.fr/en/artists/lawrence-brownlee",
+      "summary": "Leading Black American bel canto tenor Lawrence Brownlee performs in Rossini's La Cenerentola at the Opéra National de Paris through July 11. Also announced for the Newport Classical Music Festival alongside the release of his debut album Golden Age with soprano Erin Morley.",
+      "detail": "",
+      "meta": [
+        "Opera · International",
+        "Paris Opera"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false
+    },
+    {
+      "id": "lights-out-nat-king-cole",
+      "title": "Lights Out: Nat 'King' Cole at New York Theatre Workshop, Closing June 29",
+      "discipline": "Theatre",
+      "category": "Theatre · Off-Broadway",
+      "date": "Opened May 20, 2026 — closes June 29",
+      "url": "https://www.nytw.org/show/lights-out-nat-king-cole/",
+      "summary": "Colman Domingo and Patricia McGregor's new play about the final night of Nat King Cole's television variety show, starring Dulé Hill as Cole and Daniel J. Watts as Sammy Davis Jr. Reviews have called Dulé Hill's performance unforgettable. Closes June 29.",
+      "detail": "",
+      "meta": [
+        "Theatre · Off-Broadway",
+        "NYTW · Closes June 29"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": true
+    },
+    {
+      "id": "lambda-literary-awards-2026",
+      "title": "Lambda Literary Awards: Ashunda Norris Wins the Pilate Dead Scholarship",
+      "discipline": "Literature",
+      "category": "Literary · Awards",
+      "date": "June 12, 2026",
+      "url": "https://lambdaliterary.org/awards/2026-winners/",
+      "summary": "At the 38th Annual Lambda Literary Awards at Sony Hall, Ashunda Norris — a Black feminist filmmaker, poet, and photographer — received the Pilate Dead Scholarship, given annually to one Black writer across all genres and named for Toni Morrison's character in Song of Solomon.",
+      "detail": "",
+      "meta": [
+        "Literary · Awards",
+        "Sony Hall, NYC"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false
+    },
+    {
+      "id": "houston-grand-opera-2026-27",
+      "title": "Houston Grand Opera Announces 2026-27 Season with Morris Robinson, Angel Blue, Pretty Yende",
+      "discipline": "Opera",
+      "category": "Opera · Season Announcement",
+      "date": "Announced March 25, 2026",
+      "url": "https://www.houstongrandopera.org/backstage-pass/houston-grand-opera-announces-its-2026-27-season",
+      "summary": "HGO's season opens with a new Susannah starring Angel Blue. Morris Robinson performs Joe in Show Boat. Pretty Yende also features. Giving Voice, HGO's annual celebration of Black artists in opera, returns February 19, 2027, headlined by Angel Blue.",
+      "detail": "",
+      "meta": [
+        "Opera · Season",
+        "Houston"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false
+    },
+    {
+      "id": "peter-gelb-met-retirement",
+      "title": "Peter Gelb Announces Retirement from the Metropolitan Opera in 2030",
+      "discipline": "Opera · Institution",
+      "category": "Opera · Leadership",
+      "date": "Announced February 2026",
+      "url": "https://operawire.com/peter-gelb-plans-to-retire-from-metropolitan-opera-in-2030/",
+      "summary": "Met General Manager Peter Gelb will retire at the end of the 2030 season after twenty years in the role. Potential successors discussed in the field include Alexander Neef, John Magnum, Francesca Zambello, and Ian Derrer. The succession will shape Black artist opportunity at the Met for the decade ahead.",
+      "detail": "",
+      "meta": [
+        "Opera · Leadership",
+        "Succession Watch"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false
+    },
+    {
+      "id": "creative-capital-2026-grants",
+      "title": "Creative Capital Awards $2.9M in Grants to 109 Artists in 2026 Cycle",
+      "discipline": "Philanthropy · Funding",
+      "category": "Funding and Policy",
+      "date": "2026",
+      "url": "https://blackartmagazine.com/commerce/creative-capital-grants-2026/",
+      "summary": "Creative Capital distributed $2.9 million to 109 artists across all 50 states, including the inaugural State of the Art Prize — a $10,000 unrestricted grant for one artist per state. Specific Black artist recipients not yet confirmed.",
+      "detail": "",
+      "meta": [
+        "Funding and Policy",
+        "$2.9M · 109 Artists"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false
+    },
+    {
       "id": "obama-center-juneteenth",
       "title": "Obama Presidential Center Opens on Juneteenth with Major Black Artist Commissions",
       "discipline": "Visual Art · Cultural Institution",
@@ -690,7 +880,7 @@
         "$850M Campus"
       ],
       "image": "",
-      "featured": true,
+      "featured": false,
       "urgent": false
     },
     {
@@ -707,7 +897,7 @@
         "5 Nominations Total"
       ],
       "image": "",
-      "featured": true,
+      "featured": false,
       "urgent": false
     },
     {
@@ -742,7 +932,7 @@
         "9 Nominations"
       ],
       "image": "",
-      "featured": true,
+      "featured": false,
       "urgent": false
     },
     {
