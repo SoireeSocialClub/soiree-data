@@ -557,7 +557,7 @@
       "free": false,
       "url": "https://www.abt.org/event_dates/swan-lake-2026-06-20-200pm/",
       "description": "Soirée Founding Ambassador Calvin Royal III dances Prince Siegfried in American Ballet Theatre's Swan Lake at the Metropolitan Opera House.",
-      "status": "upcoming",
+      "status": "urgent",
       "urgentNote": "Soirée Ambassador",
       "featured": true,
       "featureNote": "Soirée Ambassador",
@@ -578,9 +578,10 @@
       "description": "Soirée Founding Ambassador Calvin Royal III dances Lensky in John Cranko's Onegin at the Metropolitan Opera House.",
       "status": "upcoming",
       "urgentNote": "Soirée Ambassador",
-      "featured": false,
+      "featured": true,
       "juneteenth": false,
-      "calvinPerformance": true
+      "calvinPerformance": true,
+      "featureNote": "Soirée Ambassador"
     },
     {
       "id": "calvin-onegin-june26",
@@ -596,9 +597,10 @@
       "description": "Soirée Founding Ambassador Calvin Royal III dances Lensky in John Cranko's Onegin at the Metropolitan Opera House.",
       "status": "upcoming",
       "urgentNote": "Soirée Ambassador",
-      "featured": false,
+      "featured": true,
       "juneteenth": false,
-      "calvinPerformance": true
+      "calvinPerformance": true,
+      "featureNote": "Soirée Ambassador"
     },
     {
       "id": "calvin-don-quixote-june30",
@@ -614,9 +616,10 @@
       "description": "Soirée Founding Ambassador Calvin Royal III dances Espada in Don Quixote at the Metropolitan Opera House.",
       "status": "upcoming",
       "urgentNote": "Soirée Ambassador",
-      "featured": false,
+      "featured": true,
       "juneteenth": false,
-      "calvinPerformance": true
+      "calvinPerformance": true,
+      "featureNote": "Soirée Ambassador"
     },
     {
       "id": "calvin-don-quixote-july3",
@@ -632,9 +635,10 @@
       "description": "Soirée Founding Ambassador Calvin Royal III dances Espada in Don Quixote at the Metropolitan Opera House.",
       "status": "upcoming",
       "urgentNote": "Soirée Ambassador",
-      "featured": false,
+      "featured": true,
       "juneteenth": false,
-      "calvinPerformance": true
+      "calvinPerformance": true,
+      "featureNote": "Soirée Ambassador"
     },
     {
       "id": "calvin-sylvia-july9",
@@ -650,9 +654,10 @@
       "description": "Soirée Founding Ambassador Calvin Royal III dances Aminta in Sylvia at the Metropolitan Opera House.",
       "status": "upcoming",
       "urgentNote": "Soirée Ambassador",
-      "featured": false,
+      "featured": true,
       "juneteenth": false,
-      "calvinPerformance": true
+      "calvinPerformance": true,
+      "featureNote": "Soirée Ambassador"
     },
     {
       "id": "calvin-swan-lake-july13",
