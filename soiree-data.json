@@ -3,12 +3,12 @@
     "week": "June 17, 2026",
     "updated": "2026-06-17",
     "eventCount": "35+",
-    "topStoryHeadline": "Obama Presidential Center Opens on Juneteenth with Major Black Artist Commissions",
-    "topStorySummary": "The Obama Presidential Center opens June 19 on Juneteenth in Chicago's Jackson Park. The 19.3-acre, $850 million campus is anchored by site-specific commissions from Theaster Gates, Njideka Akunyili Crosby (official Obama portraits), Rashid Johnson, Lorna Simpson, and Martin Puryear. The opening ceremony on June 18 featured The Roots and Stevie Wonder.",
+    "topStoryHeadline": "New Camerata Opera Stages the Chevalier de Saint-Georges' Only Surviving Opera",
+    "topStorySummary": "New Camerata Opera opened Joseph Bologne's L'amant anonyme on June 18 at Baruch Performing Arts Center — the only surviving opera by the 18th-century Black French composer, Chevalier de Saint-Georges. The production runs through June 21, set inside a 1960s television studio inspired by the era of Leontyne Price.",
     "executiveSummary": [
-      "The Obama Presidential Center opens June 19 on Juneteenth in Chicago — commissions from Theaster Gates, Njideka Akunyili Crosby, Rashid Johnson, and Lorna Simpson anchor a 19.3-acre campus, one of the largest public art commissions in decades.",
-      "The 79th Tony Awards produced a historic night for Black theatre: Ruben Santiago-Hudson won Best Featured Actor for Joe Turner's Come and Gone, Joshua Henry won Best Actor for Ragtime, and Qween Jean became the first openly transgender person to win a Tony Award for Cats: The Jellicle Ball.",
-      "The federal arts funding crisis is deepening — NEA anti-DEI restrictions under Executive Order 14398, combined with Challenge America cuts, are falling hardest on Black arts institutions, most of which operate without reserves or endowments."
+      "The most urgent story this week is already on stage: New Camerata Opera opened Joseph Bologne's L'amant anonyme on June 18 at Baruch Performing Arts Center — the only surviving opera by the 18th-century Black French composer, Chevalier de Saint-Georges. It runs through June 21.",
+      "On June 12, two stories landed simultaneously: the Smithsonian's NMAAHC opened Revelation: A Journey into Abstraction, a major exhibition of 41 works by 38 Black abstract artists drawn entirely from its permanent collection, and the Lambda Literary Awards were announced at Sony Hall, with the Pilate Dead Scholarship going to poet and filmmaker Ashunda Norris.",
+      "Earlier in June, Alvin Ailey American Dance Theater closed its first BAM season under Artistic Director Alicia Graf Mack with the return of Judith Jamison's Hymn after more than fifteen years. Looking ahead, the Met's 2026-27 season puts seven Black artists in major roles, with single tickets on sale this month."
     ]
   },
   "events": [
@@ -1152,6 +1152,14 @@
   ],
   "appointments": [
     {
+      "id": "qarrianne-blayr-dcdc",
+      "name": "Qarrianne Blayr",
+      "role": "Artistic Director, Dayton Contemporary Dance Company",
+      "category": "Dance · Leadership",
+      "url": "https://dancemagazine.com/dance-news-note-may-2026/",
+      "description": "Howard University BFA graduate, joined DCDC's first company in 2012 and served five years as associate artistic director. Succeeds Debbie Blunden-Diggs as DCDC enters its 58th season."
+    },
+    {
       "id": "kristie-patton-foster",
       "name": "Kristie Patton Foster",
       "role": "Executive Director, Dallas Black Dance Theatre",
@@ -1160,28 +1168,12 @@
       "description": "First executive director at DBDT following a significant labor dispute, succeeding Zenetta Drew after nearly 40 years. Company approaches its 50th season."
     },
     {
-      "id": "lisa-brown-ross",
-      "name": "Lisa Brown Ross",
-      "role": "President & CEO, African American Museum of Dallas",
-      "category": "Museums · Appointment",
-      "url": "https://www.keranews.org/arts-culture",
-      "description": "Effective July 21, 2026. Leadership at one of the country's dedicated African American museums."
-    },
-    {
-      "id": "lynda-roscoe-hartigan",
-      "name": "Lynda Roscoe Hartigan",
-      "role": "Director, Smithsonian American Art Museum",
-      "category": "Museums · Appointment",
-      "url": "https://www.artforum.com/news/lynda-roscoe-hartigan-to-lead-saa-1234748322/",
-      "description": "Takes the SAAM director role September 8, 2026. Previously developed SAAM's collection of American folk art and African American art."
-    },
-    {
-      "id": "alicia-graf-mack",
-      "name": "Alicia Graf Mack",
-      "role": "Artistic Director, Alvin Ailey American Dance Theater",
-      "category": "Dance · Leadership",
-      "url": "https://pressroom.alvinailey.org/alvin-ailey-american-dance-theater/directors/alicia-graf-mack-artistic-director",
-      "description": "Only the fourth person to hold this role in 67 years. The position is now endowed at $10 million."
+      "id": "rene-matic-deutsche-borse",
+      "name": "Rene Matić",
+      "role": "Winner, Deutsche Börse Photography Foundation Prize 2026",
+      "category": "Photography · Awards",
+      "url": "https://www.theartnewspaper.com/2026/05/14/rene-matic-wins-2026-deutsche-borse-photography-foundation-prize",
+      "description": "Black British photographer won the £30,000 prize for AS OPPOSED TO THE TRUTH at CCA Berlin — the first British winner in over a decade."
     },
     {
       "id": "camille-a-brown-dreamgirls",
@@ -1189,15 +1181,7 @@
       "role": "Director-Choreographer, Dreamgirls Broadway Revival",
       "category": "Theatre · Appointment",
       "url": "https://deadline.com/2025/09/dreamgirls-revival-broadway-1236544321/",
-      "description": "Five-time Tony nominee (Hell's Kitchen, for colored girls, Gypsy) leading the planned fall 2026 Dreamgirls revival."
-    },
-    {
-      "id": "koyo-kouoh",
-      "name": "Koyo Kouoh",
-      "role": "Curator, Venice Biennale 2026 (Posthumous)",
-      "category": "Visual Art · International",
-      "url": "https://www.labiennale.org/en/art/2026",
-      "description": "First African woman selected to curate the Venice Biennale. Her vision — 'In Minor Keys' — being realized by her team through November 2026."
+      "description": "Five-time Tony nominee leading the planned fall 2026 Dreamgirls revival, with a worldwide casting search underway for Deena, Lorell, and Effie."
     }
   ],
   "exhibitions": [
