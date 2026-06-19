@@ -676,6 +676,43 @@
   ],
   "news": [
     {
+      "id": "amy-sherald-american-sublime",
+      "title": "Amy Sherald's American Sublime Opens at the High Museum After Smithsonian Withdrawal",
+      "discipline": "Visual Art · Museum",
+      "category": "Visual Art · Institutional Policy",
+      "date": "May 15, 2026",
+      "url": "https://www.culturetype.com/2025/07/29/amy-sherald-withdrew-american-sublime-exhibition-from-smithsonian-national-portrait-gallery-citing-culture-of-censorship/",
+      "summary": "Amy Sherald withdrew her touring exhibition American Sublime from the Smithsonian's National Portrait Gallery, citing a culture of censorship after the institution raised concerns over her portrait of a Black trans woman posed as the Statue of Liberty. The show found its final stop instead at the High Museum of Art in Atlanta, where it opened May 15 and runs through September 27, after stops at SFMOMA, the Whitney, and the Baltimore Museum of Art.",
+      "detail": "",
+      "meta": [
+        "Visual Art · Policy",
+        "High Museum, Atlanta",
+        "Runs Through Sept 27"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-06-17"
+    },
+    {
+      "id": "qarrianne-blayr-dcdc",
+      "title": "Qarrianne Blayr Named Artistic Director of Dayton Contemporary Dance Company",
+      "discipline": "Dance · Leadership",
+      "category": "Dance · Appointment",
+      "date": "May 2026",
+      "url": "https://dancemagazine.com/dance-news-note-may-2026/",
+      "summary": "Qarrianne Blayr, a Howard University BFA graduate who joined DCDC's first company in 2012 and served five years as associate artistic director, has been named Artistic Director of Dayton Contemporary Dance Company, succeeding Debbie Blunden-Diggs. The company enters its 58th season.",
+      "detail": "",
+      "meta": [
+        "Dance · Leadership",
+        "DCDC · 58th Season"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-06-17"
+    },
+    {
       "id": "new-camerata-saint-georges",
       "title": "New Camerata Opera Stages the Chevalier de Saint-Georges' Only Surviving Opera",
       "discipline": "Opera",
