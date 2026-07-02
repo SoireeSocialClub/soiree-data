@@ -415,24 +415,269 @@
       "urgentNote": "",
       "featured": false,
       "juneteenth": false
+    },
+    {
+      "id": "joyce-ballet-festival-copeland",
+      "title": "Joyce Ballet Festival — Curated by Misty Copeland",
+      "discipline": "Ballet",
+      "venue": "The Joyce Theatre",
+      "address": "175 8th Ave, Chelsea",
+      "dates": "August 4–16, 2026",
+      "dateSort": "2026-08-04",
+      "price": "Ticketed",
+      "free": false,
+      "url": "https://www.joyce.org/performances/ballet-festival-rg17",
+      "description": "Misty Copeland — the first Black woman to become a principal dancer at ABT — curates a two-week ballet festival featuring Dance Theatre of Harlem, Complexions Contemporary Ballet, ABT, NYCB, Houston Ballet, and Paris Opera Ballet. A rare gathering of companies. Book ahead.",
+      "status": "upcoming",
+      "urgentNote": "Soirée Pick",
+      "featured": true,
+      "featureNote": "Soirée Pick",
+      "juneteenth": false
     }
   ],
   "news": [
     {
-      "id": "june-losses-ibrahim-simmons-bryson",
-      "title": "June's Three Losses: Abdullah Ibrahim, Danny Simmons, and Peabo Bryson",
-      "discipline": "Music · Visual Art · Arts Philanthropy",
-      "category": "In Memoriam",
-      "date": "June 2–15, 2026",
-      "url": "https://www.npr.org/2026/06/15/846195598/abdullah-ibrahim-south-africa-obituary",
-      "summary": "Three Black cultural figures died in the first two weeks of June. Peabo Bryson (June 2, age 75) — Grammy-winning R&B singer, the voice of 'Beauty and the Beast' and 'A Whole New World.' Danny Simmons (June 14, age 72) — abstract expressionist painter, co-founder of Rush Philanthropic Arts Foundation and Def Poetry Jam. Abdullah Ibrahim (June 15, age 91) — South African jazz pianist and composer, whose 'Mannenberg' became an anthem of the anti-apartheid movement.",
+      "id": "peabo-bryson-obituary",
+      "title": "Peabo Bryson, Grammy-Winning R&B Singer, Dies at 75",
+      "discipline": "Music · R&B",
+      "category": "In Memoriam · Music",
+      "date": "June 2, 2026",
+      "url": "https://www.billboard.com/music/music-news/peabo-bryson-death-singer-1236262804/",
+      "summary": "Robert 'Peabo' Bryson died June 2 in Marietta, Georgia, from complications of a stroke at 75. Grammy-winning R&B vocalist behind 'Beauty and the Beast' with Celine Dion and 'A Whole New World' with Regina Belle — two of the most recognizable voices in American popular music. A defining presence across five decades of Black R&B.",
       "detail": "",
       "meta": [
-        "In Memoriam",
-        "Peabo Bryson · Danny Simmons · Abdullah Ibrahim"
+        "In Memoriam · Music",
+        "June 2, 2026",
+        "Billboard"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-07-01"
+    },
+    {
+      "id": "danny-simmons-obituary",
+      "title": "Danny Simmons, Founder of Rush Arts and Co-Creator of Def Poetry Jam, Dies at 72",
+      "discipline": "Visual Art · Arts Philanthropy",
+      "category": "In Memoriam · Visual Art",
+      "date": "June 14, 2026",
+      "url": "https://www.inquirer.com/obituaries/danny-simmons-rush-arts-philadelphia-death-20260615.html",
+      "summary": "Abstract expressionist painter and arts organizer Danny Simmons died June 14 in Philadelphia at 72. Co-founder of Rush Philanthropic Arts Foundation with brothers Russell and Rev Run Simmons, giving artists of color access to exhibition and funding infrastructure. Co-creator of Def Poetry Jam on HBO. He built the systems that made access possible for a generation of Black artists.",
+      "detail": "",
+      "meta": [
+        "In Memoriam · Visual Art",
+        "June 14, 2026",
+        "Philadelphia Inquirer"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-07-01"
+    },
+    {
+      "id": "abdullah-ibrahim-obituary",
+      "title": "Abdullah Ibrahim, South African Jazz Pianist and Anti-Apartheid Composer, Dies at 91",
+      "discipline": "Jazz · Classical",
+      "category": "In Memoriam · Jazz",
+      "date": "June 15, 2026",
+      "url": "https://www.npr.org/2026/06/15/846195598/abdullah-ibrahim-south-africa-obituary",
+      "summary": "South African jazz pianist and composer Abdullah Ibrahim — born Adolph Johannes Brand, previously known as Dollar Brand — died June 15 in Germany at 91. His composition 'Mannenberg' became an anthem of the anti-apartheid movement. His final public performance was at the Cape Town International Jazz Festival in March 2026. One of the great piano voices of the 20th century and a political artist whose music carried the weight of South African history.",
+      "detail": "",
+      "meta": [
+        "In Memoriam · Jazz",
+        "June 15, 2026",
+        "NPR"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-07-01"
+    },
+    {
+      "id": "kennedy-center-wno-lawsuit",
+      "title": "Washington National Opera Sues Kennedy Center for $17M in Withheld Donor Funds",
+      "discipline": "Opera · Arts Policy",
+      "category": "Policy · Institutional Crisis",
+      "date": "June 12, 2026",
+      "url": "https://www.washingtonpost.com/style/2026/06/12/washington-national-opera-sues-force-kennedy-center-turn-over-17m-gifts/",
+      "summary": "The Washington National Opera filed a federal lawsuit seeking $17 million in withheld donor gifts and endowment funds from the Kennedy Center, after the two institutions ended a 15-year affiliation in January 2026. The Kennedy Center used a portion of WNO donor funds as collateral for a line of credit. A hollowed-out Kennedy Center means reduced national visibility for performing artists, fewer commissioning dollars, and fewer performance opportunities at a national stage.",
+      "detail": "",
+      "meta": [
+        "Policy · Institutional",
+        "$17M Lawsuit",
+        "Washington Post"
       ],
       "image": "",
       "featured": true,
+      "urgent": false,
+      "weekAdded": "2026-07-01"
+    },
+    {
+      "id": "kennedy-center-tarp-court-order",
+      "title": "Federal Court Orders Kennedy Center to Remove Trump Name — Workers Cover It with a Tarpaulin",
+      "discipline": "Arts Policy",
+      "category": "Policy · Federal",
+      "date": "June 24, 2026",
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5869578/kennedy-center-tarp",
+      "summary": "A federal court ordered the Kennedy Center to remove Trump's name from the building facade. Workers slow-walked the deadline and covered the signage with a tarpaulin. The Center's programming calendar shows almost no events. Artists have been canceling appearances, citing politicization. The Kennedy Center is functionally non-operational as a national performing arts institution.",
+      "detail": "",
+      "meta": [
+        "Policy · Federal",
+        "Court Order",
+        "NPR · June 24"
+      ],
+      "image": "",
+      "featured": true,
+      "urgent": false,
+      "weekAdded": "2026-07-01"
+    },
+    {
+      "id": "whos-afraid-successful-black-artists",
+      "title": "'Who's Afraid of Successful Black Artists?' — Hyperallergic on Four Concurrent Black Solo Shows at NYC's Top Museums",
+      "discipline": "Visual Art · Criticism",
+      "category": "Visual Art · Criticism",
+      "date": "Spring 2026",
+      "url": "https://hyperallergic.com/whos-afraid-of-successful-black-artists/",
+      "summary": "Hyperallergic examines four concurrent solo shows by Black artists — Amy Sherald at the Whitney, Rashid Johnson at the Guggenheim, Jack Whitten at MoMA, Lorna Simpson at the Met — all represented by Hauser & Wirth. The piece asks whether the critical establishment is equipped to engage with Black artistic success at this scale without collapsing it into identity. A structural critique, not a show review.",
+      "detail": "",
+      "meta": [
+        "Visual Art · Criticism",
+        "Hyperallergic",
+        "4 Concurrent Major Shows"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-07-01"
+    },
+    {
+      "id": "whitney-white-black-women-broadway",
+      "title": "Whitney White Honored at 5th Annual Black Women on Broadway Awards",
+      "discipline": "Theatre · Awards",
+      "category": "Theatre · Awards",
+      "date": "June 1, 2026",
+      "url": "https://www.broadwayworld.com/people/Whitney-White/",
+      "summary": "Whitney White — Tony-nominated director of Liberation, Obie Award winner for Sustained Achievement in Directing — was honored at the 5th Annual Black Women on Broadway Awards. White is one of the most important Black women directing on and Off-Broadway right now, and a genuine contender to break the Tony barrier for Best Direction of a Play.",
+      "detail": "",
+      "meta": [
+        "Theatre · Awards",
+        "Black Women on Broadway",
+        "June 1, 2026"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-07-01"
+    },
+    {
+      "id": "maren-hassinger-retrospective",
+      "title": "The Largest Retrospective of Maren Hassinger's Work Opens at BAMPFA",
+      "discipline": "Visual Art · Sculpture",
+      "category": "Visual Art · Exhibition",
+      "date": "June 6, 2026",
+      "url": "http://news.berkeley.edu/2026/06/23/the-transformative-art-of-maren-hassinger-comes-to-berkeley/",
+      "summary": "'Living Moving Growing' at BAMPFA, which opened June 6 and runs through November 29, is the largest survey of Maren Hassinger's work to date. The Black sculptor and performance artist works across sculpture, installation, video, and public performance. A comprehensive reassessment at a major museum signals where critical and market attention may move.",
+      "detail": "",
+      "meta": [
+        "Visual Art · Sculpture",
+        "BAMPFA",
+        "Through November 29"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-07-01"
+    },
+    {
+      "id": "aleshea-harris-playwrights-horizons",
+      "title": "Aleshea Harris and Christina Anderson Announced in Playwrights Horizons 2026-27 Season",
+      "discipline": "Theatre · Literature",
+      "category": "Theatre · Season Announcement",
+      "date": "May 28, 2026",
+      "url": "https://playbill.com/article/playwrights-horizons-will-stage-world-premieres-from-aleshea-harris-else-went-kate-atwell-more-in-2026-2027-season",
+      "summary": "Playwrights Horizons announced two Black playwrights in its 2026-27 season: Aleshea Harris ('Feast of Rabbits,' directed by Harris herself) and Christina Anderson ('the ripple, the wave that carried me home,' directed by Tiffany Nichole Greene). Both are among the most significant Black playwrights working in American theatre. Know these names before the productions open.",
+      "detail": "",
+      "meta": [
+        "Theatre · Upcoming",
+        "Playwrights Horizons",
+        "Fall 2026–Spring 2027"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-07-01"
+    },
+    {
+      "id": "jeremy-nedd-lincoln-center",
+      "title": "Choreographer Jeremy Nedd on Viral Dance and Concert Performance at Lincoln Center",
+      "discipline": "Dance · Choreography",
+      "category": "Dance · Black Artist",
+      "date": "June 18, 2026",
+      "url": "https://amsterdamnews.com/news/2026/06/18/choreographer-jeremy-nedd-explores-viral-dance-at-lincoln-center/",
+      "summary": "Black choreographer Jeremy Nedd, profiled in the Amsterdam News, is exploring the relationship between viral internet dance and concert dance at Lincoln Center — taking vernacular digital culture seriously as choreographic material at a major institution. A smart, timely conversation about where Black movement culture is going.",
+      "detail": "",
+      "meta": [
+        "Dance · Choreography",
+        "Amsterdam News",
+        "Lincoln Center"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-07-01"
+    },
+    {
+      "id": "mapplethorpe-black-artists-identity",
+      "title": "Black Artists on Identity, Representation, and Mapplethorpe's Legacy",
+      "discipline": "Visual Art · Criticism",
+      "category": "Visual Art · Criticism",
+      "date": "June 25, 2026",
+      "url": "https://amsterdamnews.com/news/2026/06/25/black-artists-on-identity-representation-and-mapplethorpe-legacy/",
+      "summary": "The Amsterdam News gives Black artists a platform to speak directly to questions of identity, representation, and the ongoing conversation around Robert Mapplethorpe's legacy and his photographing of Black men. The Mapplethorpe conversation remains unresolved — Black artists articulating their own relationship to this history is significant and worth following.",
+      "detail": "",
+      "meta": [
+        "Visual Art · Criticism",
+        "Amsterdam News · June 25"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-07-01"
+    },
+    {
+      "id": "save-harlem-now",
+      "title": "Save Harlem Now! Is Keeping Historic Black Cultural Preservation Relevant",
+      "discipline": "Cultural Preservation · Policy",
+      "category": "Policy · Cultural Infrastructure",
+      "date": "June 11, 2026",
+      "url": "https://amsterdamnews.com/news/2026/06/11/save-harlem-now-is-keeping-historic-preservation-relevant/",
+      "summary": "Save Harlem Now!, the historic preservation organization working to protect Harlem's cultural landmarks from development, is covered in the Amsterdam News. Black cultural geography — the physical spaces where Black arts happened — is under active threat. Preservation is arts infrastructure, and this organization is doing real work on the ground.",
+      "detail": "",
+      "meta": [
+        "Policy · Cultural Infrastructure",
+        "Amsterdam News · June 11"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-07-01"
+    },
+    {
+      "id": "jazmine-saunders-braimah-classic-fm",
+      "title": "Soprano Jazmine Saunders and Violinist Braimah Kanneh-Mason Named Classic FM Rising Stars 2026",
+      "discipline": "Classical Music",
+      "category": "Classical Music · Awards",
+      "date": "2026",
+      "url": "https://www.classicfm.com/music-news/rising-stars-2026/",
+      "summary": "Classic FM's 2026 Rising Stars list includes Black soprano Jazmine Saunders — currently in the Metropolitan Opera's Lindemann Young Artist Program and performing Clara in Porgy and Bess — and British violinist Braimah Kanneh-Mason. Two young Black classical musicians gaining high-profile European institutional recognition.",
+      "detail": "",
+      "meta": [
+        "Classical Music",
+        "Classic FM Rising Stars",
+        "Met Opera · Lindemann Program"
+      ],
+      "image": "",
+      "featured": false,
       "urgent": false,
       "weekAdded": "2026-07-01"
     },
@@ -451,7 +696,7 @@
         "Ballroom at Radio City"
       ],
       "image": "",
-      "featured": true,
+      "featured": false,
       "urgent": false,
       "weekAdded": "2026-07-01"
     },
@@ -470,7 +715,7 @@
         "Culture Type"
       ],
       "image": "",
-      "featured": true,
+      "featured": false,
       "urgent": false,
       "weekAdded": "2026-07-01"
     },
