@@ -2,7 +2,7 @@
   "meta": {
     "week": "July 17, 2026",
     "updated": "2026-07-17",
-    "eventCount": "50+",
+    "eventCount": "50",
     "topStoryHeadline": "Historic Appointment: Makeda Best Named MoMA's First Black Chief Curator of Photography",
     "topStorySummary": "Makeda Best, formerly deputy director of curatorial affairs at the Oakland Museum of California, becomes MoMA's Ehrenkranz Chief Curator of Photography starting September — the first Black person and first permanent woman to lead that department. The appointment lands the same week Oluremi C. Onabanjo announced her departure from MoMA's photography department to join the Metropolitan Museum of Art.",
     "executiveSummary": [
@@ -155,24 +155,6 @@
       "juneteenth": false
     },
     {
-      "id": "jalco-black-brown-beige",
-      "title": "Duke Ellington's Black, Brown and Beige — Jazz at Lincoln Center Orchestra",
-      "discipline": "Jazz",
-      "venue": "Rose Theater, Jazz at Lincoln Center",
-      "address": "Broadway at 60th St, Time Warner Center",
-      "dates": "July 23–24 · 7:30 PM · Pay-what-you-choose from $20",
-      "dateSort": "2026-07-23",
-      "price": "Pay-what-you-choose from $20",
-      "free": false,
-      "url": "https://ticketing.jazz.org/20564/",
-      "description": "The Jazz at Lincoln Center Orchestra opens its 39th season with Ellington's 1943 masterwork — a three-movement suite Ellington described as 'a tone parallel to the history of the Negro in America.' With vocalist Ekep Nkwelle and violinist Eli Bishop as special guests. Student big bands from the Summer Jazz Academy open both nights. One of the most significant jazz programs in New York this summer.",
-      "status": "upcoming",
-      "urgentNote": "Soirée Pick",
-      "featured": true,
-      "featureNote": "Soirée Pick",
-      "juneteenth": false
-    },
-    {
       "id": "voice-of-miles-davis-summerstage",
       "title": "The Voice of Miles Davis: A Symphonic Centennial",
       "discipline": "Jazz",
@@ -272,24 +254,6 @@
       "description": "Three-time Grammy Award-winning soprano Latonia Moore performs a celebration of Ella Fitzgerald with New York City Opera. Free outdoor concert in Bryant Park — a major Black soprano singing the music of a Black jazz legend.",
       "status": "upcoming",
       "urgentNote": "Free · Soirée Pick",
-      "featured": true,
-      "featureNote": "Soirée Pick",
-      "juneteenth": false
-    },
-    {
-      "id": "cindy-blackman-santana-bric",
-      "title": "Jazz at the Bandshell: Cindy Blackman Santana Group",
-      "discipline": "Jazz",
-      "venue": "BRIC Celebrate Brooklyn! — Lena Horne Bandshell",
-      "address": "Prospect Park, Brooklyn",
-      "dates": "Fri, July 24 · 6:00 PM",
-      "dateSort": "2026-07-24",
-      "price": "Free",
-      "free": true,
-      "url": "https://bricartsmedia.org/event/jazz-at-the-bandshell/",
-      "description": "Celebrated Black jazz drummer and composer Cindy Blackman Santana headlines an all-women jazz lineup at the bandshell named for Lena Horne, with Patricia Brennan Septet and Lucía.",
-      "status": "upcoming",
-      "urgentNote": "Free · All-Women Jazz",
       "featured": true,
       "featureNote": "Soirée Pick",
       "juneteenth": false
@@ -431,41 +395,6 @@
       "status": "upcoming",
       "urgentNote": "Free · Governors Island",
       "featured": false,
-      "juneteenth": false
-    },
-    {
-      "id": "sisters-uptown-spoken-word",
-      "title": "Sisters Uptown Bookstore: Third Thursday Spoken Word and Music",
-      "discipline": "Literature",
-      "venue": "Sisters Uptown Bookstore and Cultural Center",
-      "address": "1942 Amsterdam Ave, Washington Heights",
-      "dates": "Thu, July 17 · Evening (recurring monthly)",
-      "dateSort": "2026-07-17",
-      "price": "$7 suggested donation",
-      "free": false,
-      "url": "https://www.sistersuptownbookstore.com/",
-      "description": "Monthly open mic at one of the last Black woman-owned cultural bookstores in NYC, in its 25th year. No list, no features — live literary community rooted in Harlem/Washington Heights.",
-      "status": "upcoming",
-      "urgentNote": "Small room — arrive early",
-      "featured": false,
-      "juneteenth": false
-    },
-    {
-      "id": "colson-whitehead-cool-machine",
-      "title": "Colson Whitehead Presents 'Cool Machine'",
-      "discipline": "Literature",
-      "venue": "McNally Jackson — BKLYN STUDIOS",
-      "address": "1 Dekalb Ave, Downtown Brooklyn",
-      "dates": "Tue, July 21",
-      "dateSort": "2026-07-21",
-      "price": "Check venue — likely RSVP",
-      "free": false,
-      "url": "https://mcnallyjackson.com/event/2026-07-21/colson-whitehead",
-      "description": "Two-time Pulitzer Prize winner Colson Whitehead presents Cool Machine, the final volume of his Harlem Trilogy. One of the most in-demand literary events of the summer.",
-      "status": "upcoming",
-      "urgentNote": "Soirée Pick · RSVP Fast",
-      "featured": true,
-      "featureNote": "Soirée Pick",
       "juneteenth": false
     },
     {
@@ -693,23 +622,6 @@
       "urgentNote": "Free · All-Women Jazz Bill",
       "featured": true,
       "featureNote": "Soirée Pick",
-      "juneteenth": false
-    },
-    {
-      "id": "greg-tate-mocada",
-      "title": "New Eyes on Greg Tate: Flyboy in the Buttermilk Revisited",
-      "discipline": "Literature",
-      "venue": "MoCADA",
-      "address": "10 Lafayette Ave, Fort Greene, Brooklyn",
-      "dates": "Sat, July 25 · 1:00–5:00 PM",
-      "dateSort": "2026-07-25",
-      "price": "Free — ticket required",
-      "free": true,
-      "url": "http://mocada.org/events/new-eyes-on-greg-tate-flyboy-in-the-buttermilk-revisited/",
-      "description": "Deep-dive discussion on Greg Tate's landmark essays on Black cultural criticism, presented by the New Eyes Collective at Brooklyn's African diaspora-focused museum.",
-      "status": "upcoming",
-      "urgentNote": "Free",
-      "featured": false,
       "juneteenth": false
     },
     {
@@ -955,24 +867,6 @@
       "juneteenth": false
     },
     {
-      "id": "mavis-staples-summerstage",
-      "title": "Mavis Staples / Brother Wallace — Central Park SummerStage",
-      "discipline": "Music",
-      "venue": "Central Park SummerStage — Rumsey Playfield",
-      "address": "East 71st St & East Drive, Central Park",
-      "dates": "Thu, July 16 · 6:00–10:00 PM",
-      "dateSort": "2026-07-17",
-      "price": "Free — RSVP required",
-      "free": true,
-      "url": "https://cityparksfoundation.org/events/mavis-staples/",
-      "description": "Rock and Roll Hall of Famer Mavis Staples — voice of the civil rights movement — performs free in Central Park. Presented with the Apollo Theater.",
-      "status": "upcoming",
-      "urgentNote": "Free · Apollo Presentation",
-      "featured": true,
-      "featureNote": "Soirée Pick",
-      "juneteenth": false
-    },
-    {
       "id": "greg-tate-mocada-talk",
       "title": "New Eyes on Greg Tate: Flyboy in the Buttermilk Revisited",
       "discipline": "Literature",
@@ -1099,25 +993,6 @@
         "Dance · Black Arts Leadership",
         "Alvin Ailey · BAAND Together",
         "Lincoln Center July 28–Aug 1"
-      ],
-      "image": "",
-      "featured": false,
-      "urgent": false,
-      "weekAdded": "2026-07-17"
-    },
-    {
-      "id": "apollo-opera-philadelphia-partnership",
-      "title": "Apollo Theater and Opera Philadelphia Announce Five-Year Partnership to Commission New Operas by Black Artists",
-      "discipline": "Opera · Classical Music",
-      "category": "Opera · Institutional Partnership",
-      "date": "2026",
-      "url": "https://www.aol.com/news/apollo-theater-opera-philadelphia-partner-151629607.html",
-      "summary": "The Apollo Theater and Opera Philadelphia announced a new five-year partnership to commission and develop new operas by Black artists — building on their prior collaborations on Charlie Parker's Yardbird (2016) and We Shall Not Be Moved (2017). A sustained institutional commitment to Black-authored new opera from one of New York's most historically significant Black cultural institutions.",
-      "detail": "",
-      "meta": [
-        "Opera · Institutional Partnership",
-        "Apollo Theater + Opera Philadelphia",
-        "5-Year Commissioning Commitment"
       ],
       "image": "",
       "featured": false,
@@ -1596,25 +1471,6 @@
       "weekAdded": "2026-07-01"
     },
     {
-      "id": "kennedy-center-wno-lawsuit",
-      "title": "Washington National Opera Sues Kennedy Center for $17M in Withheld Donor Funds",
-      "discipline": "Opera · Arts Policy",
-      "category": "Policy · Institutional Crisis",
-      "date": "June 12, 2026",
-      "url": "https://www.washingtonpost.com/style/2026/06/12/washington-national-opera-sues-force-kennedy-center-turn-over-17m-gifts/",
-      "summary": "The Washington National Opera filed a federal lawsuit seeking $17 million in withheld donor gifts and endowment funds from the Kennedy Center, after the two institutions ended a 15-year affiliation in January 2026. The Kennedy Center used a portion of WNO donor funds as collateral for a line of credit. A hollowed-out Kennedy Center means reduced national visibility for performing artists, fewer commissioning dollars, and fewer performance opportunities at a national stage.",
-      "detail": "",
-      "meta": [
-        "Policy · Institutional",
-        "$17M Lawsuit",
-        "Washington Post"
-      ],
-      "image": "",
-      "featured": false,
-      "urgent": false,
-      "weekAdded": "2026-07-01"
-    },
-    {
       "id": "kennedy-center-tarp-court-order",
       "title": "Federal Court Orders Kennedy Center to Remove Trump Name — Workers Cover It with a Tarpaulin",
       "discipline": "Arts Policy",
@@ -1969,25 +1825,6 @@
       "weekAdded": "earlier"
     },
     {
-      "id": "new-camerata-saint-georges",
-      "title": "New Camerata Opera Stages the Chevalier de Saint-Georges' Only Surviving Opera",
-      "discipline": "Opera",
-      "category": "Opera · Black Composer Revival",
-      "date": "June 18–21, 2026",
-      "url": "https://www.newcamerataopera.org/lamant-anonyme",
-      "summary": "New Camerata Opera brings L'amant anonyme — the only surviving opera by 18th-century Black French composer Joseph Bologne, Chevalier de Saint-Georges — to the Rose Nagelberg Theatre at Baruch Performing Arts Center. The new production is set in a 1960s television studio, inspired by the era of Leontyne Price. Music direction by Kelly Lam, direction by Brandon Shaw McKnight. Funded in part by Opera America's 2026 NYC opera grants.",
-      "detail": "",
-      "meta": [
-        "Opera · Black Composer",
-        "Baruch PAC · June 18–21",
-        "Only Surviving Work"
-      ],
-      "image": "",
-      "featured": false,
-      "urgent": true,
-      "weekAdded": "earlier"
-    },
-    {
       "id": "nmaahc-revelation-abstraction",
       "title": "NMAAHC Opens Revelation: A Journey into Abstraction",
       "discipline": "Visual Art · Museum",
@@ -2023,78 +1860,6 @@
       "image": "",
       "featured": false,
       "urgent": false,
-      "weekAdded": "earlier"
-    },
-    {
-      "id": "ailey-bam-hymn-revival",
-      "title": "Alvin Ailey at BAM: Hymn Returns After Fifteen Years Under Alicia Graf Mack",
-      "discipline": "Dance",
-      "category": "Dance · Institution",
-      "date": "June 4–7, 2026",
-      "url": "https://ailey.org/series/ailey-bam",
-      "summary": "Alvin Ailey American Dance Theater's first BAM engagement under new Artistic Director Alicia Graf Mack featured the revival of Judith Jamison's Hymn, her Emmy-winning 1993 tribute to Ailey, performed for the first time in over fifteen years. Opening night included a free roundtable with members of the original cast.",
-      "detail": "",
-      "meta": [
-        "Dance · Institution",
-        "BAM · First Season Under Graf Mack"
-      ],
-      "image": "",
-      "featured": false,
-      "urgent": false,
-      "weekAdded": "earlier"
-    },
-    {
-      "id": "angel-blue-rangwanasha-turandot",
-      "title": "Angel Blue and Masabane Cecilia Rangwanasha Featured in Met Opera's Turandot",
-      "discipline": "Opera",
-      "category": "Opera · Performance",
-      "date": "May 19 – June 4, 2026",
-      "url": "https://operawire.com/anna-pirozzi-angela-meade-masabane-cecilia-rangwanasha-angel-blue-roberto-alagna-lead-metropolitan-operas-turandot-revival/",
-      "summary": "Angel Blue performed as Liù across five performances of the Met's Turandot revival. South African soprano Masabane Cecilia Rangwanasha also featured as an alternate Turandot — two Black sopranos in the same major production, conducted by Oksana Lyniv.",
-      "detail": "",
-      "meta": [
-        "Opera · Performance",
-        "Met Opera"
-      ],
-      "image": "",
-      "featured": false,
-      "urgent": false,
-      "weekAdded": "earlier"
-    },
-    {
-      "id": "lawrence-brownlee-paris-opera",
-      "title": "Lawrence Brownlee Stars in La Cenerentola at the Paris Opera",
-      "discipline": "Opera",
-      "category": "Opera · International",
-      "date": "June 3 – July 11, 2026",
-      "url": "https://www.operadeparis.fr/en/artists/lawrence-brownlee",
-      "summary": "Leading Black American bel canto tenor Lawrence Brownlee performs in Rossini's La Cenerentola at the Opéra National de Paris through July 11. Also announced for the Newport Classical Music Festival alongside the release of his debut album Golden Age with soprano Erin Morley.",
-      "detail": "",
-      "meta": [
-        "Opera · International",
-        "Paris Opera"
-      ],
-      "image": "",
-      "featured": false,
-      "urgent": false,
-      "weekAdded": "earlier"
-    },
-    {
-      "id": "lights-out-nat-king-cole",
-      "title": "Lights Out: Nat 'King' Cole at New York Theatre Workshop, Closing June 29",
-      "discipline": "Theatre",
-      "category": "Theatre · Off-Broadway",
-      "date": "Opened May 20, 2026 — closes June 29",
-      "url": "https://www.nytw.org/show/lights-out-nat-king-cole/",
-      "summary": "Colman Domingo and Patricia McGregor's new play about the final night of Nat King Cole's television variety show, starring Dulé Hill as Cole and Daniel J. Watts as Sammy Davis Jr. Reviews have called Dulé Hill's performance unforgettable. Closes June 29.",
-      "detail": "",
-      "meta": [
-        "Theatre · Off-Broadway",
-        "NYTW · Closes June 29"
-      ],
-      "image": "",
-      "featured": false,
-      "urgent": true,
       "weekAdded": "earlier"
     },
     {
@@ -2664,10 +2429,10 @@
     }
   ],
   "urgencyItems": [
-    "Obama Presidential Center Opens — June 19 on Juneteenth",
-    "La Cage aux Folles — Closing June 28",
-    "Juneteenth Week — 7 events June 18–19",
-    "Romeo and Juliet — Free Shakespeare, Closes June 28",
-    "MoMA Ideas of Africa — Closes July 25"
+    "MoMA Ideas of Africa — Closes July 25",
+    "Othello — Classical Theatre of Harlem, Closes July 26",
+    "Joe Turner's Come and Gone — Broadway, Closes July 26",
+    "BAAND Together Dance Festival — Opens July 28",
+    "A Nation's Jubilee — Long Gallery Harlem, Closes July 31"
   ]
 }
