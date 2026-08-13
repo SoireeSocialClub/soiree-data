@@ -3,15 +3,13 @@
     "week": "August 12, 2026",
     "updated": "2026-08-12",
     "eventCount": "70",
-    "topStoryHeadline": "Dance Theatre of Harlem Galvanizes Arts Community with Inaugural Artistic Council",
-    "topStorySummary": "Dance Theatre of Harlem announced its first-ever Artistic Council, bringing together cross-disciplinary Black cultural figures including Derrick Adams, Sanford Biggers, Virginia Johnson, Fatima Robinson, Marcus Samuelsson, and Mickalene Thomas to help shape the company's creative vision.",
+    "topStoryHeadline": "Dance Theatre of Harlem Names Inaugural Artistic Council",
+    "topStorySummary": "Dance Theatre of Harlem announced its first-ever Artistic Council, bringing together Derrick Adams, Sanford Biggers, Virginia Johnson, Fatima Robinson, Marcus Samuelsson, Mickalene Thomas, and other Black cultural figures to help shape the company's creative vision.",
     "executiveSummary": [
-      "Dance Theatre of Harlem announced its first-ever Artistic Council, a major governance and vision story for one of the country's most important Black dance institutions.",
-      "The full August industry news list remains intact with 71 articles; only five Top Industry Stories are marked as featured for the photo/card area.",
-      "The August 11 Radar carries 70 verified events for August 11–September 11, 2026, including ongoing exhibitions and select plan-ahead picks just beyond the window."
-    ],
-    "newsCount": "71",
-    "featuredNewsCount": "5"
+      "Dance Theatre of Harlem announced its inaugural Artistic Council, a cross-disciplinary group of Black cultural leaders joining the company at a major moment for its next chapter.",
+      "The Smithsonian remains under pressure after a proposed federal budget cut, recent exhibit-review demands, and temporary building closures, making cultural policy one of the most important arts stories to watch this month.",
+      "This week in New York: Harlem Week programming, Studio Museum exhibitions, and several free or low-cost Harlem and Brooklyn events anchor the August calendar, with Dance Theatre of Harlem, Charlie Parker Jazz Festival, and Brooklyn Caribbean Literary Festival ahead."
+    ]
   },
   "events": [
     {
@@ -1226,7 +1224,7 @@
         "Share"
       ],
       "image": "",
-      "featured": true,
+      "featured": false,
       "urgent": false,
       "weekAdded": "2026-08-12"
     },
@@ -1245,7 +1243,7 @@
         "Monitor"
       ],
       "image": "",
-      "featured": true,
+      "featured": false,
       "urgent": false,
       "weekAdded": "2026-08-12"
     },
@@ -1264,7 +1262,7 @@
         "Share"
       ],
       "image": "",
-      "featured": true,
+      "featured": false,
       "urgent": false,
       "weekAdded": "2026-08-12"
     },
@@ -1283,7 +1281,7 @@
         "Share"
       ],
       "image": "",
-      "featured": true,
+      "featured": false,
       "urgent": false,
       "weekAdded": "2026-08-12"
     },
@@ -1302,7 +1300,7 @@
         "Share"
       ],
       "image": "",
-      "featured": true,
+      "featured": false,
       "urgent": false,
       "weekAdded": "2026-08-12"
     },
@@ -2876,10 +2874,10 @@
     }
   ],
   "urgencyItems": [
-    "Under A Plantain Tree: Notes on Liberation — Through Aug 14, 2026",
-    "Harlem Summer Nights — Fri, Aug 14, 2026, doors 5pm / show 10pm · Free",
-    "Teen Takeover: We Outsideee — Fri, Aug 14, 2026, doors 6pm · Free (RSVP)",
-    "Harlem Week (Apollo programming) — Aug 15–16, 2026, 12–6pm · Free",
-    "From Now: A Collection in Context — Through Aug 16, 2026"
+    "From Now: A Collection in Context — Closes August 16",
+    "Under A Plantain Tree: Notes on Liberation — Closes August 14",
+    "Harlem Week and Apollo programming — August 14–16",
+    "Whitney Biennial 2026 installation by Precious Okoyomon — Closing soon",
+    "Dance Theatre of Harlem at Lehman Center — August 29"
   ]
 }
