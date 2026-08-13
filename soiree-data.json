@@ -4,12 +4,14 @@
     "updated": "2026-08-12",
     "eventCount": "70",
     "topStoryHeadline": "Dance Theatre of Harlem Galvanizes Arts Community with Inaugural Artistic Council",
-    "topStorySummary": "DTH announces its first-ever Artistic Council, a cross-disciplinary group of Black cultural figures assembled to help shape the company's vision.",
+    "topStorySummary": "Dance Theatre of Harlem announced its first-ever Artistic Council, bringing together cross-disciplinary Black cultural figures including Derrick Adams, Sanford Biggers, Virginia Johnson, Fatima Robinson, Marcus Samuelsson, and Mickalene Thomas to help shape the company's creative vision.",
     "executiveSummary": [
-      "The past 30 days were defined by an escalating federal pressure campaign on the Smithsonian (warning signage, a proposed ~11% budget cut, and a cooling-system failure that shuttered seven buildings including the National Museum of African Art), continued mourning and institutional recognition of Betye Saar following her July 26 death at 99, and a wave of Black leadership stories running in both directions: Hana Sharif's departure from Arena Stage reopened field-wide questions about retention of Black artistic directors, while Dance Theatre of Harlem closed the window by naming an inaugural Artistic Council stacked with major Black cultural figures. NYC's own funding and institutional landscape saw a contested $35 million capital grant to the Museum of Chinese in America tied to the borough-based jail project, alongside a quieter but steady stream of NYSCA/NYFA individual-artist grants. A developing publishing controversy, novelist Jerry Falade losing a $2 million deal over contested AI-authorship accusations, surfaced fresh questions about how unproven detection claims disproportionately target Black authors.",
-      "The August 11 Radar carries 70 verified events for August 11 – September 11, 2026, including ongoing exhibitions and select plan-ahead picks just beyond the window.",
-      "Top member-facing picks this cycle include Dreams of This Future at the Studio Museum, America, Who Hurt You?, Dindga McCannon at Fridman Gallery, Marlon James with the Brooklyn Caribbean Literary Festival, and Parlor Jazz at Marjorie Eliot's."
-    ]
+      "Dance Theatre of Harlem announced its first-ever Artistic Council, a major governance and vision story for one of the country's most important Black dance institutions.",
+      "The full August industry news list remains intact with 71 articles; only five Top Industry Stories are marked as featured for the photo/card area.",
+      "The August 11 Radar carries 70 verified events for August 11–September 11, 2026, including ongoing exhibitions and select plan-ahead picks just beyond the window."
+    ],
+    "newsCount": "71",
+    "featuredNewsCount": "5"
   },
   "events": [
     {
@@ -1210,6 +1212,101 @@
   ],
   "news": [
     {
+      "id": "dance-theatre-of-harlem-galvanizes-arts-community-with-inaugural-artis",
+      "title": "Dance Theatre of Harlem Galvanizes Arts Community with Inaugural Artistic Council",
+      "discipline": "Dance",
+      "category": "Dance · Awards and Appointments",
+      "date": "Aug 12, 2026",
+      "url": "https://www.morningstar.com/news/pr-newswire/20260812ph24062/dance-theatre-of-harlem-galvanizes-arts-community-with-inaugural-artistic-council",
+      "summary": "DTH announces its first-ever Artistic Council, a cross-disciplinary group of Black cultural figures assembled to help shape the company's vision.",
+      "detail": "A major historically Black dance institution formally expanding its creative brain trust beyond dance. Governance/vision story with several boldface Black cultural names, timed to today's briefing.",
+      "meta": [
+        "PR Newswire (via Morningstar)",
+        "Dance Theatre of Harlem; Derrick Adams; Sanford Biggers; Virginia Johnson; Fatima Robinson; Marcus Samuelsson; Mickalene Thomas",
+        "Share"
+      ],
+      "image": "",
+      "featured": true,
+      "urgent": false,
+      "weekAdded": "2026-08-12"
+    },
+    {
+      "id": "black-author-vows-to-fight-back-after-he-loses-2-million-publishing-de",
+      "title": "Black author vows to fight back after he loses $2 million publishing deal due to AI accusations",
+      "discipline": "Literature",
+      "category": "Literature / Publishing · Major Industry",
+      "date": "Aug 4, 2026",
+      "url": "https://thegrio.com/2026/08/04/jerry-falade-call-me-ill-hide-the-body-deal-pulled/",
+      "summary": "Debut novelist Falade lost a $2M+ deal after his own agents raised unproven AI-authorship concerns; he says the scrutiny disproportionately targets Black authors.",
+      "detail": "Raises industry-wide questions about AI-detection claims being wielded against writers along racial lines. High-stakes, developing story directly relevant to Black author members.",
+      "meta": [
+        "theGrio",
+        "Jerry Falade; Minotaur/Macmillan; Marc Gerald",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": true,
+      "urgent": false,
+      "weekAdded": "2026-08-12"
+    },
+    {
+      "id": "trump-proposes-lowest-smithsonian-budget-in-years",
+      "title": "Trump Proposes Lowest Smithsonian Budget in Years",
+      "discipline": "Museums",
+      "category": "Museums / Federal Budget · Funding and Policy",
+      "date": "Aug 4, 2026",
+      "url": "https://hyperallergic.com/trump-proposes-lowest-smithsonian-budget-in-years/",
+      "summary": "The White House proposed a FY2027 Smithsonian budget of $961.3M, an ~11% cut, with a projected 6% staff reduction.",
+      "detail": "A major cut to the country's largest museum system, part of an ongoing pressure campaign. New, material development in the Smithsonian funding fight beyond the already-shared signage story; NMAAHC is among the 21 museums affected.",
+      "meta": [
+        "Hyperallergic",
+        "Smithsonian Institution",
+        "Share"
+      ],
+      "image": "",
+      "featured": true,
+      "urgent": false,
+      "weekAdded": "2026-08-12"
+    },
+    {
+      "id": "international-black-theatre-fest-is-feast-of-theater-community-and-rej",
+      "title": "International Black Theatre Fest is feast of theater, community, and rejuvenation of the soul",
+      "discipline": "Theatre",
+      "category": "Theatre · Black Artist-Focused",
+      "date": "Aug 6, 2026",
+      "url": "https://amsterdamnews.com/news/2026/08/06/international-black-theatre-fest-is-feast-of-theater-community-and-rejuvenation-of-the-soul/",
+      "summary": "Festival wrap: 100+ productions from 16 companies; Phylicia Rashad received the Sidney Poitier Lifetime Achievement Award.",
+      "detail": "Confirms scale and marketplace function of the festival for touring/commissioning Black theatre companies. Companion wrap-up to the preview story; strong Share candidate on its own.",
+      "meta": [
+        "New York Amsterdam News",
+        "NC Black Rep; New Federal Theatre; Crossroads Theatre; Phylicia Rashad",
+        "Share"
+      ],
+      "image": "",
+      "featured": true,
+      "urgent": false,
+      "weekAdded": "2026-08-12"
+    },
+    {
+      "id": "hana-sharif-leaves-arena-leaving-questions-for-the-field",
+      "title": "Hana Sharif Leaves Arena, Leaving Questions for the Field",
+      "discipline": "Theatre",
+      "category": "Theatre / Leadership · Awards and Appointments",
+      "date": "Jul 14, 2026",
+      "url": "https://www.americantheatre.org/2026/07/14/hana-sharif-leaves-arena-leaving-questions-for-the-field/",
+      "summary": "Sharif resigned as Arena Stage's first Black artistic director after three years, citing board disagreements; the piece frames it within a pattern of Black leaders departing major institutions.",
+      "detail": "Major leadership-equity story with field-wide implications for retention of leaders of color. Central to Soirée's tracking of Black leadership pipelines and the barriers leaders face once inside.",
+      "meta": [
+        "American Theatre",
+        "Hana S. Sharif; Arena Stage; Edgar Dobie (interim)",
+        "Share"
+      ],
+      "image": "",
+      "featured": true,
+      "urgent": false,
+      "weekAdded": "2026-08-12"
+    },
+    {
       "id": "culture-talk-studio-museum-curator-connie-h-choi-on-artistactivist-tom",
       "title": "Culture Talk: Studio Museum Curator Connie H. Choi on Artist/Activist Tom Lloyd and His Illuminating Light Works",
       "discipline": "Visual Art",
@@ -1224,8 +1321,8 @@
         "Share"
       ],
       "image": "",
-      "featured": true,
-      "urgent": true,
+      "featured": false,
+      "urgent": false,
       "weekAdded": "2026-08-12"
     },
     {
@@ -1282,25 +1379,6 @@
       ],
       "image": "",
       "featured": false,
-      "urgent": false,
-      "weekAdded": "2026-08-12"
-    },
-    {
-      "id": "black-author-vows-to-fight-back-after-he-loses-2-million-publishing-de",
-      "title": "Black author vows to fight back after he loses $2 million publishing deal due to AI accusations",
-      "discipline": "Literature",
-      "category": "Literature / Publishing · Major Industry",
-      "date": "Aug 4, 2026",
-      "url": "https://thegrio.com/2026/08/04/jerry-falade-call-me-ill-hide-the-body-deal-pulled/",
-      "summary": "Debut novelist Falade lost a $2M+ deal after his own agents raised unproven AI-authorship concerns; he says the scrutiny disproportionately targets Black authors.",
-      "detail": "Raises industry-wide questions about AI-detection claims being wielded against writers along racial lines. High-stakes, developing story directly relevant to Black author members.",
-      "meta": [
-        "theGrio",
-        "Jerry Falade; Minotaur/Macmillan; Marc Gerald",
-        "Monitor"
-      ],
-      "image": "",
-      "featured": true,
       "urgent": false,
       "weekAdded": "2026-08-12"
     },
@@ -1395,27 +1473,8 @@
         "Share"
       ],
       "image": "",
-      "featured": true,
-      "urgent": true,
-      "weekAdded": "2026-08-12"
-    },
-    {
-      "id": "international-black-theatre-fest-is-feast-of-theater-community-and-rej",
-      "title": "International Black Theatre Fest is feast of theater, community, and rejuvenation of the soul",
-      "discipline": "Theatre",
-      "category": "Theatre · Black Artist-Focused",
-      "date": "Aug 6, 2026",
-      "url": "https://amsterdamnews.com/news/2026/08/06/international-black-theatre-fest-is-feast-of-theater-community-and-rejuvenation-of-the-soul/",
-      "summary": "Festival wrap: 100+ productions from 16 companies; Phylicia Rashad received the Sidney Poitier Lifetime Achievement Award.",
-      "detail": "Confirms scale and marketplace function of the festival for touring/commissioning Black theatre companies. Companion wrap-up to the preview story; strong Share candidate on its own.",
-      "meta": [
-        "New York Amsterdam News",
-        "NC Black Rep; New Federal Theatre; Crossroads Theatre; Phylicia Rashad",
-        "Share"
-      ],
-      "image": "",
-      "featured": true,
-      "urgent": true,
+      "featured": false,
+      "urgent": false,
       "weekAdded": "2026-08-12"
     },
     {
@@ -1435,25 +1494,6 @@
       "image": "",
       "featured": false,
       "urgent": false,
-      "weekAdded": "2026-08-12"
-    },
-    {
-      "id": "hana-sharif-leaves-arena-leaving-questions-for-the-field",
-      "title": "Hana Sharif Leaves Arena, Leaving Questions for the Field",
-      "discipline": "Theatre",
-      "category": "Theatre / Leadership · Awards and Appointments",
-      "date": "Jul 14, 2026",
-      "url": "https://www.americantheatre.org/2026/07/14/hana-sharif-leaves-arena-leaving-questions-for-the-field/",
-      "summary": "Sharif resigned as Arena Stage's first Black artistic director after three years, citing board disagreements; the piece frames it within a pattern of Black leaders departing major institutions.",
-      "detail": "Major leadership-equity story with field-wide implications for retention of leaders of color. Central to Soirée's tracking of Black leadership pipelines and the barriers leaders face once inside.",
-      "meta": [
-        "American Theatre",
-        "Hana S. Sharif; Arena Stage; Edgar Dobie (interim)",
-        "Share"
-      ],
-      "image": "",
-      "featured": true,
-      "urgent": true,
       "weekAdded": "2026-08-12"
     },
     {
@@ -1511,25 +1551,6 @@
       "image": "",
       "featured": false,
       "urgent": false,
-      "weekAdded": "2026-08-12"
-    },
-    {
-      "id": "dance-theatre-of-harlem-galvanizes-arts-community-with-inaugural-artis",
-      "title": "Dance Theatre of Harlem Galvanizes Arts Community with Inaugural Artistic Council",
-      "discipline": "Dance",
-      "category": "Dance · Awards and Appointments",
-      "date": "Aug 12, 2026",
-      "url": "https://www.morningstar.com/news/pr-newswire/20260812ph24062/dance-theatre-of-harlem-galvanizes-arts-community-with-inaugural-artistic-council",
-      "summary": "DTH announces its first-ever Artistic Council, a cross-disciplinary group of Black cultural figures assembled to help shape the company's vision.",
-      "detail": "A major historically Black dance institution formally expanding its creative brain trust beyond dance. Governance/vision story with several boldface Black cultural names, timed to today's briefing.",
-      "meta": [
-        "PR Newswire (via Morningstar)",
-        "Dance Theatre of Harlem; Derrick Adams; Sanford Biggers; Virginia Johnson; Fatima Robinson; Marcus Samuelsson; Mickalene Thomas",
-        "Share"
-      ],
-      "image": "",
-      "featured": true,
-      "urgent": true,
       "weekAdded": "2026-08-12"
     },
     {
@@ -1737,8 +1758,8 @@
         "Share"
       ],
       "image": "",
-      "featured": true,
-      "urgent": true,
+      "featured": false,
+      "urgent": false,
       "weekAdded": "2026-08-12"
     },
     {
@@ -1870,8 +1891,8 @@
         "Share"
       ],
       "image": "",
-      "featured": true,
-      "urgent": true,
+      "featured": false,
+      "urgent": false,
       "weekAdded": "2026-08-12"
     },
     {
@@ -2369,25 +2390,6 @@
       "weekAdded": "2026-08-12"
     },
     {
-      "id": "trump-proposes-lowest-smithsonian-budget-in-years",
-      "title": "Trump Proposes Lowest Smithsonian Budget in Years",
-      "discipline": "Museums",
-      "category": "Museums / Federal Budget · Funding and Policy",
-      "date": "Aug 4, 2026",
-      "url": "https://hyperallergic.com/trump-proposes-lowest-smithsonian-budget-in-years/",
-      "summary": "The White House proposed a FY2027 Smithsonian budget of $961.3M, an ~11% cut, with a projected 6% staff reduction.",
-      "detail": "A major cut to the country's largest museum system, part of an ongoing pressure campaign. New, material development in the Smithsonian funding fight beyond the already-shared signage story; NMAAHC is among the 21 museums affected.",
-      "meta": [
-        "Hyperallergic",
-        "Smithsonian Institution",
-        "Share"
-      ],
-      "image": "",
-      "featured": true,
-      "urgent": true,
-      "weekAdded": "2026-08-12"
-    },
-    {
       "id": "cooling-system-malfunction-shutters-seven-smithsonian-museums",
       "title": "Cooling System Malfunction Shutters Seven Smithsonian Museums",
       "discipline": "Museums",
@@ -2497,8 +2499,8 @@
         "Share"
       ],
       "image": "",
-      "featured": true,
-      "urgent": true,
+      "featured": false,
+      "urgent": false,
       "weekAdded": "2026-08-12"
     },
     {
