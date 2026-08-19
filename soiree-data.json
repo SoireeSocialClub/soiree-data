@@ -2,7 +2,7 @@
   "meta": {
     "week": "August 19, 2026",
     "updated": "2026-08-19",
-    "eventCount": "30",
+    "eventCount": "29",
     "topStoryHeadline": "Kennedy Center Board Votes Again to Shut Main Building Down, and Add Trump's Name Back",
     "topStorySummary": "Board voted to close the Kennedy Center for two years of renovation and restore Trump's name, following a judge's earlier order removing it.",
     "executiveSummary": [
@@ -146,23 +146,6 @@
       "description": "Dindga McCannon, Harlem-born co-founder of Where We At, a Black Arts Movement collective. Solo show for a foundational Black Arts Movement figure, at an independent Bowery gallery",
       "status": "upcoming",
       "urgentNote": "Later this month",
-      "featured": false,
-      "juneteenth": false
-    },
-    {
-      "id": "artist-talk-francks-deceus-carib-import-1",
-      "title": "Artist Talk: Francks Deceus, Carib-Import #1",
-      "discipline": "Visual art",
-      "venue": "MoCADA, at Ubuntu Botanical Garden",
-      "address": "80 Hanson Pl, Brooklyn",
-      "dates": "Aug 22, 2026",
-      "dateSort": "2026-08-22",
-      "price": "Not listed",
-      "free": false,
-      "url": "https://mocada.org/francks-f-deceus-carib-import-1/",
-      "description": "Francks F. Deceus, Haitian-American painter. Rare artist talk at Brooklyn's museum dedicated to African diasporic art",
-      "status": "thisweek",
-      "urgentNote": "This week",
       "featured": false,
       "juneteenth": false
     },
@@ -1171,17 +1154,6 @@
       "through": "Sept 9 – Oct 14, 2026",
       "url": "https://fridmangallery.com/exhibitions/40-dindga-mccannon-in-plain-sight/",
       "description": "Dindga McCannon, Harlem-born co-founder of Where We At, a Black Arts Movement collective. Solo show for a foundational Black Arts Movement figure, at an independent Bowery gallery",
-      "free": false,
-      "price": "Not listed"
-    },
-    {
-      "id": "artist-talk-francks-deceus-carib-import-1",
-      "title": "Artist Talk: Francks Deceus, Carib-Import #1",
-      "venue": "MoCADA, at Ubuntu Botanical Garden",
-      "address": "80 Hanson Pl, Brooklyn",
-      "through": "Aug 22, 2026",
-      "url": "https://mocada.org/francks-f-deceus-carib-import-1/",
-      "description": "Francks F. Deceus, Haitian-American painter. Rare artist talk at Brooklyn's museum dedicated to African diasporic art",
       "free": false,
       "price": "Not listed"
     },
