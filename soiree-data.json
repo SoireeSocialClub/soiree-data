@@ -6,10 +6,19 @@
     "topStoryHeadline": "Kennedy Center Board Votes Again to Shut Main Building Down, and Add Trump's Name Back",
     "topStorySummary": "Board voted to close the Kennedy Center for two years of renovation and restore Trump's name, following a judge's earlier order removing it.",
     "executiveSummary": [
-      "This week’s briefing follows continued pressure on national cultural institutions, including a Kennedy Center board vote to close the main building for two years and restore Trump’s name.",
-      "Federal funding and access remain central themes, from the Smithsonian’s NMAAHC preparing for its tenth-anniversary celebration to Dance/USA ending its national artist-fellowship program.",
-      "The Black arts stories to watch include Dallas Black Dance Theatre’s first union contract, Angelica Chéri’s historic Broadway milestone, and Marlon James’s Booker Prize longlisting ahead of his Brooklyn appearance."
-    ]
+      "This week’s briefing follows continued pressure on national cultural institutions, including the Kennedy Center board vote to close the main building for two years and restore Trump’s name.",
+      "Federal funding and access remain central themes, from the HBCU Arts Act to NMAAHC’s upcoming tenth-anniversary celebration.",
+      "Black arts stories to watch include Dallas Black Dance Theatre’s first union contract, Angelica Chéri’s historic Broadway milestone, Marlon James’s Booker Prize longlisting, and new exhibitions and performances across New York."
+    ],
+    "newsCount": "93",
+    "currentNewsCount": "27",
+    "topPhotoStoryCount": "8",
+    "moreThisWeekCount": "18",
+    "archiveNewsCount": "66",
+    "layoutUpdated": "2026-08-19T16:07:00-04:00",
+    "layoutVersion": "aug19-top8-more-this-week-v3",
+    "mainTopStoryCount": "1",
+    "newsDisplayModel": "1 main top story, 8 photo highlights, remaining current-week stories text-only, older stories in archive"
   },
   "events": [
     {
@@ -529,7 +538,10 @@
       "image": "",
       "featured": true,
       "urgent": false,
-      "weekAdded": "2026-08-19"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 1,
+      "displaySection": "mainTopStory",
+      "displayLabel": "Main Top Story"
     },
     {
       "id": "justice-visits-west-virginia-state-highlights-hbcu-arts-act",
@@ -546,9 +558,13 @@
         "Monitor — developing legislation"
       ],
       "image": "",
-      "featured": true,
+      "featured": false,
       "urgent": false,
-      "weekAdded": "2026-08-19"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 2,
+      "displaySection": "topStories",
+      "displayLabel": "Top Stories",
+      "highlightRank": 1
     },
     {
       "id": "national-museum-of-african-american-history-and-culture-announces-the-reunion-a-multi",
@@ -565,9 +581,13 @@
         "Save for strategy"
       ],
       "image": "",
-      "featured": true,
+      "featured": false,
       "urgent": false,
-      "weekAdded": "2026-08-19"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 3,
+      "displaySection": "topStories",
+      "displayLabel": "Top Stories",
+      "highlightRank": 2
     },
     {
       "id": "dallas-black-dance-theatre-starts-50th-season-with-its-first-union-contract",
@@ -584,9 +604,13 @@
         "Share"
       ],
       "image": "",
-      "featured": true,
+      "featured": false,
       "urgent": false,
-      "weekAdded": "2026-08-19"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 4,
+      "displaySection": "topStories",
+      "displayLabel": "Top Stories",
+      "highlightRank": 3
     },
     {
       "id": "debbie-allen-and-angelica-cheri-team-up-for-phenomenal-woman-maya-angelou-cheri-wins",
@@ -603,9 +627,13 @@
         "Share"
       ],
       "image": "",
-      "featured": true,
+      "featured": false,
       "urgent": false,
-      "weekAdded": "2026-08-19"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 5,
+      "displaySection": "topStories",
+      "displayLabel": "Top Stories",
+      "highlightRank": 4
     },
     {
       "id": "harlem-week-honors-50th-anniversary-of-caribbean-cultural-center-african-diaspora-ins",
@@ -622,9 +650,13 @@
         "Share"
       ],
       "image": "",
-      "featured": true,
+      "featured": false,
       "urgent": false,
-      "weekAdded": "2026-08-19"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 6,
+      "displaySection": "topStories",
+      "displayLabel": "Top Stories",
+      "highlightRank": 5
     },
     {
       "id": "2026-booker-prize-longlist-announced",
@@ -641,9 +673,13 @@
         "Share"
       ],
       "image": "",
-      "featured": true,
+      "featured": false,
       "urgent": false,
-      "weekAdded": "2026-08-19"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 7,
+      "displaySection": "topStories",
+      "displayLabel": "Top Stories",
+      "highlightRank": 6
     },
     {
       "id": "culture-talk-studio-museum-curator-connie-h-choi-on-artistactivist-tom-lloyd-and-his",
@@ -660,9 +696,13 @@
         "Save for strategy"
       ],
       "image": "",
-      "featured": true,
+      "featured": false,
       "urgent": false,
-      "weekAdded": "2026-08-19"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 8,
+      "displaySection": "topStories",
+      "displayLabel": "Top Stories",
+      "highlightRank": 7
     },
     {
       "id": "new-dance-alliance-unveils-2026-27-black-artists-space-to-create-resident-artists",
@@ -681,7 +721,11 @@
       "image": "",
       "featured": false,
       "urgent": false,
-      "weekAdded": "earlier"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 9,
+      "displaySection": "topStories",
+      "displayLabel": "Top Stories",
+      "highlightRank": 8
     },
     {
       "id": "dance-theatre-of-harlem-to-return-to-chicago-at-auditorium-dance-season",
@@ -700,7 +744,10 @@
       "image": "",
       "featured": false,
       "urgent": false,
-      "weekAdded": "earlier"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 10,
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week"
     },
     {
       "id": "review-the-2026-international-black-theatre-festival",
@@ -719,7 +766,10 @@
       "image": "",
       "featured": false,
       "urgent": false,
-      "weekAdded": "earlier"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 11,
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week"
     },
     {
       "id": "east-hamptons-guild-hall-presents-the-dance-theatre-of-harlem-celebrates-black-cultur",
@@ -738,7 +788,10 @@
       "image": "",
       "featured": false,
       "urgent": false,
-      "weekAdded": "earlier"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 12,
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week"
     },
     {
       "id": "san-diego-museum-of-art-lays-off-11-employees",
@@ -757,7 +810,10 @@
       "image": "",
       "featured": false,
       "urgent": false,
-      "weekAdded": "earlier"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 13,
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week"
     },
     {
       "id": "danceusa-announces-conclusion-of-fellowships-to-artists-program",
@@ -776,7 +832,10 @@
       "image": "",
       "featured": false,
       "urgent": false,
-      "weekAdded": "earlier"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 14,
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week"
     },
     {
       "id": "danceusas-new-executive-director-says-the-organization-needs-to-rebuild",
@@ -795,7 +854,10 @@
       "image": "",
       "featured": false,
       "urgent": false,
-      "weekAdded": "earlier"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 15,
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week"
     },
     {
       "id": "your-august-2026-roster-roundup-dancers-and-directors-on-the-move",
@@ -814,7 +876,10 @@
       "image": "",
       "featured": false,
       "urgent": false,
-      "weekAdded": "earlier"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 16,
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week"
     },
     {
       "id": "actors-equity-association-gets-strike-ready-as-broadway-contract-expires",
@@ -833,7 +898,10 @@
       "image": "",
       "featured": false,
       "urgent": false,
-      "weekAdded": "earlier"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 17,
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week"
     },
     {
       "id": "mayor-mamdani-tdf-announce-thousands-of-free-and-low-cost-broadway-tickets-for-high-s",
@@ -852,7 +920,10 @@
       "image": "",
       "featured": false,
       "urgent": false,
-      "weekAdded": "earlier"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 18,
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week"
     },
     {
       "id": "us-national-gallery-of-art-acquires-paintings-sculptures-and-photographs-spanning-fiv",
@@ -871,7 +942,10 @@
       "image": "",
       "featured": false,
       "urgent": false,
-      "weekAdded": "earlier"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 19,
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week"
     },
     {
       "id": "oif-releases-additional-reports-on-censorship-in-2025",
@@ -890,7 +964,10 @@
       "image": "",
       "featured": false,
       "urgent": false,
-      "weekAdded": "earlier"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 20,
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week"
     },
     {
       "id": "blackstar-film-festival-2026-dates-venues-and-what-to-know-in-philadelphia",
@@ -909,7 +986,10 @@
       "image": "",
       "featured": false,
       "urgent": false,
-      "weekAdded": "earlier"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 21,
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week"
     },
     {
       "id": "nc-black-rep-announces-managing-director",
@@ -928,7 +1008,10 @@
       "image": "",
       "featured": false,
       "urgent": false,
-      "weekAdded": "earlier"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 22,
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week"
     },
     {
       "id": "pouring-into-our-own-a-black-tradition-of-collective-investment",
@@ -947,7 +1030,10 @@
       "image": "",
       "featured": false,
       "urgent": false,
-      "weekAdded": "earlier"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 23,
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week"
     },
     {
       "id": "artist-betye-saar-whose-work-reflects-black-identity-dies-at-99",
@@ -966,7 +1052,10 @@
       "image": "",
       "featured": false,
       "urgent": false,
-      "weekAdded": "earlier"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 24,
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week"
     },
     {
       "id": "international-black-theatre-fest-is-feast-of-theater-community-and-rejuvenation-of-th",
@@ -985,7 +1074,10 @@
       "image": "",
       "featured": false,
       "urgent": false,
-      "weekAdded": "earlier"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 25,
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week"
     },
     {
       "id": "studio-museum-in-harlem-announces-fall-2026-season",
@@ -1004,7 +1096,10 @@
       "image": "",
       "featured": false,
       "urgent": false,
-      "weekAdded": "earlier"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 26,
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week"
     },
     {
       "id": "getty-and-national-trust-award-3-million-to-preserve-historic-black-places",
@@ -1023,7 +1118,1396 @@
       "image": "",
       "featured": false,
       "urgent": false,
-      "weekAdded": "earlier"
+      "weekAdded": "2026-08-19",
+      "displayOrder": 27,
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week"
+    },
+    {
+      "id": "dance-theatre-of-harlem-galvanizes-arts-community-with-inaugural-artis",
+      "title": "Dance Theatre of Harlem Galvanizes Arts Community with Inaugural Artistic Council",
+      "discipline": "Dance",
+      "category": "Dance · Awards and Appointments",
+      "date": "Aug 12, 2026",
+      "url": "https://www.morningstar.com/news/pr-newswire/20260812ph24062/dance-theatre-of-harlem-galvanizes-arts-community-with-inaugural-artistic-council",
+      "summary": "DTH announces its first-ever Artistic Council, a cross-disciplinary group of Black cultural figures assembled to help shape the company's vision.",
+      "detail": "A major historically Black dance institution formally expanding its creative brain trust beyond dance. Governance/vision story with several boldface Black cultural names, timed to today's briefing.",
+      "meta": [
+        "PR Newswire (via Morningstar)",
+        "Dance Theatre of Harlem; Derrick Adams; Sanford Biggers; Virginia Johnson; Fatima Robinson; Marcus Samuelsson; Mickalene Thomas",
+        "Share"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "black-author-vows-to-fight-back-after-he-loses-2-million-publishing-de",
+      "title": "Black author vows to fight back after he loses $2 million publishing deal due to AI accusations",
+      "discipline": "Literature",
+      "category": "Literature / Publishing · Major Industry",
+      "date": "Aug 4, 2026",
+      "url": "https://thegrio.com/2026/08/04/jerry-falade-call-me-ill-hide-the-body-deal-pulled/",
+      "summary": "Debut novelist Falade lost a $2M+ deal after his own agents raised unproven AI-authorship concerns; he says the scrutiny disproportionately targets Black authors.",
+      "detail": "Raises industry-wide questions about AI-detection claims being wielded against writers along racial lines. High-stakes, developing story directly relevant to Black author members.",
+      "meta": [
+        "theGrio",
+        "Jerry Falade; Minotaur/Macmillan; Marc Gerald",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "trump-proposes-lowest-smithsonian-budget-in-years",
+      "title": "Trump Proposes Lowest Smithsonian Budget in Years",
+      "discipline": "Museums",
+      "category": "Museums / Federal Budget · Funding and Policy",
+      "date": "Aug 4, 2026",
+      "url": "https://hyperallergic.com/trump-proposes-lowest-smithsonian-budget-in-years/",
+      "summary": "The White House proposed a FY2027 Smithsonian budget of $961.3M, an ~11% cut, with a projected 6% staff reduction.",
+      "detail": "A major cut to the country's largest museum system, part of an ongoing pressure campaign. New, material development in the Smithsonian funding fight beyond the already-shared signage story; NMAAHC is among the 21 museums affected.",
+      "meta": [
+        "Hyperallergic",
+        "Smithsonian Institution",
+        "Share"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "hana-sharif-leaves-arena-leaving-questions-for-the-field",
+      "title": "Hana Sharif Leaves Arena, Leaving Questions for the Field",
+      "discipline": "Theatre",
+      "category": "Theatre / Leadership · Awards and Appointments",
+      "date": "Jul 14, 2026",
+      "url": "https://www.americantheatre.org/2026/07/14/hana-sharif-leaves-arena-leaving-questions-for-the-field/",
+      "summary": "Sharif resigned as Arena Stage's first Black artistic director after three years, citing board disagreements; the piece frames it within a pattern of Black leaders departing major institutions.",
+      "detail": "Major leadership-equity story with field-wide implications for retention of leaders of color. Central to Soirée's tracking of Black leadership pipelines and the barriers leaders face once inside.",
+      "meta": [
+        "American Theatre",
+        "Hana S. Sharif; Arena Stage; Edgar Dobie (interim)",
+        "Share"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "misty-copeland-curates-joyce-ballet-festival-august-4-16",
+      "title": "Misty Copeland curates Joyce Ballet Festival, August 4-16",
+      "discipline": "Dance",
+      "category": "Dance · Black Artist-Focused",
+      "date": "Jul 30, 2026",
+      "url": "https://amsterdamnews.com/news/2026/07/30/misty-copeland-curates-joyce-ballet-festival-august-4-16/",
+      "summary": "Retiring ABT star Copeland curates a two-week Joyce Theater festival with two world premieres, including DTH dancers.",
+      "detail": "A prominent Black ballerina exercising curatorial authority at a major NYC venue. Already featured in the July 31 briefing's Top 5 (Share).",
+      "meta": [
+        "New York Amsterdam News",
+        "Misty Copeland; Dance Theatre of Harlem; Joyce Theater",
+        "Already shared"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "complete-programming-and-cast-set-for-misty-copeland-curated-joyce-bal",
+      "title": "Complete Programming And Cast Set For Misty Copeland-Curated JOYCE BALLET FESTIVAL 2026",
+      "discipline": "Dance",
+      "category": "Dance · Black Artist-Focused",
+      "date": "Jul 17, 2026",
+      "url": "https://www.broadwayworld.com/article/Complete-Programming-And-Cast-Set-For-Misty-Copeland-Curated-JOYCE-BALLET-FESTIVAL-2026-20260717",
+      "summary": "Cast/program announcement confirming two world premieres choreographed by Black dance artists Aleisha Walker and Ilo.",
+      "detail": "New-work pipeline detail for the Copeland-curated festival. Companion detail to the already-shared Joyce Festival story; useful for a member outing recommendation.",
+      "meta": [
+        "Broadway World",
+        "Misty Copeland; Aleisha Walker; Dance Theatre of Harlem",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "betye-saar-artist-who-shattered-stereotypes-of-black-women-dies-at-99",
+      "title": "Betye Saar, artist who shattered stereotypes of Black women, dies at 99",
+      "discipline": "Visual Art",
+      "category": "Visual Art · Black Artist-Focused",
+      "date": "Jul 27, 2026",
+      "url": "https://www.washingtonpost.com/obituaries/2026/07/27/betye-saar-artist-who-shattered-stereotypes-black-women-dies-99/",
+      "summary": "Obituary for the assemblage artist, who died July 26 at 99, known for reframing racist imagery into tools of resistance.",
+      "detail": "Loss of a foundational Black Arts Movement figure. Already featured as the #1 story in the July 31 briefing (Share).",
+      "meta": [
+        "The Washington Post",
+        "Betye Saar",
+        "Already shared"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "betye-saar-assemblage-artist-who-reframed-racist-and-sexist-imagery-ha",
+      "title": "Betye Saar, assemblage artist who reframed racist and sexist imagery, has died, aged 99",
+      "discipline": "Visual Art",
+      "category": "Visual Art · Black Artist-Focused",
+      "date": "Jul 29, 2026",
+      "url": "https://www.theartnewspaper.com/2026/07/29/betye-saar-obituary-legendary-los-angeles-assemblage-artist",
+      "summary": "International art-trade obituary detailing Saar's career and teaching legacy.",
+      "detail": "Confirms trade-press recognition beyond U.S. Black press. Corroborating source for the already-shared Saar story.",
+      "meta": [
+        "The Art Newspaper",
+        "Betye Saar",
+        "Already shared"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "betye-saar-a-brilliant-artist-of-transformative-assemblages-passes-at",
+      "title": "Betye Saar, a brilliant artist of transformative assemblages, passes at 99",
+      "discipline": "Visual Art",
+      "category": "Visual Art · Black Artist-Focused",
+      "date": "Aug 6, 2026",
+      "url": "https://amsterdamnews.com/news/2026/08/06/betye-saar-a-brilliant-artist-passes-at-99/",
+      "summary": "Black-press obituary tracing Saar's role launching the Black Women's Movement in art.",
+      "detail": "Adds cultural context beyond wire-service obituary versions. Corroborating source; additional framing for member content.",
+      "meta": [
+        "New York Amsterdam News",
+        "Betye Saar",
+        "Already shared"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "black-ice-def-poetry-jam-breakout-star-has-died",
+      "title": "Black Ice, Def Poetry Jam Breakout Star, Has Died",
+      "discipline": "Literature",
+      "category": "Literature / Poetry · Black Artist-Focused",
+      "date": "Jul 23, 2026",
+      "url": "https://www.complex.com/pop-culture/a/bernadette-giacomazzo/black-ice-legendary-slam-poet-dies",
+      "summary": "Obituary for the Philadelphia spoken-word poet, who died July 22 at 54; brought slam poetry to HBO's Def Poetry Jam and Broadway.",
+      "detail": "Loss of a figure who bridged hip-hop and literary spoken-word traditions. Relevant to Soirée's literature/poetry coverage.",
+      "meta": [
+        "Complex",
+        "Black Ice (Lamar Manson); Russell Simmons; Jill Scott",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "international-black-theatre-festival-brings-fans-to-triad",
+      "title": "International Black Theatre Festival brings fans to Triad",
+      "discipline": "Theatre",
+      "category": "Theatre · Black Artist-Focused",
+      "date": "Jul 22, 2026",
+      "url": "https://www.spectrumlocalnews.com/nc/charlotte/news/2026/07/22/international-black-theatre-festival",
+      "summary": "Preview of the July 27–Aug 1 return of the world's largest Black theatre festival to Winston-Salem, with economic-impact figures.",
+      "detail": "One of the most significant Black theatre convenings in the U.S. A flagship national event Soirée members may want to attend in a future cycle.",
+      "meta": [
+        "Spectrum News (Charlotte/NC)",
+        "NC Black Repertory Company; Larry Leon Hamlin (founder)",
+        "Share"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "holy-ground-theater-doc-documents-the-birth-of-a-great-and-needed-lega",
+      "title": "'Holy Ground' theater doc documents the birth of a great and needed legacy",
+      "discipline": "Theatre",
+      "category": "Theatre / Film · Black Artist-Focused",
+      "date": "Aug 6, 2026",
+      "url": "https://amsterdamnews.com/news/2026/08/06/holy-ground-theater-documents-the-birth-of-a-legacy/",
+      "summary": "New documentary traces founder Larry Leon Hamlin's creation of the festival via archival footage and interviews.",
+      "detail": "Institutional-memory documentation of festival infrastructure many touring companies depend on. Companion context piece to the IBTF coverage above.",
+      "meta": [
+        "New York Amsterdam News",
+        "Larry Leon Hamlin; National/International Black Theatre Festival",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "leadership-changes-at-arena-wilma-mu-and-more",
+      "title": "Leadership Changes at Arena, Wilma, Mu, and More",
+      "discipline": "Theatre",
+      "category": "Theatre / Leadership · Awards and Appointments",
+      "date": "Jul 14, 2026",
+      "url": "https://www.americantheatre.org/2026/07/14/leadership-changes-at-arena-wilma-mu-and-more/",
+      "summary": "Roundup of regional leadership transitions, including Lindsay Smiling — a founding member of the Black Theatre Alliance of Philadelphia — named sole artistic director of the Wilma Theater.",
+      "detail": "Field-wide leadership-churn context alongside the Sharif exit. Smiling's appointment is a counterpoint worth noting alongside Sharif's departure the same week.",
+      "meta": [
+        "American Theatre",
+        "Lindsay Smiling (Wilma Theater); Robert Hupp; Hana Sharif",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "new-dramatists-resident-playwrights-namt-musicals-edinburgh-fringe-and",
+      "title": "New Dramatists Resident Playwrights, NAMT Musicals, Edinburgh Fringe, and More",
+      "discipline": "Theatre",
+      "category": "Theatre / Literature · Awards and Appointments",
+      "date": "Jul 24, 2026",
+      "url": "https://www.americantheatre.org/2026/07/24/new-dramatists-resident-playwrights-namt-musicals-edinburgh-fringe-and-more/",
+      "summary": "Roundup announcing new resident playwrights and musical-theatre finalists, including a work reimagining Sally Hemings in revolutionary-era France.",
+      "detail": "Signals a new-musical pipeline project engaging directly with Black American history. A title worth tracking toward a future full production.",
+      "meta": [
+        "American Theatre",
+        "AriDy Nox (\"Black Girl in Paris\"); New Dramatists",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "analysis-august-2026-the-sphinx-organization-thirty-years-on",
+      "title": "Analysis August 2026: The Sphinx Organization thirty years on",
+      "discipline": "Classical Music",
+      "category": "Classical Music · Funding and Policy",
+      "date": "Jul 24, 2026",
+      "url": "https://www.thestrad.com/for-subscribers/analysis-august-2026-the-sphinx-organization-thirty-years-on/21544.article",
+      "summary": "A 30-year retrospective citing League of American Orchestras data showing Black musician representation in major U.S. orchestras rose from just 1.9% (2015) to 2.1% (2025) despite Sphinx's efforts.",
+      "detail": "Hard data on the limited structural progress in classical-music representation after three decades of dedicated intervention. Directly useful for Soirée's classical-music advocacy and representation framing.",
+      "meta": [
+        "The Strad",
+        "Sphinx Organization; Aaron Dworkin; League of American Orchestras",
+        "Save for strategy"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "exploring-critique-and-admiration-in-artist-shaun-leonardos-exhibit-th",
+      "title": "Exploring critique and admiration in artist Shaun Leonardo's exhibit \"The Invisible Man\"",
+      "discipline": "Visual Art",
+      "category": "Visual Art · Black Artist-Focused",
+      "date": "Jul 30, 2026",
+      "url": "https://amsterdamnews.com/news/2026/07/30/exploring-critique-and-admiration-in-artist-shaun-leonardos-exhibit-the-invisible-man/",
+      "summary": "Review of a Tribeca solo show referencing Ralph Ellison's \"Invisible Man\" to examine perceptions of Black and Brown bodies.",
+      "detail": "Visual art directly engaging Black literary canon. Thematically strong programming fit; Leonardo's own identity not confirmed in this article, verify before framing as Black-artist news.",
+      "meta": [
+        "New York Amsterdam News",
+        "Shaun Leonardo; Cristin Tierney Gallery",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "buffalo-akg-art-museum-will-split-leadership-duties-in-two-and-promote",
+      "title": "Buffalo AKG Art Museum will split leadership duties in two and promote internally for new directors",
+      "discipline": "Museums",
+      "category": "Museums / Leadership · Awards and Appointments",
+      "date": "Jul 24, 2026",
+      "url": "https://www.theartnewspaper.com/2026/07/24/buffalo-akg-art-museum-two-director-roles-promotions",
+      "summary": "Buffalo AKG named a co-leadership structure, its first in 164 years, promoting internally for both roles.",
+      "detail": "Signals a museum-sector trend toward split curatorial/operational leadership. General leadership-model precedent worth tracking.",
+      "meta": [
+        "The Art Newspaper",
+        "Jillian Jones; Cathleen Chaffee; Buffalo AKG Art Museum",
+        "No action needed"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "the-armory-show-reveals-230-gallery-line-up-and-move-to-late-september",
+      "title": "The Armory Show reveals 230-gallery line-up and move to late September",
+      "discipline": "Visual Art",
+      "category": "Visual Art / Market · Major Industry",
+      "date": "Jul 20, 2026",
+      "url": "https://www.theartnewspaper.com/2026/07/20/armory-show-unveils-230-gallery-line-up-after-moving-fair-to-late-september",
+      "summary": "The 2026 fair announced ~230 galleries and built its floor plan around Caribbean artists and diasporas at its south entrance.",
+      "detail": "A top-tier NYC fair reorganizing around Caribbean-diaspora programming. Direct relevance for tracking diaspora representation at a fair members may attend.",
+      "meta": [
+        "The Art Newspaper",
+        "The Armory Show; Miles McEnery Gallery",
+        "Save for strategy"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "christies-and-sothebys-2026-half-year-results-trophy-lots-and-luxury-g",
+      "title": "Christie's and Sotheby's 2026 half year results: trophy lots and luxury goods fuel rebound",
+      "discipline": "Market",
+      "category": "Market / Auction · Major Industry",
+      "date": "Jul 15, 2026",
+      "url": "https://www.theartnewspaper.com/2026/07/15/trophy-lots-and-luxury-goods-fuel-rebound-for-christies-and-sothebys-2026-half-year-results",
+      "summary": "Both houses posted record H1 2026 results, driven by trophy lots and a younger luxury-goods-driven buyer base.",
+      "detail": "Broad art-market recovery context. Background market context for member collectors.",
+      "meta": [
+        "The Art Newspaper",
+        "Christie's; Sotheby's",
+        "No action needed"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "lincoln-center-announces-202627-season-of-live-programming-including-a",
+      "title": "Lincoln Center announces 2026–27 season of live programming, including a long-awaited stage reunion between Audra McDonald and Billy Porter",
+      "discipline": "Performing Arts",
+      "category": "Performing Arts · Major Industry",
+      "date": "Aug 5, 2026",
+      "url": "https://www.timeout.com/newyork/news/27-season-of-live-programming-including-a-long-awaited-stage-reunion-between-audra-mcdonald-and-billy-porter-080526",
+      "summary": "Season includes a \"Shuffle Along\" reunion concert and a \"Legacies of San Juan Hill Festival\" honoring the historically Black and Puerto Rican neighborhood razed to build the campus, plus programming honoring Marsalis.",
+      "detail": "A flagship NYC institution centering its own site's Black history. Directly relevant programming for a community centering Black performing artists in NYC.",
+      "meta": [
+        "Time Out New York",
+        "Lincoln Center; Audra McDonald; Billy Porter; Wynton Marsalis",
+        "Save for strategy"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "judge-extends-deadline-for-kennedy-center-to-explain-tarps-constructio",
+      "title": "Judge Extends Deadline For Kennedy Center To Explain Tarps, Construction Plans",
+      "discipline": "Arts Leadership",
+      "category": "Arts Leadership / Policy · Funding and Policy",
+      "date": "Jul 28, 2026",
+      "url": "https://www.forbes.com/sites/conormurray/2026/07/28/kennedy-center-given-more-time-to-explain-why-tarps-remain/",
+      "summary": "A federal judge extended the deadline for the Kennedy Center to explain its ongoing signage/construction dispute.",
+      "detail": "Ongoing federal-level interference in a major national performing-arts institution's governance. Institutional-independence watchlist item, prior context includes Black History Month programming erasure.",
+      "meta": [
+        "Forbes",
+        "Kennedy Center; Judge Christopher R. Cooper",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "kennedy-center-temporarily-suspends-free-tours",
+      "title": "Kennedy Center temporarily suspends free tours",
+      "discipline": "Arts Leadership",
+      "category": "Arts Leadership / Policy · Funding and Policy",
+      "date": "Jul 31, 2026",
+      "url": "https://www.washingtontimes.com/news/2026/jul/31/kennedy-center-suspends-free-tours-citing-review-tour-routes/",
+      "summary": "The Kennedy Center paused its 50+ year public tour program following a critical profile; volunteers reportedly feared retaliation.",
+      "detail": "Another data point in the Kennedy Center's ongoing access/governance turmoil. Same institutional-access thread as the tarps story above.",
+      "meta": [
+        "The Washington Times",
+        "Kennedy Center; Director Brooks Boeke",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "whitney-museum-announces-exhibitions-through-fall-2027",
+      "title": "Whitney Museum Announces Exhibitions Through Fall 2027",
+      "discipline": "Museums",
+      "category": "Museums · Major Industry",
+      "date": "Jul 30, 2026",
+      "url": "https://whitney.org/press",
+      "summary": "The Whitney released its exhibition slate through fall 2027.",
+      "detail": "Long-range programming signal from a major NYC museum. General field-tracking; watch for Black-artist inclusion once full lineup confirms.",
+      "meta": [
+        "Whitney Museum (institutional)",
+        "Whitney Museum of American Art",
+        "No action needed"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "here-are-the-13-books-that-made-the-booker-prize-longlist",
+      "title": "Here are the 13 books that made the Booker Prize longlist",
+      "discipline": "Literature",
+      "category": "Literature · Awards and Appointments",
+      "date": "Jul 28, 2026",
+      "url": "https://www.houstonpublicmedia.org/npr/2026/07/28/nx-s1-5874638/here-are-the-13-books-that-made-the-booker-prize-longlist/",
+      "summary": "The 2026 \"Booker's dozen\" longlist, from 163 submissions, includes previous winner Marlon James.",
+      "detail": "A major international prize longlist shapes publishing attention for the year ahead. Marlon James's inclusion is relevant to members tracking major literary prizes with Black authors in contention.",
+      "meta": [
+        "NPR / Houston Public Media",
+        "Booker Prize; Marlon James; Douglas Stuart; Elizabeth Strout",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "last-call-on-broadway-these-award-winning-shows-are-taking-their-final",
+      "title": "Last call on Broadway: These award-winning shows are taking their final bows",
+      "discipline": "Theatre",
+      "category": "Theatre · Black Artist-Focused",
+      "date": "Jul 21, 2026",
+      "url": "https://abc7ny.com/post/broadway-shows-closing-summer-2026-ragtime-moulin-rouge-cats-jellicle-ball-more/19550323/",
+      "summary": "August Wilson's \"Joe Turner's Come and Gone,\" starring Taraji P. Henson and Cedric the Entertainer, closed July 26; \"Ragtime,\" led by Tony winner Joshua Henry, closes Aug 16, in a wave of summer Broadway closings.",
+      "detail": "A major August Wilson revival and a Black-led \"Ragtime\" run both closing marks a notable turnover moment. Core coverage: Black playwright's major work and Black-led revivals ending high-profile runs.",
+      "meta": [
+        "ABC7 New York",
+        "Taraji P. Henson; Cedric the Entertainer; Joshua Henry; August Wilson",
+        "Share"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "cats-the-jellicle-ball-takes-final-broadway-death-drop-august-8",
+      "title": "Cats: The Jellicle Ball Takes Final Broadway Death Drop August 8",
+      "discipline": "Theatre",
+      "category": "Theatre · Major Industry",
+      "date": "Aug 8, 2026",
+      "url": "https://playbill.com/article/cats-the-jellicle-ball-takes-final-broadway-death-drop-august-8",
+      "summary": "The ballroom-culture reimagining of \"Cats,\" co-directed by Zhailon Levingston, closed after winning three Tony Awards.",
+      "detail": "Ballroom culture, rooted in Black and Latino queer communities, closing after a Tony-winning run. Directly relevant closing for Soirée's theatre coverage.",
+      "meta": [
+        "Playbill",
+        "Zhailon Levingston; Bill Rauch; André De Shields",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "sfmoma-acquires-more-than-90-works-of-modern-and-contemporary-art-refl",
+      "title": "SFMOMA Acquires More Than 90 Works of Modern and Contemporary Art, Reflecting Commitment to Global and Local Voices",
+      "discipline": "Museums",
+      "category": "Museums / Acquisitions · Major Industry",
+      "date": "Jul 14, 2026",
+      "url": "https://www.sfmoma.org/press-release/sfmoma-acquires-more-than-90-works-of-modern-and-contemporary-art-reflecting-commitment-to-global-and-local-voices/",
+      "summary": "SFMOMA's acquisition slate includes Betye Saar's 1988 installation \"House of Fortune,\" explicitly cited as deepening the museum's representation of African American identity and spirituality.",
+      "detail": "Reflects a broader acquisitions trend toward collection diversification. A fresh angle on Saar's legacy landing days before her death.",
+      "meta": [
+        "SFMOMA (institutional)",
+        "SFMOMA; Betye Saar; Jim Goldberg",
+        "Save for strategy"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "abt-reveals-2026-fall-and-2027-spring-season-at-the-david-h-koch-theat",
+      "title": "ABT reveals 2026 fall and 2027 spring season at the David H. Koch Theater",
+      "discipline": "Dance",
+      "category": "Dance · Major Industry",
+      "date": "Jul 29, 2026",
+      "url": "https://www.danceinforma.com/2026/07/29/abt-reveals-2026-fall-and-2027-spring-season-at-the-david-h-koch-theater/",
+      "summary": "ABT announced its fall and spring seasons, including company premieres and a new sensory-friendly performance.",
+      "detail": "Sets the tone for the coming NYC dance year. General field-tracking relevance.",
+      "meta": [
+        "Dance Informa",
+        "American Ballet Theatre; Susan Jaffe",
+        "No action needed"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "the-tools-book-banners-are-using-to-target-books-in-2026-book-censorsh",
+      "title": "The Tools Book Banners Are Using to Target Books in 2026: Book Censorship News, July 24, 2026",
+      "discipline": "Literature",
+      "category": "Literature / Policy · Funding and Policy",
+      "date": "Jul 24, 2026",
+      "url": "https://bookriot.com/tools-used-by-book-banners-2026/",
+      "summary": "New AI- and database-driven tools let advocacy groups mass-challenge books, bypassing librarian review.",
+      "detail": "Censorship efforts industrializing via tech tools, a structural shift in library access. Book bans disproportionately target authors of color; relevant to literature coverage.",
+      "meta": [
+        "Book Riot",
+        "RatedBooks.org; National Book Rating Index; BookLens",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "intellectual-freedom-news-872026",
+      "title": "Intellectual Freedom News 8/7/2026",
+      "discipline": "Libraries",
+      "category": "Libraries / Policy · Funding and Policy",
+      "date": "Aug 7, 2026",
+      "url": "https://www.oif.ala.org/intellectual-freedom-news-8-7-2026/",
+      "summary": "Digest reports a federal appeals court reinstated Arkansas's library-materials-challenge law; Missouri threatens library funding over programming.",
+      "detail": "Accelerating multi-state legal assault on library access. Relevant backdrop for literature/publishing and access coverage.",
+      "meta": [
+        "ALA Office for Intellectual Freedom",
+        "Arkansas (Act 372); Missouri libraries; Florida school boards",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "san-diego-museum-of-art-lays-off-11-workers",
+      "title": "San Diego Museum of Art Lays Off 11 Workers",
+      "discipline": "Museums",
+      "category": "Museums / Labor · Major Industry",
+      "date": "Aug 5, 2026 (also indexed Aug 11)",
+      "url": "https://hyperallergic.com/san-diego-museum-of-art-lays-off-11-workers/",
+      "summary": "The museum laid off 11 staff six months after its centennial, citing rising costs and funding uncertainty.",
+      "detail": "Another data point in a pattern of mid-size museum financial distress. General funding-pressure pattern relevant to nonprofit-arts tracking.",
+      "meta": [
+        "Hyperallergic",
+        "San Diego Museum of Art",
+        "No action needed"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "15-artists-named-2026-joan-mitchell-fellows",
+      "title": "15 Artists Named 2026 Joan Mitchell Fellows",
+      "discipline": "Visual Art",
+      "category": "Visual Art / Awards · Awards and Appointments",
+      "date": "Aug 12, 2026",
+      "url": "https://hyperallergic.com/15-artists-named-2026-joan-mitchell-fellows/",
+      "summary": "15 artists working across painting, sculpture, collage, video, sound, and installation named 2026 Fellows, each receiving $60,000 unrestricted over five years. Confirmed via Foundation's own announcement: 169 nominations, 12 states, ages 29–79.",
+      "detail": "A significant unrestricted-funding award for working artists. Foundation does not state recipients' race. Independently verified via artists' own interviews/press (not Foundation confirmation) that Krista Clark, Cameron Clayborn, and Roscoe Hall identify as Black; Janet Olivia Henry is corroborated via Just Above Midtown affiliation and Wikipedia's African-American-artist categorization but has no single explicit self-ID quote found. See sources: Clark, Clayborn, Hall, Henry.",
+      "meta": [
+        "Hyperallergic",
+        "Joan Mitchell Foundation; Krista Clark; Cameron Clayborn; Roscoe Hall; Janet Olivia Henry",
+        "Share"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "aaww-names-ed-lin-interim-executive-director",
+      "title": "AAWW Names Ed Lin Interim Executive Director",
+      "discipline": "Literature",
+      "category": "Literature · Awards and Appointments",
+      "date": "Aug 5, 2026",
+      "url": "https://www.pw.org/daily_news",
+      "summary": "AAWW named an interim ED after Jafreen Uddin's departure; the org is pausing major programming and moving to an all-volunteer structure.",
+      "detail": "A culturally-specific literary org scaling back signals financial strain across identity-based literary nonprofits. Comparison case for funding/capacity pressures facing Black literary orgs.",
+      "meta": [
+        "Poets & Writers (Daily News)",
+        "Ed Lin; Jafreen Uddin; Asian American Writers' Workshop",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "amazon-literary-partnership-announces-2026-grant-recipients",
+      "title": "Amazon Literary Partnership Announces 2026 Grant Recipients",
+      "discipline": "Literature",
+      "category": "Literature · Funding and Policy",
+      "date": "Jul 22, 2026",
+      "url": "https://www.pw.org/daily_news",
+      "summary": "Amazon distributed $1 million across 102 literary organizations amid federal arts-funding contraction.",
+      "detail": "Significant corporate funding infusion into the literary nonprofit ecosystem. Recipient list not itemized in source; worth a follow-up check for Black-focused literary orgs before distribution.",
+      "meta": [
+        "Poets & Writers (Daily News)",
+        "Amazon Literary Partnership; 102 literary organizations",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "twenty-two-poets-laureate-awarded-11-million-for-community-poetry-proj",
+      "title": "Twenty-Two Poets Laureate Awarded $1.1 Million for Community Poetry Projects",
+      "discipline": "Poetry",
+      "category": "Poetry · Funding and Policy",
+      "date": "Aug 6, 2026",
+      "url": "https://poets.org/twenty-two-poets-laureate-awarded-11-million-community-poetry-projects",
+      "summary": "$50,000 each awarded to 22 city/state/Tribal poets laureate nationwide, plus matching grants to 14 local nonprofit partners.",
+      "detail": "Major national poetry funder capitalizing hyperlocal poet-laureate programs. Two laureates' possible Black/African-diaspora backgrounds are not confirmed in the source itself; verify independently before publishing.",
+      "meta": [
+        "Academy of American Poets (poets.org)",
+        "Academy of American Poets; Emmanuel Oppong-Yeboah (Boston); Lady Brion (Maryland)",
+        "Single source — verify before sharing"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "daniel-schonning-wins-2026-four-quartets-prize",
+      "title": "Daniel Schonning Wins 2026 Four Quartets Prize",
+      "discipline": "Poetry",
+      "category": "Poetry · Awards and Appointments",
+      "date": "Jul 30, 2026",
+      "url": "https://www.pw.org/daily_news",
+      "summary": "Schonning won the Four Quartets Prize for a unified poetry sequence.",
+      "detail": "Signals which small-press poetry collections gain institutional recognition. General field context; no Black-artist connection found.",
+      "meta": [
+        "Poets & Writers (Daily News)",
+        "Daniel Schonning; Poetry Society of America",
+        "No action needed"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "brooklyn-public-library-announces-book-prize-longlists",
+      "title": "Brooklyn Public Library Announces Book Prize Longlists",
+      "discipline": "Literature",
+      "category": "Literature · Awards and Appointments",
+      "date": "Jul 24, 2026",
+      "url": "https://www.pw.org/daily_news",
+      "summary": "BPL announced longlists for its annual book prize across fiction and nonfiction.",
+      "detail": "Municipal library prizes shape midlist visibility. Individual longlisted authors not available in source; verify before use.",
+      "meta": [
+        "Poets & Writers (Daily News)",
+        "Brooklyn Public Library",
+        "No action needed"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "132-new-york-artists-receive-903000-in-grants",
+      "title": "132 New York Artists Receive $903,000 in Grants",
+      "discipline": "Multidisciplinary",
+      "category": "Multidisciplinary · Funding and Policy",
+      "date": "Jul 23, 2026",
+      "url": "https://hyperallergic.com/132-new-york-artists-receive-903-000-in-grants/",
+      "summary": "132 NY-based artists received $8,000 unrestricted grants (16 more received $1,000), from 3,985 applicants.",
+      "detail": "Direct evidence of continued NY State individual-artist funding amid federal cuts. This is the required NY State government funding story landing squarely in this window.",
+      "meta": [
+        "Hyperallergic",
+        "NYSCA / NYFA Artist Fellowship",
+        "Save for strategy"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "how-west-african-music-shapes-adji-cissokos-teaching",
+      "title": "How West African Music Shapes Adji Cissoko's Teaching",
+      "discipline": "Dance",
+      "category": "Dance · Black Artist-Focused",
+      "date": "Aug 10, 2026",
+      "url": "https://dance-teacher.com/west-african-music-shapes-adji-cissokos-teaching/",
+      "summary": "Profile of a German-Senegalese LINES Ballet dancer/associate artistic director on how West African music and griot tradition inform her teaching.",
+      "detail": "Illustrates non-Western musical traditions shaping contemporary ballet pedagogy. Direct profile useful for member-facing content on dance education.",
+      "meta": [
+        "Dance Teacher",
+        "Adji Cissoko; Alonzo King LINES Ballet",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "book-deals-week-of-august-10-2026",
+      "title": "Book Deals: Week of August 10, 2026",
+      "discipline": "Publishing",
+      "category": "Publishing · Major Industry",
+      "date": "Aug 10, 2026",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/book-deals/article/101013-book-deals-week-of-august-10-2026.html",
+      "summary": "Viking won U.S. rights to Nobel laureate Geoffrey Hinton's AI-risk book at auction.",
+      "detail": "Major nonfiction acquisition indicating publisher appetite for AI-risk narratives. General industry-deal context; no Black-artist connection identified.",
+      "meta": [
+        "Publishers Weekly",
+        "Geoffrey Hinton; Viking",
+        "No action needed"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "book-deals-week-of-august-3-2026",
+      "title": "Book Deals: Week of August 3, 2026",
+      "discipline": "Publishing",
+      "category": "Publishing · Major Industry",
+      "date": "Aug 3, 2026",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/book-deals/article/100958-book-deals-week-of-august-3-2026.html",
+      "summary": "FSG acquired a four-book VanderMeer series; Summit won rights to Kehlmann's \"Afrika.\"",
+      "detail": "Tracks major fiction acquisitions shaping the fall pipeline. General industry-deal context; no Black-artist connection identified.",
+      "meta": [
+        "Publishers Weekly",
+        "Jeff VanderMeer; Daniel Kehlmann",
+        "No action needed"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "voting-opens-for-gramophones-orchestra-of-the-year-2026",
+      "title": "Voting Opens for Gramophone's Orchestra of the Year 2026",
+      "discipline": "Classical Music",
+      "category": "Classical Music · Awards and Appointments",
+      "date": "Late Jul/early Aug 2026 (exact date unconfirmed)",
+      "url": "https://www.gramophone.co.uk/content/news/voting-opens-for-gramophones-orchestra-of-the-year-2026",
+      "summary": "Public voting opened for Gramophone's 2026 Orchestra of the Year, closing Aug 25.",
+      "detail": "A closely watched annual award shaping orchestral reputation. General classical-music field context.",
+      "meta": [
+        "Gramophone",
+        "Six nominated orchestras",
+        "Single source — verify exact date and nominee list before sharing"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "orchestra-execs-the-next-generation-arrives",
+      "title": "Orchestra Execs: The Next Generation Arrives",
+      "discipline": "Classical Music",
+      "category": "Classical Music · Awards and Appointments",
+      "date": "Aug 2026 (exact date unconfirmed)",
+      "url": "https://www.musicalamerica.com/news/newsstory.cfm?archived=0&storyID=68815&categoryID=2",
+      "summary": "Roundup on new orchestra administrative leaders, including Grand Rapids Symphony's incoming president & CEO.",
+      "detail": "Documents generational turnover among U.S. orchestra executives. General field context; no Black-artist connection confirmed.",
+      "meta": [
+        "Musical America",
+        "Agnieszka Rakhmatullaev; Grand Rapids Symphony",
+        "Single source — verify exact date before sharing (partial paywall)"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "ari-emanuels-mari-acquires-atg-entertainment",
+      "title": "Ari Emanuel's MARI Acquires ATG Entertainment",
+      "discipline": "Theatre",
+      "category": "Theatre / Live Entertainment · Major Industry",
+      "date": "Aug 11, 2026",
+      "url": "https://www.broadwayworld.com/article/Ari-Emanuels-Mari-Acquires-ATG-Entertainment-20260811",
+      "summary": "MARI acquired ATG Entertainment in a roughly $6B deal, gaining seven Broadway theatres and West End/ticketing footprint.",
+      "detail": "Major consolidation of theatre real estate and ticketing under one owner. Ownership consolidation affects venue access and programming leverage industry-wide.",
+      "meta": [
+        "Broadway World",
+        "Ari Emanuel; MARI; ATG Entertainment",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "fampitaha-fampita-fampitana-and-the-herdless-biennale-danza-review",
+      "title": "Fampitaha, fampita, fampitàna and The Herd/Less (Biennale Danza review)",
+      "discipline": "Dance",
+      "category": "Dance · Black Artist-Focused",
+      "date": "Jul 22, 2026",
+      "url": "https://bachtrack.com/review-fampitaha-fampita-fampitana-the-herd-less-biennale-danza-venice-july-2026",
+      "summary": "Review of South African choreographer Mamela Nyamza's \"The Herd/Less\" at Venice's Biennale Danza.",
+      "detail": "International trade-press coverage of a Black choreographer's new work at a major European biennial. Documents critical reception of a Black choreographer's work on a global stage.",
+      "meta": [
+        "Bachtrack",
+        "Mamela Nyamza; Biennale Danza, Venice",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "the-festival-7-new-musicals-to-preview-at-inaugural-broadway-festival",
+      "title": "The Festival: 7 New Musicals to Preview at Inaugural Broadway Festival",
+      "discipline": "Theatre",
+      "category": "Theatre · Major Industry",
+      "date": "Jul 31, 2026",
+      "url": "https://www.americantheatre.org/2026/07/31/7-new-musicals-to-preview-at-inaugural-broadway-festival/",
+      "summary": "A first-of-its-kind outdoor Broadway festival previews seven new musicals; headline performers include Goldsberry and Jackson.",
+      "detail": "New pre-Broadway development platform, a structural change in the industry. Two headline performers are prominent Black Broadway artists.",
+      "meta": [
+        "American Theatre",
+        "Renée Elise Goldsberry; Christopher Jackson; \"The Festival\"",
+        "No action needed"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "former-high-museum-executive-pleads-guilty-to-embezzlement",
+      "title": "Former High Museum Executive Pleads Guilty to Embezzlement",
+      "discipline": "Museums",
+      "category": "Museums · Major Industry",
+      "date": "Jul 13, 2026",
+      "url": "https://hyperallergic.com/former-high-museum-executive-pleads-guilty-to-embezzlement/",
+      "summary": "Former COO pleaded guilty to embezzling over $600,000 over nearly seven years, including federally funded programs.",
+      "detail": "Institutional-accountability questions at a museum receiving federal funds. Indirect: the High Museum hosts the Driskell Prize honoring Black art scholars, though unrelated to this story.",
+      "meta": [
+        "Hyperallergic",
+        "Brady Lum; High Museum of Art; Woodruff Arts Center",
+        "Single source — verify before sharing"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "mural-damaged-in-break-in-at-harriet-tubman-museum",
+      "title": "Mural Damaged in Break-In at Harriet Tubman Museum",
+      "discipline": "Visual Art",
+      "category": "Visual Art / History Museum · Black Artist-Focused",
+      "date": "Jul 14, 2026",
+      "url": "https://hyperallergic.com/mural-damaged-in-break-in-at-harriet-tubman-museum/",
+      "summary": "An intruder broke into the museum days after it reopened from flood repairs, damaging a mural and stealing the donation box.",
+      "detail": "Shows the fragility of small, donation-dependent Black-history institutions. A Black-history museum forced into emergency fundraising, the kind of institution Soirée's audience supports.",
+      "meta": [
+        "Hyperallergic",
+        "Harriet Tubman Museum and Educational Center; Michael Rosato",
+        "Save for strategy"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "neh-announces-414-million-for-81-humanities-projects",
+      "title": "NEH Announces $41.4 Million for 81 Humanities Projects",
+      "discipline": "Humanities",
+      "category": "Humanities · Funding and Policy",
+      "date": "Jul 22, 2026",
+      "url": "https://www.neh.gov/news/neh-announces-414-million-81-humanities-projects",
+      "summary": "NEH awarded $41.4M across 81 projects; no projects explicitly tied to Black history were identified.",
+      "detail": "Continued (if reduced) federal humanities funding despite broader cuts pressure. General federal funding-landscape context; no direct connection found.",
+      "meta": [
+        "National Endowment for the Humanities",
+        "NEH",
+        "No action needed"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "juliana-huxtable-and-mark-bradford-in-major-gift-to-the-zimmerli-art-m",
+      "title": "Juliana Huxtable and Mark Bradford in Major Gift to the Zimmerli Art Museum",
+      "discipline": "Visual Art",
+      "category": "Visual Art / Philanthropy · Funding and Policy",
+      "date": "Jul 22, 2026",
+      "url": "https://hyperallergic.com/juliana-huxtable-and-mark-bradford-in-major-gift-to-the-zimmerli-art-museum/",
+      "summary": "Collectors donated 70+ works to Rutgers' Zimmerli, including work by Mark Bradford and Juliana Huxtable; exhibition planned Feb 2027.",
+      "detail": "Private collector philanthropy continuing to shape university museum collections. Verified inclusion of major Black artist Mark Bradford's work in a significant institutional gift.",
+      "meta": [
+        "Hyperallergic",
+        "Zimmerli Art Museum, Rutgers; Mark Bradford; Juliana Huxtable",
+        "Save for strategy"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "protesters-decry-chinatown-museums-acceptance-of-jail-money-at-town-ha",
+      "title": "Protesters Decry Chinatown Museum's Acceptance of \"Jail Money\" at Town Hall",
+      "discipline": "Museums",
+      "category": "Museums / Municipal Policy · Funding and Policy",
+      "date": "Jul 21, 2026",
+      "url": "https://hyperallergic.com/protesters-decry-chinatown-museums-acceptance-of-jail-money-at-town-hall/",
+      "summary": "MOCA accepted a $35M NYC capital grant tied to the Manhattan borough-based jail project; community groups confronted leadership at a town hall.",
+      "detail": "Illustrates how NYC capital funding for cultural institutions is entangled with contested municipal projects. Live example of NYC capital-grant controversy directly in Soirée's funding landscape.",
+      "meta": [
+        "Hyperallergic",
+        "Museum of Chinese in America; NYC government",
+        "Save for strategy"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "the-art-institute-of-chicago-to-cut-its-entire-custodial-staff",
+      "title": "The Art Institute of Chicago to Cut Its Entire Custodial Staff",
+      "discipline": "Museums",
+      "category": "Museums / Labor · Major Industry",
+      "date": "Jul 21, 2026",
+      "url": "https://hyperallergic.com/the-art-institute-of-chicago-to-cut-its-entire-custodial-staff/",
+      "summary": "The museum plans to outsource its entire custodial staff to external vendors.",
+      "detail": "Broader museum cost-cutting and outsourcing trend amid funding pressure. Labor/funding-squeeze pattern relevant to institutions members support.",
+      "meta": [
+        "Hyperallergic",
+        "Art Institute of Chicago; custodial union",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "former-va-academic-programs-head-accuses-museum-of-racist-behavior",
+      "title": "Former V&A Academic Programs Head Accuses Museum of \"Racist\" Behavior",
+      "discipline": "Museums",
+      "category": "Museums / Labor-DEI · Major Industry",
+      "date": "Jul 23, 2026",
+      "url": "https://hyperallergic.com/former-v-a-academic-programs-head-accuses-museum-of-racist-behavior/",
+      "summary": "Kikuchi alleged systemic racism at the V&A, including resistance to decolonization curriculum and content gaps on enslaved people in 18th-century Jamaica.",
+      "detail": "Ongoing institutional-racism reckonings at major Western museums. Case centers on anti-Asian discrimination, but cites content gaps on enslaved people's experiences.",
+      "meta": [
+        "Hyperallergic",
+        "Yuko Kikuchi; Victoria and Albert Museum",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "nvidia-ceo-pours-75m-into-san-francisco-art-campus",
+      "title": "Nvidia CEO Pours $75M Into San Francisco Art Campus",
+      "discipline": "Visual Art",
+      "category": "Visual Art / Design Education · Funding and Policy",
+      "date": "Jul 21, 2026",
+      "url": "https://hyperallergic.com/nvidia-ceo-pours-75m-into-san-francisco-art-campus/",
+      "summary": "Nvidia's co-founder gave $75M to establish a new art/design college in San Francisco.",
+      "detail": "Growing reliance on individual tech-wealth philanthropy to backstop arts education. Relevant to the broader funders'-priorities conversation Soirée tracks.",
+      "meta": [
+        "Hyperallergic",
+        "Jensen & Lori Huang; California College of the Arts",
+        "No action needed"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "tate-names-dia-leader-jessica-morgan-as-next-director",
+      "title": "Tate Names Dia Leader Jessica Morgan as Next Director",
+      "discipline": "Museums",
+      "category": "Museums / Leadership · Awards and Appointments",
+      "date": "Jul 22, 2026",
+      "url": "https://hyperallergic.com/tate-names-dia-leader-jessica-morgan-as-next-director/",
+      "summary": "Curator Jessica Morgan was named the Tate's next director.",
+      "detail": "Major transatlantic museum leadership move. General leadership-watch item; no direct Soirée relevance.",
+      "meta": [
+        "Hyperallergic",
+        "Jessica Morgan; Tate; Dia Art Foundation",
+        "No action needed"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "aam-statement-on-the-independence-of-the-smithsonian-and-americas-muse",
+      "title": "AAM Statement on the Independence of the Smithsonian and America's Museums",
+      "discipline": "Museums",
+      "category": "Museums / Policy · Funding and Policy",
+      "date": "Jul 20, 2026",
+      "url": "https://www.aam-us.org/2026/07/20/aam-statement-on-the-independence-of-the-smithsonian-and-americas-museums/",
+      "summary": "AAM condemned political pressure on the Smithsonian over how it presents history, warning all 22,000 U.S. museums are at risk.",
+      "detail": "A leading museum trade body publicly pushing back on federal politicization of curatorial content. Sets national context for political/funding pressure that could reach NYC institutions.",
+      "meta": [
+        "American Alliance of Museums",
+        "AAM; Smithsonian Institution",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "american-alliance-of-museums-backs-smithsonian-institution",
+      "title": "American Alliance of Museums Backs Smithsonian Institution",
+      "discipline": "Museums",
+      "category": "Museums / Policy · Funding and Policy",
+      "date": "Jul 28, 2026",
+      "url": "https://www.museumsassociation.org/museums-journal/news/2026/07/american-alliance-of-museums-backs-smithsonian-institution/",
+      "summary": "Coverage situates the \"Saving America's Story\" controversy under Lonnie Bunch, the Smithsonian's first African American secretary, during its politically fraught 250th anniversary year.",
+      "detail": "International amplification of the U.S. museum-independence fight. Clearest verifiable Black-leadership angle in the ongoing Smithsonian saga.",
+      "meta": [
+        "Museums Association (UK)",
+        "AAM; Smithsonian Secretary Lonnie Bunch",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "trump-orders-installation-of-warning-signs-outside-smithsonian-museum",
+      "title": "Trump Orders Installation of Warning Signs Outside Smithsonian Museum",
+      "discipline": "Museums",
+      "category": "Museums / Policy · Funding and Policy",
+      "date": "Jul 27, 2026",
+      "url": "https://hyperallergic.com/trump-orders-installation-of-warning-signs-outside-smithsonian-museum/",
+      "summary": "Trump ordered warning signage after a report accused the museum of \"extreme political activism,\" including its treatment of slavery-related exhibits; $1B in federal funding threatened.",
+      "detail": "Direct federal threat to withhold museum funding over exhibit content, including slavery history. Already featured as Top 5 #5 in the July 31 briefing (Monitor).",
+      "meta": [
+        "Hyperallergic",
+        "National Museum of American History; Anthea Hartig",
+        "Already shared"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "cooling-system-malfunction-shutters-seven-smithsonian-museums",
+      "title": "Cooling System Malfunction Shutters Seven Smithsonian Museums",
+      "discipline": "Museums",
+      "category": "Museums / Facilities · Major Industry",
+      "date": "Aug 6, 2026",
+      "url": "https://hyperallergic.com/cooling-system-malfunction-shutters-seven-smithsonian-museums/",
+      "summary": "A cooling-system failure during extreme heat forced closure of seven buildings, including the National Museum of African Art.",
+      "detail": "Points to deferred-maintenance risk at a museum system already facing budget cuts. The National Museum of African Art was among the closed sites.",
+      "meta": [
+        "Hyperallergic",
+        "Smithsonian Institution; National Museum of African Art",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "creative-forces-expands-arts-engagement-opportunities-for-military-nat",
+      "title": "Creative Forces Expands Arts Engagement Opportunities for Military Nationwide",
+      "discipline": "Multidisciplinary",
+      "category": "Multidisciplinary / Federal · Funding and Policy",
+      "date": "Aug 4, 2026",
+      "url": "https://www.arts.gov",
+      "summary": "NEA announced $888,000+ across 48 organizations for military-connected community arts engagement.",
+      "detail": "Shows one NEA grant line continuing despite broader endowment cuts pressure. General federal-funding context; no NYC or Black-institution tie identified.",
+      "meta": [
+        "National Endowment for the Arts",
+        "NEA; 48 partner organizations",
+        "No action needed"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "could-this-new-legislation-protect-historic-sites-from-trumps-wrath",
+      "title": "Could This New Legislation Protect Historic Sites From Trump's Wrath?",
+      "discipline": "Public Art",
+      "category": "Public Art / Policy · Funding and Policy",
+      "date": "Aug 7, 2026",
+      "url": "https://hyperallergic.com/could-this-new-legislation-protect-historic-sites-from-trumps-wrath/",
+      "summary": "Democrats are advancing legislation to protect publicly commissioned art and historic sites after preservation-council rule changes.",
+      "detail": "A live legislative fight over federal protection of public art and historic sites. General policy-watch item for public-art protections.",
+      "meta": [
+        "Hyperallergic",
+        "Congressional Democrats (PRESERVE Act)",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "cubas-gloria-rolando-is-making-a-film-about-the-buffalo-soldiers-she-n",
+      "title": "Cuba's Gloria Rolando is making a film about the Buffalo Soldiers. She needs our help",
+      "discipline": "Film",
+      "category": "Film · Black Artist-Focused",
+      "date": "Aug 6, 2026",
+      "url": "https://amsterdamnews.com/news/2026/08/06/cubas-gloria-rolando-is-making-a-film-about-the-buffalo-soldiers/",
+      "summary": "Havana filmmaker Rolando is producing \"Mi Guerra,\" on Black U.S. soldiers in Cuba's 1898 independence war, fundraising ~$5,000 for travel.",
+      "detail": "Independent Afro-Caribbean filmmaking on shared African diaspora history, made outside institutional funding. Cross-diaspora story fitting Soirée's transnational Black-arts lens; genuinely under-covered.",
+      "meta": [
+        "New York Amsterdam News",
+        "Gloria Rolando; Imágenes del Caribe",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "new-book-revisits-gordon-parks-groundbreaking-photography-in-a-harlem",
+      "title": "New book revisits Gordon Parks' groundbreaking photography in 'A Harlem Family'",
+      "discipline": "Literature",
+      "category": "Literature / Photography / Archive · Black Artist-Focused",
+      "date": "Aug 6, 2026",
+      "url": "https://amsterdamnews.com/news/2026/08/06/new-book-revisits-gordon-parks-photography-in-a-harlem-family/",
+      "summary": "Expanded edition of \"Diary of a Harlem Family 1967/1968\" adds unpublished photos and correspondence to Parks' landmark LIFE essay.",
+      "detail": "Archive-driven republication expanding the primary-source record of a foundational photojournalist's most influential project. Book/archive story suited to member programming or a book-club-style feature.",
+      "meta": [
+        "New York Amsterdam News",
+        "Gordon Parks Foundation; Steidl",
+        "Share"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "jazz-notes-spotlight-on-andrew-cyrille-amber-weekes-and-the-oscar-brow",
+      "title": "JAZZ NOTES: Spotlight on Andrew Cyrille, Amber Weekes, and the Oscar Brown Jr. centennial",
+      "discipline": "Music",
+      "category": "Music / Jazz · Black Artist-Focused",
+      "date": "Aug 6, 2026",
+      "url": "https://amsterdamnews.com/news/2026/08/06/jazz-notes-spotlight-on-andrew-cyrille-amber-weekes-and-the-oscar-brown-jr/",
+      "summary": "Profiles drummer Cyrille's Village Vanguard run and vocalist Weekes' tribute album marking the Oscar Brown Jr. centennial.",
+      "detail": "Sustains attention on jazz elders and centennials mainstream outlets skip. Heritage item tied to living legends still performing in small NYC rooms.",
+      "meta": [
+        "New York Amsterdam News",
+        "Andrew Cyrille; Amber Weekes; Oscar Brown Jr. estate",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "the-quotable-dr-joycelyn-elders-now-onstage-in-little-rock",
+      "title": "The Quotable Dr. Joycelyn Elders, Now Onstage In Little Rock",
+      "discipline": "Theatre",
+      "category": "Theatre · Black Artist-Focused",
+      "date": "Aug 10, 2026",
+      "url": "https://www.americantheatre.org/2026/08/10/the-quotable-dr-joycelyn-elders-now-onstage-in-little-rock/",
+      "summary": "Arkansas Rep stages a new biographical play on the first Black U.S. Surgeon General, written/directed by the theatre's artistic director.",
+      "detail": "A regional Black-led theatre premiering a new biographical work, expanding the new-play pipeline outside coastal hubs. Small regional story about Black history national theatre press is unlikely to flag.",
+      "meta": [
+        "American Theatre",
+        "Arkansas Repertory Theatre; Steve H. Broadnax III; Dr. Joycelyn Elders",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
+    },
+    {
+      "id": "people-to-watch-phanesia-pharel",
+      "title": "People to Watch: Phanésia Pharel",
+      "discipline": "Theatre",
+      "category": "Theatre · Black Artist-Focused",
+      "date": "Aug 3, 2026",
+      "url": "https://www.americantheatre.org/2026/08/03/people-to-watch-phanesia-pharel/",
+      "summary": "Profile of a Haitian American playwright whose new play is a three-theatre co-production.",
+      "detail": "A multi-theatre co-production financing model built around an emerging playwright of color. Surfaces a rising Haitian American playwright's trajectory ahead of wider recognition.",
+      "meta": [
+        "American Theatre",
+        "Phanésia Pharel; Barrington Stage Co.; Goodman Theatre; Hartford Stage",
+        "Monitor"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "earlier",
+      "displaySection": "archive",
+      "displayLabel": "The Archive"
     }
   ],
   "appointments": [
@@ -1186,5 +2670,210 @@
     "The Black Composer Project: From Dawn to Cosmic Night — Running through Sept 27, 2026, select dates",
     "America, Who Hurt You? — Sept 11–27, 2026",
     "BCLF and The Center for Fiction Present Marlon James on The Disappearers — Sept 9, 2026, 7 PM"
-  ]
+  ],
+  "newsDisplay": {
+    "currentWeek": "2026-08-19",
+    "mainTopStory": "kennedy-center-board-votes-again-to-shut-main-building-down-and-add-trumps-name-back",
+    "topStories": [
+      "justice-visits-west-virginia-state-highlights-hbcu-arts-act",
+      "national-museum-of-african-american-history-and-culture-announces-the-reunion-a-multi",
+      "dallas-black-dance-theatre-starts-50th-season-with-its-first-union-contract",
+      "debbie-allen-and-angelica-cheri-team-up-for-phenomenal-woman-maya-angelou-cheri-wins",
+      "harlem-week-honors-50th-anniversary-of-caribbean-cultural-center-african-diaspora-ins",
+      "2026-booker-prize-longlist-announced",
+      "culture-talk-studio-museum-curator-connie-h-choi-on-artistactivist-tom-lloyd-and-his",
+      "new-dance-alliance-unveils-2026-27-black-artists-space-to-create-resident-artists"
+    ],
+    "moreThisWeek": [
+      "dance-theatre-of-harlem-to-return-to-chicago-at-auditorium-dance-season",
+      "review-the-2026-international-black-theatre-festival",
+      "east-hamptons-guild-hall-presents-the-dance-theatre-of-harlem-celebrates-black-cultur",
+      "san-diego-museum-of-art-lays-off-11-employees",
+      "danceusa-announces-conclusion-of-fellowships-to-artists-program",
+      "danceusas-new-executive-director-says-the-organization-needs-to-rebuild",
+      "your-august-2026-roster-roundup-dancers-and-directors-on-the-move",
+      "actors-equity-association-gets-strike-ready-as-broadway-contract-expires",
+      "mayor-mamdani-tdf-announce-thousands-of-free-and-low-cost-broadway-tickets-for-high-s",
+      "us-national-gallery-of-art-acquires-paintings-sculptures-and-photographs-spanning-fiv",
+      "oif-releases-additional-reports-on-censorship-in-2025",
+      "blackstar-film-festival-2026-dates-venues-and-what-to-know-in-philadelphia",
+      "nc-black-rep-announces-managing-director",
+      "pouring-into-our-own-a-black-tradition-of-collective-investment",
+      "artist-betye-saar-whose-work-reflects-black-identity-dies-at-99",
+      "international-black-theatre-fest-is-feast-of-theater-community-and-rejuvenation-of-th",
+      "studio-museum-in-harlem-announces-fall-2026-season",
+      "getty-and-national-trust-award-3-million-to-preserve-historic-black-places"
+    ],
+    "archive": [
+      "dance-theatre-of-harlem-galvanizes-arts-community-with-inaugural-artis",
+      "black-author-vows-to-fight-back-after-he-loses-2-million-publishing-de",
+      "trump-proposes-lowest-smithsonian-budget-in-years",
+      "hana-sharif-leaves-arena-leaving-questions-for-the-field",
+      "misty-copeland-curates-joyce-ballet-festival-august-4-16",
+      "complete-programming-and-cast-set-for-misty-copeland-curated-joyce-bal",
+      "betye-saar-artist-who-shattered-stereotypes-of-black-women-dies-at-99",
+      "betye-saar-assemblage-artist-who-reframed-racist-and-sexist-imagery-ha",
+      "betye-saar-a-brilliant-artist-of-transformative-assemblages-passes-at",
+      "black-ice-def-poetry-jam-breakout-star-has-died",
+      "international-black-theatre-festival-brings-fans-to-triad",
+      "holy-ground-theater-doc-documents-the-birth-of-a-great-and-needed-lega",
+      "leadership-changes-at-arena-wilma-mu-and-more",
+      "new-dramatists-resident-playwrights-namt-musicals-edinburgh-fringe-and",
+      "analysis-august-2026-the-sphinx-organization-thirty-years-on",
+      "exploring-critique-and-admiration-in-artist-shaun-leonardos-exhibit-th",
+      "buffalo-akg-art-museum-will-split-leadership-duties-in-two-and-promote",
+      "the-armory-show-reveals-230-gallery-line-up-and-move-to-late-september",
+      "christies-and-sothebys-2026-half-year-results-trophy-lots-and-luxury-g",
+      "lincoln-center-announces-202627-season-of-live-programming-including-a",
+      "judge-extends-deadline-for-kennedy-center-to-explain-tarps-constructio",
+      "kennedy-center-temporarily-suspends-free-tours",
+      "whitney-museum-announces-exhibitions-through-fall-2027",
+      "here-are-the-13-books-that-made-the-booker-prize-longlist",
+      "last-call-on-broadway-these-award-winning-shows-are-taking-their-final",
+      "cats-the-jellicle-ball-takes-final-broadway-death-drop-august-8",
+      "sfmoma-acquires-more-than-90-works-of-modern-and-contemporary-art-refl",
+      "abt-reveals-2026-fall-and-2027-spring-season-at-the-david-h-koch-theat",
+      "the-tools-book-banners-are-using-to-target-books-in-2026-book-censorsh",
+      "intellectual-freedom-news-872026",
+      "san-diego-museum-of-art-lays-off-11-workers",
+      "15-artists-named-2026-joan-mitchell-fellows",
+      "aaww-names-ed-lin-interim-executive-director",
+      "amazon-literary-partnership-announces-2026-grant-recipients",
+      "twenty-two-poets-laureate-awarded-11-million-for-community-poetry-proj",
+      "daniel-schonning-wins-2026-four-quartets-prize",
+      "brooklyn-public-library-announces-book-prize-longlists",
+      "132-new-york-artists-receive-903000-in-grants",
+      "how-west-african-music-shapes-adji-cissokos-teaching",
+      "book-deals-week-of-august-10-2026",
+      "book-deals-week-of-august-3-2026",
+      "voting-opens-for-gramophones-orchestra-of-the-year-2026",
+      "orchestra-execs-the-next-generation-arrives",
+      "ari-emanuels-mari-acquires-atg-entertainment",
+      "fampitaha-fampita-fampitana-and-the-herdless-biennale-danza-review",
+      "the-festival-7-new-musicals-to-preview-at-inaugural-broadway-festival",
+      "former-high-museum-executive-pleads-guilty-to-embezzlement",
+      "mural-damaged-in-break-in-at-harriet-tubman-museum",
+      "neh-announces-414-million-for-81-humanities-projects",
+      "juliana-huxtable-and-mark-bradford-in-major-gift-to-the-zimmerli-art-m",
+      "protesters-decry-chinatown-museums-acceptance-of-jail-money-at-town-ha",
+      "the-art-institute-of-chicago-to-cut-its-entire-custodial-staff",
+      "former-va-academic-programs-head-accuses-museum-of-racist-behavior",
+      "nvidia-ceo-pours-75m-into-san-francisco-art-campus",
+      "tate-names-dia-leader-jessica-morgan-as-next-director",
+      "aam-statement-on-the-independence-of-the-smithsonian-and-americas-muse",
+      "american-alliance-of-museums-backs-smithsonian-institution",
+      "trump-orders-installation-of-warning-signs-outside-smithsonian-museum",
+      "cooling-system-malfunction-shutters-seven-smithsonian-museums",
+      "creative-forces-expands-arts-engagement-opportunities-for-military-nat",
+      "could-this-new-legislation-protect-historic-sites-from-trumps-wrath",
+      "cubas-gloria-rolando-is-making-a-film-about-the-buffalo-soldiers-she-n",
+      "new-book-revisits-gordon-parks-groundbreaking-photography-in-a-harlem",
+      "jazz-notes-spotlight-on-andrew-cyrille-amber-weekes-and-the-oscar-brow",
+      "the-quotable-dr-joycelyn-elders-now-onstage-in-little-rock",
+      "people-to-watch-phanesia-pharel"
+    ]
+  },
+  "newsLayout": {
+    "mainTopStory": [
+      "kennedy-center-board-votes-again-to-shut-main-building-down-and-add-trumps-name-back"
+    ],
+    "topStories": [
+      "justice-visits-west-virginia-state-highlights-hbcu-arts-act",
+      "national-museum-of-african-american-history-and-culture-announces-the-reunion-a-multi",
+      "dallas-black-dance-theatre-starts-50th-season-with-its-first-union-contract",
+      "debbie-allen-and-angelica-cheri-team-up-for-phenomenal-woman-maya-angelou-cheri-wins",
+      "harlem-week-honors-50th-anniversary-of-caribbean-cultural-center-african-diaspora-ins",
+      "2026-booker-prize-longlist-announced",
+      "culture-talk-studio-museum-curator-connie-h-choi-on-artistactivist-tom-lloyd-and-his",
+      "new-dance-alliance-unveils-2026-27-black-artists-space-to-create-resident-artists"
+    ],
+    "moreThisWeek": [
+      "dance-theatre-of-harlem-to-return-to-chicago-at-auditorium-dance-season",
+      "review-the-2026-international-black-theatre-festival",
+      "east-hamptons-guild-hall-presents-the-dance-theatre-of-harlem-celebrates-black-cultur",
+      "san-diego-museum-of-art-lays-off-11-employees",
+      "danceusa-announces-conclusion-of-fellowships-to-artists-program",
+      "danceusas-new-executive-director-says-the-organization-needs-to-rebuild",
+      "your-august-2026-roster-roundup-dancers-and-directors-on-the-move",
+      "actors-equity-association-gets-strike-ready-as-broadway-contract-expires",
+      "mayor-mamdani-tdf-announce-thousands-of-free-and-low-cost-broadway-tickets-for-high-s",
+      "us-national-gallery-of-art-acquires-paintings-sculptures-and-photographs-spanning-fiv",
+      "oif-releases-additional-reports-on-censorship-in-2025",
+      "blackstar-film-festival-2026-dates-venues-and-what-to-know-in-philadelphia",
+      "nc-black-rep-announces-managing-director",
+      "pouring-into-our-own-a-black-tradition-of-collective-investment",
+      "artist-betye-saar-whose-work-reflects-black-identity-dies-at-99",
+      "international-black-theatre-fest-is-feast-of-theater-community-and-rejuvenation-of-th",
+      "studio-museum-in-harlem-announces-fall-2026-season",
+      "getty-and-national-trust-award-3-million-to-preserve-historic-black-places"
+    ],
+    "archive": [
+      "dance-theatre-of-harlem-galvanizes-arts-community-with-inaugural-artis",
+      "black-author-vows-to-fight-back-after-he-loses-2-million-publishing-de",
+      "trump-proposes-lowest-smithsonian-budget-in-years",
+      "hana-sharif-leaves-arena-leaving-questions-for-the-field",
+      "misty-copeland-curates-joyce-ballet-festival-august-4-16",
+      "complete-programming-and-cast-set-for-misty-copeland-curated-joyce-bal",
+      "betye-saar-artist-who-shattered-stereotypes-of-black-women-dies-at-99",
+      "betye-saar-assemblage-artist-who-reframed-racist-and-sexist-imagery-ha",
+      "betye-saar-a-brilliant-artist-of-transformative-assemblages-passes-at",
+      "black-ice-def-poetry-jam-breakout-star-has-died",
+      "international-black-theatre-festival-brings-fans-to-triad",
+      "holy-ground-theater-doc-documents-the-birth-of-a-great-and-needed-lega",
+      "leadership-changes-at-arena-wilma-mu-and-more",
+      "new-dramatists-resident-playwrights-namt-musicals-edinburgh-fringe-and",
+      "analysis-august-2026-the-sphinx-organization-thirty-years-on",
+      "exploring-critique-and-admiration-in-artist-shaun-leonardos-exhibit-th",
+      "buffalo-akg-art-museum-will-split-leadership-duties-in-two-and-promote",
+      "the-armory-show-reveals-230-gallery-line-up-and-move-to-late-september",
+      "christies-and-sothebys-2026-half-year-results-trophy-lots-and-luxury-g",
+      "lincoln-center-announces-202627-season-of-live-programming-including-a",
+      "judge-extends-deadline-for-kennedy-center-to-explain-tarps-constructio",
+      "kennedy-center-temporarily-suspends-free-tours",
+      "whitney-museum-announces-exhibitions-through-fall-2027",
+      "here-are-the-13-books-that-made-the-booker-prize-longlist",
+      "last-call-on-broadway-these-award-winning-shows-are-taking-their-final",
+      "cats-the-jellicle-ball-takes-final-broadway-death-drop-august-8",
+      "sfmoma-acquires-more-than-90-works-of-modern-and-contemporary-art-refl",
+      "abt-reveals-2026-fall-and-2027-spring-season-at-the-david-h-koch-theat",
+      "the-tools-book-banners-are-using-to-target-books-in-2026-book-censorsh",
+      "intellectual-freedom-news-872026",
+      "san-diego-museum-of-art-lays-off-11-workers",
+      "15-artists-named-2026-joan-mitchell-fellows",
+      "aaww-names-ed-lin-interim-executive-director",
+      "amazon-literary-partnership-announces-2026-grant-recipients",
+      "twenty-two-poets-laureate-awarded-11-million-for-community-poetry-proj",
+      "daniel-schonning-wins-2026-four-quartets-prize",
+      "brooklyn-public-library-announces-book-prize-longlists",
+      "132-new-york-artists-receive-903000-in-grants",
+      "how-west-african-music-shapes-adji-cissokos-teaching",
+      "book-deals-week-of-august-10-2026",
+      "book-deals-week-of-august-3-2026",
+      "voting-opens-for-gramophones-orchestra-of-the-year-2026",
+      "orchestra-execs-the-next-generation-arrives",
+      "ari-emanuels-mari-acquires-atg-entertainment",
+      "fampitaha-fampita-fampitana-and-the-herdless-biennale-danza-review",
+      "the-festival-7-new-musicals-to-preview-at-inaugural-broadway-festival",
+      "former-high-museum-executive-pleads-guilty-to-embezzlement",
+      "mural-damaged-in-break-in-at-harriet-tubman-museum",
+      "neh-announces-414-million-for-81-humanities-projects",
+      "juliana-huxtable-and-mark-bradford-in-major-gift-to-the-zimmerli-art-m",
+      "protesters-decry-chinatown-museums-acceptance-of-jail-money-at-town-ha",
+      "the-art-institute-of-chicago-to-cut-its-entire-custodial-staff",
+      "former-va-academic-programs-head-accuses-museum-of-racist-behavior",
+      "nvidia-ceo-pours-75m-into-san-francisco-art-campus",
+      "tate-names-dia-leader-jessica-morgan-as-next-director",
+      "aam-statement-on-the-independence-of-the-smithsonian-and-americas-muse",
+      "american-alliance-of-museums-backs-smithsonian-institution",
+      "trump-orders-installation-of-warning-signs-outside-smithsonian-museum",
+      "cooling-system-malfunction-shutters-seven-smithsonian-museums",
+      "creative-forces-expands-arts-engagement-opportunities-for-military-nat",
+      "could-this-new-legislation-protect-historic-sites-from-trumps-wrath",
+      "cubas-gloria-rolando-is-making-a-film-about-the-buffalo-soldiers-she-n",
+      "new-book-revisits-gordon-parks-groundbreaking-photography-in-a-harlem",
+      "jazz-notes-spotlight-on-andrew-cyrille-amber-weekes-and-the-oscar-brow",
+      "the-quotable-dr-joycelyn-elders-now-onstage-in-little-rock",
+      "people-to-watch-phanesia-pharel"
+    ]
+  }
 }
