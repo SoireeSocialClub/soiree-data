@@ -2,7 +2,7 @@
   "meta": {
     "week": "September 3, 2026",
     "updated": "2026-09-03",
-    "eventCount": "59",
+    "eventCount": "57",
     "topStoryHeadline": "Kennedy Center Removes Beloved Joel Shapiro Sculpture ('Blue')",
     "topStorySummary": "A landmark sculpture was removed from the Kennedy Center without advance public notice, extending the debate over who controls the public face of cultural institutions.",
     "executiveSummary": [
@@ -93,41 +93,6 @@
       "featured": true,
       "juneteenth": false,
       "featureNote": "Soirée Pick"
-    },
-    {
-      "id": "welancora-gallery-mirror-of-the-times",
-      "title": "Welancora Gallery: Mirror of the Times",
-      "discipline": "Visual art / gallery exhibition",
-      "venue": "Welancora Gallery",
-      "address": "Brooklyn (Bedford-Stuyvesant)",
-      "dates": "Sept 7–Oct 3",
-      "dateSort": "2026-09-07",
-      "price": "Free",
-      "free": true,
-      "url": "https://www.welancoragallery.com/events/",
-      "description": "Chris Cook, second solo exhibition at the gallery. A Black-owned Bed-Stuy gallery giving Chris Cook a second solo show, the kind of steady artist relationship members rarely see tracked",
-      "status": "thisweek",
-      "urgentNote": "This week · Free",
-      "featured": true,
-      "juneteenth": false,
-      "featureNote": "Soirée Pick"
-    },
-    {
-      "id": "watch-night-to-linger-in-the-ordinary",
-      "title": "Watch Night: To Linger in the Ordinary",
-      "discipline": "Screening / community program",
-      "venue": "Weeksville Heritage Center",
-      "address": "Brooklyn (Crown Heights)",
-      "dates": "Thu, Sept 3, 6–9 PM",
-      "dateSort": "2026-09-03",
-      "price": "Free",
-      "free": true,
-      "url": "https://www.weeksvillesociety.org/event/watch-night-to-linger-in-the-ordinary/",
-      "description": "Film program on Black life, intimacy, and everyday experience. A free, community-rooted evening at one of Brooklyn's founding Black historic sites",
-      "status": "thisweek",
-      "urgentNote": "This week · Free",
-      "featured": false,
-      "juneteenth": false
     },
     {
       "id": "in-honor-of-jean-michel-basquiat",
