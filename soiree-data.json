@@ -12,13 +12,13 @@
     ],
     "newsCount": "158",
     "currentNewsCount": "18",
-    "topPhotoStoryCount": "8",
-    "moreThisWeekCount": "9",
+    "topPhotoStoryCount": "7",
+    "moreThisWeekCount": "10",
     "archiveNewsCount": "140",
-    "layoutUpdated": "2026-09-17T07:58:57-04:00",
-    "layoutVersion": "sep16-main-plus-top8-more-this-week-v3",
+    "layoutUpdated": "2026-09-17T08:16:49-04:00",
+    "layoutVersion": "sep16-main-plus-top7-more-this-week-v4",
     "mainTopStoryCount": "1",
-    "newsDisplayModel": "1 main top story, 8 photo highlights, remaining current-week stories text-only, older stories in archive",
+    "newsDisplayModel": "1 main top story, 7 photo highlights, remaining current-week stories text-only, older stories in archive",
     "eventsCarryForwardNote": "Updated from the September 16 Radar. Still-current events from the September 3 JSON were retained; duplicate listings were merged, and expired one-time events before September 17 and out-of-scope listings were removed."
   },
   "events": [
@@ -1624,10 +1624,9 @@
       "featured": false,
       "urgent": false,
       "weekAdded": "2026-09-16",
-      "displaySection": "topStories",
-      "displayLabel": "Top Stories",
-      "displayOrder": 9,
-      "highlightRank": 8
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week",
+      "displayOrder": 9
     },
     {
       "id": "national-book-award-for-translated-literature-announces-2026-longlist",
@@ -5185,10 +5184,10 @@
       "wil-haygood-and-camonghne-felix-named-to-national-book-award-nonfiction-longlist",
       "jonah-mixon-webster-named-to-national-book-award-poetry-longlist",
       "micaela-taylor-brings-tap-history-to-english-national-ballet-in-bow-out",
-      "leilah-babirye-joins-salon-94",
-      "howardena-pindell-to-receive-romare-bearden-foundations-artistic-legacy-award"
+      "leilah-babirye-joins-salon-94"
     ],
     "moreThisWeek": [
+      "howardena-pindell-to-receive-romare-bearden-foundations-artistic-legacy-award",
       "national-book-award-for-translated-literature-announces-2026-longlist",
       "shae-sanders-sells-two-book-romance-deal-for-the-stars-between-us",
       "apollo-receives-inaugural-african-american-day-parade-community-institution-award",
@@ -5353,10 +5352,10 @@
       "wil-haygood-and-camonghne-felix-named-to-national-book-award-nonfiction-longlist",
       "jonah-mixon-webster-named-to-national-book-award-poetry-longlist",
       "micaela-taylor-brings-tap-history-to-english-national-ballet-in-bow-out",
-      "leilah-babirye-joins-salon-94",
-      "howardena-pindell-to-receive-romare-bearden-foundations-artistic-legacy-award"
+      "leilah-babirye-joins-salon-94"
     ],
     "moreThisWeek": [
+      "howardena-pindell-to-receive-romare-bearden-foundations-artistic-legacy-award",
       "national-book-award-for-translated-literature-announces-2026-longlist",
       "shae-sanders-sells-two-book-romance-deal-for-the-stars-between-us",
       "apollo-receives-inaugural-african-american-day-parade-community-institution-award",
