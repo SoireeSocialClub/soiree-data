@@ -6,17 +6,17 @@
     "topStoryHeadline": "Smithsonian Chief Lonnie G. Bunch III Resigns",
     "topStorySummary": "The first Black person and first historian to lead the Smithsonian announced he will step down by year's end after months of pressure from the Trump administration over exhibition content.",
     "executiveSummary": [
-      "Lonnie G. Bunch III’s planned departure from the Smithsonian leads this week’s briefing, alongside continuing leadership changes and institutional pressures across the museum field.",
+      "The Kennedy Center’s closure vote, strike authorizations at the Whitney, Brooklyn Museum, and American Folk Art Museum, and Lonnie G. Bunch III’s planned Smithsonian departure lead this week’s institutional coverage.",
       "Black artists receive major recognition through Tschabalala Self’s Fourth Plinth commission, the National Book Award longlists, the NEA Jazz Masters honors, and Howardena Pindell’s forthcoming Artistic Legacy Award.",
       "New York’s fall season brings the Schomburg’s Forging Ahead exhibition, the Studio Museum’s returning residency exhibition, Fall for Dance, and programs honoring Marian Anderson and the Swans of Harlem."
     ],
-    "newsCount": "158",
-    "currentNewsCount": "18",
+    "newsCount": "163",
+    "currentNewsCount": "23",
     "topPhotoStoryCount": "7",
-    "moreThisWeekCount": "10",
+    "moreThisWeekCount": "15",
     "archiveNewsCount": "140",
-    "layoutUpdated": "2026-09-17T08:16:49-04:00",
-    "layoutVersion": "sep16-main-plus-top7-more-this-week-v4",
+    "layoutUpdated": "2026-09-17T13:27:39-04:00",
+    "layoutVersion": "sep16-main-plus-top7-museum-labor-update-v6",
     "mainTopStoryCount": "1",
     "newsDisplayModel": "1 main top story, 7 photo highlights, remaining current-week stories text-only, older stories in archive",
     "eventsCarryForwardNote": "Updated from the September 16 Radar. Still-current events from the September 3 JSON were retained; duplicate listings were merged, and expired one-time events before September 17 and out-of-scope listings were removed."
@@ -1446,6 +1446,52 @@
       "displayOrder": 1
     },
     {
+      "id": "kennedy-center-board-votes-to-close-main-building-september-15-2026",
+      "title": "Kennedy Center Board Votes to Close Main Building",
+      "date": "Sep 15, 2026",
+      "url": "https://apnews.com/article/1dfbfaac695f6817719477101b971a54",
+      "summary": "On September 15, the board voted to close most of the performing arts venue after a judge rejected another proposal to add President Donald Trump’s name to the building.",
+      "detail": "Trump said repairs would depend on approval of the naming plan, despite Congress having allocated $257 million for renovations.",
+      "meta": [
+        "Associated Press",
+        "Kennedy Center; Donald Trump; Joyce Beatty",
+        "Share"
+      ],
+      "discipline": "Performing arts / institutional policy",
+      "category": "Performing arts / institutional policy · Funding and Policy",
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-09-16",
+      "displaySection": "topStories",
+      "displayLabel": "Top Stories",
+      "displayOrder": 2,
+      "highlightRank": 1
+    },
+    {
+      "id": "whitney-brooklyn-museum-american-folk-art-museum-workers-authorize-strikes-2026",
+      "title": "Whitney, Brooklyn Museum, and American Folk Art Museum Workers Authorize Strikes",
+      "date": "Sep 15, 2026",
+      "url": "https://hyperallergic.com/staff-at-whitney-museum-brooklyn-museum-and-american-folk-art-museum-authorize-strike/",
+      "summary": "Union members at three New York museums voted to authorize strikes if contract negotiations fail to produce acceptable offers. The workers are represented by UAW Local 2110.",
+      "detail": "As of the September 15 report, strike dates had not been set. The Whitney and Brooklyn Museum are negotiating successor contracts, while American Folk Art Museum staff seek their first agreement.",
+      "meta": [
+        "Hyperallergic",
+        "Whitney Museum; Brooklyn Museum; American Folk Art Museum; UAW Local 2110",
+        "Share"
+      ],
+      "discipline": "Museums / labor",
+      "category": "Museums / labor · Funding and Policy",
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-09-16",
+      "displaySection": "topStories",
+      "displayLabel": "Top Stories",
+      "displayOrder": 3,
+      "highlightRank": 2
+    },
+    {
       "id": "tschabalala-selfs-lady-in-blue-unveiled-on-londons-fourth-plinth",
       "title": "Tschabalala Self’s Lady in Blue Unveiled on London’s Fourth Plinth",
       "discipline": "Public art / sculpture",
@@ -1465,8 +1511,8 @@
       "weekAdded": "2026-09-16",
       "displaySection": "topStories",
       "displayLabel": "Top Stories",
-      "displayOrder": 2,
-      "highlightRank": 1
+      "displayOrder": 4,
+      "highlightRank": 3
     },
     {
       "id": "schomburg-center-announces-its-largest-show-of-contemporary-black-womens-art",
@@ -1488,8 +1534,8 @@
       "weekAdded": "2026-09-16",
       "displaySection": "topStories",
       "displayLabel": "Top Stories",
-      "displayOrder": 3,
-      "highlightRank": 2
+      "displayOrder": 5,
+      "highlightRank": 4
     },
     {
       "id": "nea-honors-2026-jazz-masters-including-carmen-lundy-and-patrice-rushen",
@@ -1511,8 +1557,8 @@
       "weekAdded": "2026-09-16",
       "displaySection": "topStories",
       "displayLabel": "Top Stories",
-      "displayOrder": 4,
-      "highlightRank": 3
+      "displayOrder": 6,
+      "highlightRank": 5
     },
     {
       "id": "wil-haygood-and-camonghne-felix-named-to-national-book-award-nonfiction-longlist",
@@ -1534,31 +1580,8 @@
       "weekAdded": "2026-09-16",
       "displaySection": "topStories",
       "displayLabel": "Top Stories",
-      "displayOrder": 5,
-      "highlightRank": 4
-    },
-    {
-      "id": "jonah-mixon-webster-named-to-national-book-award-poetry-longlist",
-      "title": "Jonah Mixon-Webster Named to National Book Award Poetry Longlist",
-      "discipline": "Literature / awards",
-      "category": "Literature / awards · Awards and Appointments",
-      "date": "Sep 15, 2026",
-      "url": "https://www.nationalbook.org/longlist-for-the-2026-national-book-award-for-poetry/",
-      "summary": "Mixon-Webster, the inaugural Mellon Arts Postdoctoral Fellow at Columbia and a Windham-Campbell Prize winner, is longlisted for his poetry.",
-      "detail": "Recognition for a poet whose work directly addresses Black queer identity and civic neglect in Flint, Michigan. Strong material for a literary-focused newsletter segment or BAC episode.",
-      "meta": [
-        "National Book Foundation",
-        "Jonah Mixon-Webster, and 9 other poets",
-        "Share"
-      ],
-      "image": "",
-      "featured": false,
-      "urgent": false,
-      "weekAdded": "2026-09-16",
-      "displaySection": "topStories",
-      "displayLabel": "Top Stories",
-      "displayOrder": 6,
-      "highlightRank": 5
+      "displayOrder": 7,
+      "highlightRank": 6
     },
     {
       "id": "micaela-taylor-brings-tap-history-to-english-national-ballet-in-bow-out",
@@ -1580,46 +1603,23 @@
       "weekAdded": "2026-09-16",
       "displaySection": "topStories",
       "displayLabel": "Top Stories",
-      "displayOrder": 7,
-      "highlightRank": 6
-    },
-    {
-      "id": "leilah-babirye-joins-salon-94",
-      "title": "Leilah Babirye Joins Salon 94",
-      "discipline": "Visual art / gallery representation",
-      "category": "Visual art / gallery representation · Awards and Appointments",
-      "date": "Sep 9, 2026",
-      "url": "https://www.artnews.com/art-news/market/leilah-babirye-joins-salon-94-industry-moves-september-9-2026-1234797601/",
-      "summary": "Ugandan-born sculptor Leilah Babirye, who works in wood and ceramic on queer identity and fled Uganda for asylum in 2015, joins Salon 94 with a show next spring.",
-      "detail": "A significant African-diasporic artist gains representation at a major New York gallery. Strong artist-profile material; her biography (asylum, identity, craft) fits Soirée's depth-over-hype editorial voice.",
-      "meta": [
-        "ARTnews",
-        "Leilah Babirye, Salon 94, Gordon Robichaux, Galerie Max Hetzler",
-        "Save for strategy"
-      ],
-      "image": "",
-      "featured": false,
-      "urgent": false,
-      "weekAdded": "2026-09-16",
-      "displaySection": "topStories",
-      "displayLabel": "Top Stories",
       "displayOrder": 8,
       "highlightRank": 7
     },
     {
-      "id": "howardena-pindell-to-receive-romare-bearden-foundations-artistic-legacy-award",
-      "title": "Howardena Pindell to Receive Romare Bearden Foundation’s Artistic Legacy Award",
-      "discipline": "Visual art / awards",
-      "category": "Visual art / awards · Awards and Appointments",
-      "date": "Sep 9, 2026",
-      "url": "https://www.artnews.com/art-news/market/leilah-babirye-joins-salon-94-industry-moves-september-9-2026-1234797601/",
-      "summary": "Pindell will receive the Romare Bearden Foundation's Artistic Legacy Award at \"Conjur 2026: A Masked Affair\" on October 29 at City Winery.",
-      "detail": "Honors a pioneering Black abstractionist and activist across a six-decade career. Strong newsletter and funder-conversation material; the gala is a partnership opportunity.",
+      "id": "kennedy-center-temporarily-closes-for-safety-assessment-september-17-2026",
+      "title": "Kennedy Center Reports Temporary Closure for Safety Assessments",
+      "date": "Sep 17, 2026",
+      "url": "https://apnews.com/article/128f25afb33841baff16245d492f320c",
+      "summary": "In a September 17 court filing, executive director Matt Floca said the main building had temporarily closed on September 16 for safety assessments, with the shutdown lasting at least seven days.",
+      "detail": "Officials described this temporary safety closure as separate from the board’s broader renovation decision; it could be extended after review.",
       "meta": [
-        "ARTnews",
-        "Howardena Pindell, Romare Bearden Foundation",
-        "Share"
+        "Associated Press",
+        "Kennedy Center; Matt Floca",
+        "Monitor"
       ],
+      "discipline": "Performing arts / institutional policy",
+      "category": "Performing arts / institutional policy · Funding and Policy",
       "image": "",
       "featured": false,
       "urgent": false,
@@ -1627,6 +1627,28 @@
       "displaySection": "moreThisWeek",
       "displayLabel": "More This Week",
       "displayOrder": 9
+    },
+    {
+      "id": "judge-orders-explanation-of-kennedy-center-closure-plans-september-16-2026",
+      "title": "Judge Requires Explanation of Kennedy Center Closure Plans",
+      "date": "Sep 16, 2026",
+      "url": "https://www.reuters.com/legal/government/judge-kennedy-center-case-orders-trump-administration-explain-closure-plans-2026-09-16/",
+      "summary": "A federal judge asked the administration to explain whether the planned shutdown for repairs complies with an existing court order. The response was due September 17.",
+      "detail": "The order follows Rep. Joyce Beatty’s challenge to the September 15 board vote; the proposal involves renovations lasting up to two years.",
+      "meta": [
+        "Reuters",
+        "Kennedy Center; Judge Christopher Cooper; Joyce Beatty",
+        "Monitor"
+      ],
+      "discipline": "Performing arts / institutional policy",
+      "category": "Performing arts / institutional policy · Funding and Policy",
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-09-16",
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week",
+      "displayOrder": 10
     },
     {
       "id": "national-book-award-for-translated-literature-announces-2026-longlist",
@@ -1648,7 +1670,51 @@
       "weekAdded": "2026-09-16",
       "displaySection": "moreThisWeek",
       "displayLabel": "More This Week",
-      "displayOrder": 10
+      "displayOrder": 11
+    },
+    {
+      "id": "museum-contract-disputes-put-october-exhibition-openings-in-focus-2026",
+      "title": "Museum Contract Disputes Put October Exhibition Openings in Focus",
+      "date": "Sep 15, 2026",
+      "url": "https://cultbytes.com/will-strike-authorization-effect-fall-shows-at-the-whitney-brooklyn-museum-and-afam/",
+      "summary": "Cultbytes examines wage, health-care, and job-security concerns behind strike authorizations at the Whitney, Brooklyn Museum, and American Folk Art Museum as major October exhibitions approach.",
+      "detail": "The report considers how a potential walkout could affect the fall exhibition season. Strike authorization gives bargaining committees the option to set deadlines; it does not establish that a walkout has begun.",
+      "meta": [
+        "Cultbytes",
+        "Whitney Museum; Brooklyn Museum; American Folk Art Museum; UAW Local 2110",
+        "Monitor"
+      ],
+      "discipline": "Museums / labor",
+      "category": "Museums / labor · Funding and Policy",
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-09-16",
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week",
+      "displayOrder": 12
+    },
+    {
+      "id": "jonah-mixon-webster-named-to-national-book-award-poetry-longlist",
+      "title": "Jonah Mixon-Webster Named to National Book Award Poetry Longlist",
+      "discipline": "Literature / awards",
+      "category": "Literature / awards · Awards and Appointments",
+      "date": "Sep 15, 2026",
+      "url": "https://www.nationalbook.org/longlist-for-the-2026-national-book-award-for-poetry/",
+      "summary": "Mixon-Webster, the inaugural Mellon Arts Postdoctoral Fellow at Columbia and a Windham-Campbell Prize winner, is longlisted for his poetry.",
+      "detail": "Recognition for a poet whose work directly addresses Black queer identity and civic neglect in Flint, Michigan. Strong material for a literary-focused newsletter segment or BAC episode.",
+      "meta": [
+        "National Book Foundation",
+        "Jonah Mixon-Webster, and 9 other poets",
+        "Share"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-09-16",
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week",
+      "displayOrder": 13
     },
     {
       "id": "shae-sanders-sells-two-book-romance-deal-for-the-stars-between-us",
@@ -1670,7 +1736,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "moreThisWeek",
       "displayLabel": "More This Week",
-      "displayOrder": 11
+      "displayOrder": 14
     },
     {
       "id": "apollo-receives-inaugural-african-american-day-parade-community-institution-award",
@@ -1692,7 +1758,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "moreThisWeek",
       "displayLabel": "More This Week",
-      "displayOrder": 12
+      "displayOrder": 15
     },
     {
       "id": "rabkin-foundation-awards-eight-50-000-arts-journalism-grants",
@@ -1714,7 +1780,29 @@
       "weekAdded": "2026-09-16",
       "displaySection": "moreThisWeek",
       "displayLabel": "More This Week",
-      "displayOrder": 13
+      "displayOrder": 16
+    },
+    {
+      "id": "howardena-pindell-to-receive-romare-bearden-foundations-artistic-legacy-award",
+      "title": "Howardena Pindell to Receive Romare Bearden Foundation’s Artistic Legacy Award",
+      "discipline": "Visual art / awards",
+      "category": "Visual art / awards · Awards and Appointments",
+      "date": "Sep 9, 2026",
+      "url": "https://www.artnews.com/art-news/market/leilah-babirye-joins-salon-94-industry-moves-september-9-2026-1234797601/",
+      "summary": "Pindell will receive the Romare Bearden Foundation's Artistic Legacy Award at \"Conjur 2026: A Masked Affair\" on October 29 at City Winery.",
+      "detail": "Honors a pioneering Black abstractionist and activist across a six-decade career. Strong newsletter and funder-conversation material; the gala is a partnership opportunity.",
+      "meta": [
+        "ARTnews",
+        "Howardena Pindell, Romare Bearden Foundation",
+        "Share"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-09-16",
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week",
+      "displayOrder": 17
     },
     {
       "id": "black-ensemble-theater-to-receive-special-equity-jeff-award-for-its-50-year-legacy",
@@ -1736,7 +1824,29 @@
       "weekAdded": "2026-09-16",
       "displaySection": "moreThisWeek",
       "displayLabel": "More This Week",
-      "displayOrder": 14
+      "displayOrder": 18
+    },
+    {
+      "id": "leilah-babirye-joins-salon-94",
+      "title": "Leilah Babirye Joins Salon 94",
+      "discipline": "Visual art / gallery representation",
+      "category": "Visual art / gallery representation · Awards and Appointments",
+      "date": "Sep 9, 2026",
+      "url": "https://www.artnews.com/art-news/market/leilah-babirye-joins-salon-94-industry-moves-september-9-2026-1234797601/",
+      "summary": "Ugandan-born sculptor Leilah Babirye, who works in wood and ceramic on queer identity and fled Uganda for asylum in 2015, joins Salon 94 with a show next spring.",
+      "detail": "A significant African-diasporic artist gains representation at a major New York gallery. Strong artist-profile material; her biography (asylum, identity, craft) fits Soirée's depth-over-hype editorial voice.",
+      "meta": [
+        "ARTnews",
+        "Leilah Babirye, Salon 94, Gordon Robichaux, Galerie Max Hetzler",
+        "Save for strategy"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-09-16",
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week",
+      "displayOrder": 19
     },
     {
       "id": "mildred-howard-receives-25-000-artists-legacy-foundation-award",
@@ -1758,7 +1868,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "moreThisWeek",
       "displayLabel": "More This Week",
-      "displayOrder": 15
+      "displayOrder": 20
     },
     {
       "id": "anonymous-was-a-woman-awards-498-180-in-environmental-art-grants",
@@ -1780,7 +1890,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "moreThisWeek",
       "displayLabel": "More This Week",
-      "displayOrder": 16
+      "displayOrder": 21
     },
     {
       "id": "lucas-museum-of-narrative-art-draws-divided-reviews-ahead-of-opening",
@@ -1802,7 +1912,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "moreThisWeek",
       "displayLabel": "More This Week",
-      "displayOrder": 17
+      "displayOrder": 22
     },
     {
       "id": "alvin-ailey-american-dance-theater-announces-holiday-season-at-new-york-city-center",
@@ -1824,7 +1934,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "moreThisWeek",
       "displayLabel": "More This Week",
-      "displayOrder": 18
+      "displayOrder": 23
     },
     {
       "id": "fridman-gallery-presents-dindga-mccannon-solo-exhibition-yesterday-and-today",
@@ -5178,21 +5288,26 @@
     "currentWeek": "2026-09-16",
     "mainTopStory": "smithsonian-chief-lonnie-g-bunch-iii-resigns",
     "topStories": [
+      "kennedy-center-board-votes-to-close-main-building-september-15-2026",
+      "whitney-brooklyn-museum-american-folk-art-museum-workers-authorize-strikes-2026",
       "tschabalala-selfs-lady-in-blue-unveiled-on-londons-fourth-plinth",
       "schomburg-center-announces-its-largest-show-of-contemporary-black-womens-art",
       "nea-honors-2026-jazz-masters-including-carmen-lundy-and-patrice-rushen",
       "wil-haygood-and-camonghne-felix-named-to-national-book-award-nonfiction-longlist",
-      "jonah-mixon-webster-named-to-national-book-award-poetry-longlist",
-      "micaela-taylor-brings-tap-history-to-english-national-ballet-in-bow-out",
-      "leilah-babirye-joins-salon-94"
+      "micaela-taylor-brings-tap-history-to-english-national-ballet-in-bow-out"
     ],
     "moreThisWeek": [
-      "howardena-pindell-to-receive-romare-bearden-foundations-artistic-legacy-award",
+      "kennedy-center-temporarily-closes-for-safety-assessment-september-17-2026",
+      "judge-orders-explanation-of-kennedy-center-closure-plans-september-16-2026",
       "national-book-award-for-translated-literature-announces-2026-longlist",
+      "museum-contract-disputes-put-october-exhibition-openings-in-focus-2026",
+      "jonah-mixon-webster-named-to-national-book-award-poetry-longlist",
       "shae-sanders-sells-two-book-romance-deal-for-the-stars-between-us",
       "apollo-receives-inaugural-african-american-day-parade-community-institution-award",
       "rabkin-foundation-awards-eight-50-000-arts-journalism-grants",
+      "howardena-pindell-to-receive-romare-bearden-foundations-artistic-legacy-award",
       "black-ensemble-theater-to-receive-special-equity-jeff-award-for-its-50-year-legacy",
+      "leilah-babirye-joins-salon-94",
       "mildred-howard-receives-25-000-artists-legacy-foundation-award",
       "anonymous-was-a-woman-awards-498-180-in-environmental-art-grants",
       "lucas-museum-of-narrative-art-draws-divided-reviews-ahead-of-opening",
@@ -5346,21 +5461,26 @@
       "smithsonian-chief-lonnie-g-bunch-iii-resigns"
     ],
     "topStories": [
+      "kennedy-center-board-votes-to-close-main-building-september-15-2026",
+      "whitney-brooklyn-museum-american-folk-art-museum-workers-authorize-strikes-2026",
       "tschabalala-selfs-lady-in-blue-unveiled-on-londons-fourth-plinth",
       "schomburg-center-announces-its-largest-show-of-contemporary-black-womens-art",
       "nea-honors-2026-jazz-masters-including-carmen-lundy-and-patrice-rushen",
       "wil-haygood-and-camonghne-felix-named-to-national-book-award-nonfiction-longlist",
-      "jonah-mixon-webster-named-to-national-book-award-poetry-longlist",
-      "micaela-taylor-brings-tap-history-to-english-national-ballet-in-bow-out",
-      "leilah-babirye-joins-salon-94"
+      "micaela-taylor-brings-tap-history-to-english-national-ballet-in-bow-out"
     ],
     "moreThisWeek": [
-      "howardena-pindell-to-receive-romare-bearden-foundations-artistic-legacy-award",
+      "kennedy-center-temporarily-closes-for-safety-assessment-september-17-2026",
+      "judge-orders-explanation-of-kennedy-center-closure-plans-september-16-2026",
       "national-book-award-for-translated-literature-announces-2026-longlist",
+      "museum-contract-disputes-put-october-exhibition-openings-in-focus-2026",
+      "jonah-mixon-webster-named-to-national-book-award-poetry-longlist",
       "shae-sanders-sells-two-book-romance-deal-for-the-stars-between-us",
       "apollo-receives-inaugural-african-american-day-parade-community-institution-award",
       "rabkin-foundation-awards-eight-50-000-arts-journalism-grants",
+      "howardena-pindell-to-receive-romare-bearden-foundations-artistic-legacy-award",
       "black-ensemble-theater-to-receive-special-equity-jeff-award-for-its-50-year-legacy",
+      "leilah-babirye-joins-salon-94",
       "mildred-howard-receives-25-000-artists-legacy-foundation-award",
       "anonymous-was-a-woman-awards-498-180-in-environmental-art-grants",
       "lucas-museum-of-narrative-art-draws-divided-reviews-ahead-of-opening",
