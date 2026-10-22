@@ -1,411 +1,29 @@
 {
   "meta": {
-    "week": "October 15, 2026",
-    "updated": "2026-10-15",
-    "eventCount": "145",
-    "topStoryHeadline": "Jocelyn Bioh Steps Into Her Own School Girls on Broadway",
-    "topStorySummary": "Jocelyn Bioh played pageant recruiter Eloise Amponsah in four performances of her own Broadway play, October 9–11, while Patina Miller was away.",
+    "week": "October 21, 2026",
+    "updated": "2026-10-21",
+    "eventCount": "152",
+    "topStoryHeadline": "Daniel Kaluuya to Make His American Stage Debut in Grass",
+    "topStorySummary": "Daniel Kaluuya will star in Branden Jacobs-Jenkins’s new play at Park Avenue Armory, February 19–March 28, 2027.",
     "executiveSummary": [
-      "Jocelyn Bioh steps into her own School Girls on Broadway, and Black Theatre United honors Paul Tazewell and Delroy Lindo. Ava DuVernay calls for new ways to finance artists’ work.",
-      "The Kennedy Center Honors will relocate to Capital One Arena, while Washington National Opera discusses its departure from the center. Sir Willard White celebrates his 80th birthday at the Royal Albert Hall.",
-      "New criticism examines Deana Lawson’s Edge Control. The L’Atelier Awards recognize emerging African artists, and a Black press profile follows Ina Norris’s work building community through storytelling. Calvin Royal III’s NYC dates remain highlighted in the calendar."
+      "Daniel Kaluuya will make his American stage debut in Branden Jacobs-Jenkins’s Grass, co-commissioned with National Black Theatre. School Girls adds a streaming option for its final Broadway week.",
+      "Calvin Royal III’s NYC dates remain highlighted as ABT opens its fall season. He and Christine Shevchenko will dance Sylvia at the gala honoring Cynthia Erivo. Ailey announces a December opening featuring Jamar Roberts’s tribute to Luther Vandross.",
+      "Rosana Paulino challenges the colonial archive, and CultureCon celebrates Black creativity. The Broadway League reports $21 billion in economic impact while Connecticut Arts Alliance moves its advocacy work to CT Humanities. Ronald E. Scott and Deborah Willis receive American Book Awards recognition."
     ],
-    "newsCount": "192",
-    "currentNewsCount": "14",
+    "newsCount": "209",
+    "currentNewsCount": "17",
     "topPhotoStoryCount": "7",
-    "moreThisWeekCount": "6",
-    "archiveNewsCount": "178",
-    "layoutUpdated": "2026-10-15T02:02:08-04:00",
-    "layoutVersion": "oct15-main-plus-top7-calendar-months-v6-calvin",
+    "moreThisWeekCount": "9",
+    "archiveNewsCount": "192",
+    "layoutUpdated": "2026-10-21T15:52:37-04:00",
+    "layoutVersion": "oct21-main-plus-top7-calendar-months-v6-calvin",
     "mainTopStoryCount": "1",
     "newsDisplayModel": "1 main top story, 7 photo highlights, remaining current-week stories text-only, August 2026 onward in archive",
-    "eventsCarryForwardNote": "Updated from the October 14 Radar for the October 15 edition. Started events display Through dates and sort by their closing month; future events sort by their opening month. Unknown closing dates remain unassigned. Current prior listings and Calvin Royal III’s ten NYC performances are retained; expired events and duplicate program cards are removed. Venue-confirmed updates include Ms. Blakk for President, Dindga McCannon, and the School Girls extension.",
+    "eventsCarryForwardNote": "Updated from the October 21 Radar and industry briefing. Started events display Through dates and sort by closing month; future events sort by opening month. Unknown closing dates remain unassigned. Expired listings are removed; ten individual Calvin Royal III NYC appearances are preserved. Venue-confirmed corrections include Ms. Blakk for President, Tengo Sed, Geometries, and School Girls.",
     "calendarDateRule": "end month after an event starts; start month before it starts",
-    "sourceBriefingDate": "2026-10-14"
+    "sourceBriefingDate": "2026-10-21"
   },
   "events": [
-    {
-      "id": "kelly-walters-for-open-flat-file",
-      "title": "Kelly Walters for Open Flat File",
-      "discipline": "Visual art / lecture",
-      "venue": "The Cooper Union, Frederick P. Rose Auditorium",
-      "address": "Manhattan (East Village)",
-      "dates": "Thu, Oct 15, 6:30 PM",
-      "dateSort": "2026-10-15",
-      "price": "Free, registration required",
-      "free": true,
-      "url": "https://www.eventbrite.com/e/kelly-walters-for-open-flat-file-tickets-1998637569773",
-      "description": "Kelly Walters, artist, designer, and Parsons professor. A free lecture on The Hampton Album and Black American print culture.",
-      "status": "urgent",
-      "urgentNote": "This week · Free",
-      "featured": false,
-      "juneteenth": false,
-      "startDate": "2026-10-15",
-      "endDate": "2026-10-15"
-    },
-    {
-      "id": "the-art-of-black-study-ies",
-      "title": "The Art of Black Study(ies)",
-      "discipline": "Literature / celebration and talk",
-      "venue": "Studio Museum in Harlem, The Stoop",
-      "address": "Manhattan (Harlem)",
-      "dates": "Thu, Oct 15, 7:30 PM",
-      "dateSort": "2026-10-15",
-      "price": "Not listed, register via link",
-      "free": false,
-      "url": "https://www.eventbrite.com/e/the-art-of-black-studyies-tickets-2002575453088",
-      "description": "Columbia's Institute for Research in African American Studies honors four women scholars. An evening of food, wine, and music honoring the scholars behind Black Studies at Columbia.",
-      "status": "urgent",
-      "urgentNote": "This week",
-      "featured": false,
-      "juneteenth": false,
-      "startDate": "2026-10-15",
-      "endDate": "2026-10-15"
-    },
-    {
-      "id": "bric-jazzfest-night-1",
-      "title": "BRIC JazzFest, Night 1",
-      "discipline": "Jazz / festival",
-      "venue": "BRIC House",
-      "address": "Brooklyn (Fort Greene)",
-      "dates": "Fri, Oct 16",
-      "dateSort": "2026-10-16",
-      "price": "Free",
-      "free": true,
-      "url": "https://bricartsmedia.org/jazzfest2026/",
-      "description": "Bilal, Arturo O'Farrill and the Afro Latin Jazz Orchestra, Marcus Gilmore. A free, three-stage jazz festival.",
-      "status": "urgent",
-      "urgentNote": "This week · Free",
-      "featured": false,
-      "juneteenth": false,
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16"
-    },
-    {
-      "id": "in-plain-sight-the-anthology-of-art-song-by-black-composers",
-      "title": "In Plain Sight: The Anthology of Art Song by Black Composers",
-      "discipline": "Classical music / vocal recital",
-      "venue": "Merkin Hall, Kaufman Music Center",
-      "address": "Manhattan (Upper West Side)",
-      "dates": "Fri, Oct 16, 7:30 PM",
-      "dateSort": "2026-10-16",
-      "price": "$30",
-      "free": false,
-      "url": "https://www.kaufmanmusiccenter.org/mch/event/the-anthology-of-art-song-by-black-composers/",
-      "description": "Joshua Conyers, Nicole Cabell, Kiera Duffy, and Eastman students. Art songs by Florence Price, Margaret Bonds, William Grant Still, and others.",
-      "status": "urgent",
-      "urgentNote": "This week",
-      "featured": true,
-      "juneteenth": false,
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "featureNote": "Soirée Pick"
-    },
-    {
-      "id": "johnnie-cruise-mercer-the-good-news-suite",
-      "title": "Johnnie Cruise Mercer: The Good News Suite",
-      "discipline": "Dance / contemporary dance",
-      "venue": "92NY, Buttenwieser Hall",
-      "address": "Manhattan (Upper East Side)",
-      "dates": "Fri, Oct 16 and Sat, Oct 17, 7 PM",
-      "dateSort": "2026-10-16",
-      "price": "From $45, $20 students",
-      "free": false,
-      "url": "https://www.92ny.org/event/johnnie-cruise-mercer-the-good-news-suite",
-      "description": "Johnnie Cruise Mercer and TheREDprojectNYC. A new ensemble work for Black movement and vocal artists drawn from the Black Baptist church.",
-      "status": "urgent",
-      "urgentNote": "This week",
-      "featured": false,
-      "juneteenth": false,
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-17"
-    },
-    {
-      "id": "sphinx-virtuosi-american-dialogues",
-      "title": "Sphinx Virtuosi: American Dialogues",
-      "discipline": "Classical music / orchestral concert",
-      "venue": "Carnegie Hall, Stern Auditorium",
-      "address": "Manhattan (Midtown)",
-      "dates": "Fri, Oct 16, 7:30 PM",
-      "dateSort": "2026-10-16",
-      "price": "See link",
-      "free": false,
-      "url": "https://www.carnegiehall.org/Calendar/2026/10/16/Sphinx-Virtuosi-0730PM",
-      "description": "Sphinx Virtuosi with J'Nai Bridges and Amaryn Olmeda; New York premiere of Damien Geter's Declaration. The Sphinx Organization's 30th anniversary concert.",
-      "status": "urgent",
-      "urgentNote": "This week",
-      "featured": false,
-      "juneteenth": false,
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16"
-    },
-    {
-      "id": "studio-salon-crossing-the-horizon",
-      "title": "Studio Salon: Crossing the Horizon",
-      "discipline": "Literature and visual art / day of conversations",
-      "venue": "Studio Museum in Harlem",
-      "address": "Manhattan (Harlem)",
-      "dates": "Fri, Oct 16, 2 PM–8 PM",
-      "dateSort": "2026-10-16",
-      "price": "Not listed",
-      "free": false,
-      "url": "https://www.studiomuseum.org/events/studio-salon-crossing-the-horizon",
-      "description": "Edwidge Danticat, Manuel Mathieu, Dantaé Garee Elliott; Firelei Báez, Dejá Aaliyah Belardo, Gervais Marsh; sound work by James Allister Sprang. Danticat and Báez in one afternoon, launching Volume 8 of the Caribbean art journal Forgotten Lands.",
-      "status": "urgent",
-      "urgentNote": "This week",
-      "featured": false,
-      "juneteenth": false,
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16"
-    },
-    {
-      "id": "urban-love-suite",
-      "title": "Urban Love Suite",
-      "discipline": "Multi-arts / dance and music",
-      "venue": "Lincoln Center, Alice Tully Hall",
-      "address": "Manhattan (Lincoln Square)",
-      "dates": "Fri, Oct 16, 7:30 PM",
-      "dateSort": "2026-10-16",
-      "price": "Choose-what-you-pay",
-      "free": false,
-      "url": "https://www.lincolncenter.org/series/lincoln-center-presents/urban-love-suite-865",
-      "description": "Sekou McMiller and Friends. Salsa, mambo, house, and Black social dance linking Dakar, Havana, Harlem, and San Juan Hill.",
-      "status": "urgent",
-      "urgentNote": "This week",
-      "featured": false,
-      "juneteenth": false,
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16"
-    },
-    {
-      "id": "black-history-and-culture-tour-of-fort-greene",
-      "title": "Black History and Culture Tour of Fort Greene",
-      "discipline": "Cultural history / guided walking tour",
-      "venue": "Fort Greene Park Conservancy and Myrtle Avenue BID",
-      "address": "Brooklyn (Fort Greene), meet at DeKalb Ave and Washington Park",
-      "dates": "Sat, Oct 17, from 11 AM",
-      "dateSort": "2026-10-17",
-      "price": "Free, RSVP encouraged",
-      "free": true,
-      "url": "https://mocada.org/event/black-history-and-culture-tour-of-fort-greene-8/",
-      "description": "Historian Suzanne Spellen; with BlackSpace, BRIC's Future Historical Society, MoCADA, and Weeksville Heritage Center. A free walk through the Black history of the neighborhood that holds BAM, MoCADA, and the Greg Tate Art Wall.",
-      "status": "urgent",
-      "urgentNote": "This week · Free",
-      "featured": false,
-      "juneteenth": false,
-      "startDate": "2026-10-17",
-      "endDate": "2026-10-17"
-    },
-    {
-      "id": "boomboxes-in-the-rain-reviving-the-love-poem-through-r-b",
-      "title": "Boomboxes in the Rain",
-      "discipline": "Literature / poetry workshop",
-      "venue": "The Free Black Women's Library Reading Room",
-      "address": "Brooklyn (Bed-Stuy)",
-      "dates": "Sat, Oct 17, 3 PM",
-      "dateSort": "2026-10-17",
-      "price": "Not listed, register via link",
-      "free": false,
-      "url": "https://www.eventbrite.com/e/boomboxes-in-the-rain-reviving-the-love-poem-through-rb-tickets-2002173435643",
-      "description": "Edythe Rodriguez, poet. A Black Poetry Day workshop for Black women and nonbinary writers.",
-      "status": "urgent",
-      "urgentNote": "This week",
-      "featured": false,
-      "juneteenth": false,
-      "startDate": "2026-10-17",
-      "endDate": "2026-10-17"
-    },
-    {
-      "id": "maren-hassinger-blanket-of-branches",
-      "title": "Maren Hassinger: Blanket of Branches",
-      "discipline": "Visual art / gallery exhibition",
-      "venue": "Susan Inglett Gallery",
-      "address": "Manhattan (Chelsea)",
-      "dates": "Through Oct 17, 2026",
-      "dateSort": "2026-10-17",
-      "price": "Free",
-      "free": true,
-      "url": "https://www.inglettgallery.com/exhibitions/225-maren-hassinger-blanket-of-branches/overview/",
-      "description": "Maren Hassinger. Final days for a pioneer of Black postminimalist sculpture.",
-      "status": "ongoing",
-      "urgentNote": "Closing soon · Free",
-      "featured": false,
-      "juneteenth": false,
-      "startDate": "",
-      "endDate": "2026-10-17"
-    },
-    {
-      "id": "publiquartet-bridges-rhythm-nation",
-      "title": "PUBLIQuartet: BRIDGES Rhythm Nation",
-      "discipline": "Classical music / chamber music",
-      "venue": "Merkin Hall, Kaufman Music Center",
-      "address": "Manhattan (Upper West Side)",
-      "dates": "Sat, Oct 17, 7:30 PM",
-      "dateSort": "2026-10-17",
-      "price": "See link",
-      "free": false,
-      "url": "https://www.kaufmanmusiccenter.org/mch/event/publiquartet/",
-      "description": "PUBLIQuartet; Daniel Bernard Roumain, Sun Ra, Duke Ellington, Fodé Lassana Diabaté. A string quartet program built from Black American and West African music.",
-      "status": "urgent",
-      "urgentNote": "This week",
-      "featured": false,
-      "juneteenth": false,
-      "startDate": "2026-10-17",
-      "endDate": "2026-10-17"
-    },
-    {
-      "id": "we-were-fridays-weeksville-october-17-2026",
-      "title": "We Were Fridays",
-      "discipline": "Multi-arts / music and dance",
-      "venue": "Weeksville Heritage Center",
-      "address": "Brooklyn (Crown Heights)",
-      "dates": "Sat, Oct 17, 12–7 PM",
-      "dateSort": "2026-10-17",
-      "price": "Not listed on current page",
-      "free": false,
-      "url": "https://www.weeksvillesociety.org/event/jeffrey-zeiglers-we-were-fridays-at-weeksville/",
-      "description": "Jeffrey Zeigler, with music by Etienne Charles and Tamar-kali, choreography by Reggie \"Regg Roc\" Gray. A day on Gullah Geechee cultural memory at one of Brooklyn's founding free Black settlements.",
-      "status": "urgent",
-      "urgentNote": "This week",
-      "featured": false,
-      "juneteenth": false,
-      "startDate": "2026-10-17",
-      "endDate": "2026-10-17"
-    },
-    {
-      "id": "beyond-the-stardust-world-premiere",
-      "title": "Beyond the Stardust",
-      "discipline": "Theatre / immersive music theatre",
-      "venue": "The Flea Theater",
-      "address": "Manhattan (Tribeca)",
-      "dates": "Through Oct 18, 2026",
-      "dateSort": "2026-10-18",
-      "price": "See link",
-      "free": false,
-      "url": "https://theflea.org/stardust",
-      "description": "The Illustrious Blacks. An Afrofuturist club musical of disco, funk, and house.",
-      "status": "ongoing",
-      "urgentNote": "Closing soon",
-      "featured": false,
-      "juneteenth": false,
-      "startDate": "",
-      "endDate": "2026-10-18"
-    },
-    {
-      "id": "dindga-mccannon-yesterday-and-today",
-      "title": "Dindga McCannon: Yesterday and Today",
-      "discipline": "Visual art / gallery exhibition",
-      "venue": "Fridman Gallery",
-      "address": "Manhattan (Lower East Side)",
-      "dates": "Through Oct 18, 2026",
-      "dateSort": "2026-10-18",
-      "price": "Free",
-      "free": true,
-      "url": "https://fridmangallery.com/2026/07/26/exhibitions-dindga-mccannon-yesterday-and-today-09-09-10-15-2026/",
-      "description": "Mixed-media quilts, paintings, and prints by Dindga McCannon, a founding member of Where We At Black Women Artists. Fridman Gallery confirms a fashion show and closing reception October 18, 4–6 PM.",
-      "status": "ongoing",
-      "urgentNote": "Closing soon · Free",
-      "featured": false,
-      "juneteenth": false,
-      "startDate": "2026-09-09",
-      "endDate": "2026-10-18"
-    },
-    {
-      "id": "from-the-horse-s-mouth-celebrates-the-swans-of-harlem",
-      "title": "From the Horse's Mouth Celebrates The Swans of Harlem",
-      "discipline": "Dance / dance and theatre",
-      "venue": "Theater at the 14th Street Y, 344 East 14th Street",
-      "address": "Manhattan (East Village)",
-      "dates": "Through Oct 18, 2026",
-      "dateSort": "2026-10-18",
-      "price": "$25 general admission; $20 seniors and students",
-      "free": false,
-      "url": "https://www.eventbrite.com/e/clark-center-nyc-from-the-horses-mouth-celebrate-the-swans-of-harlem-tickets-1999533196617",
-      "description": "Marcia Sells, Sheila Rohan, Karlya Shelton-Benjamin, Lydia Abarca Mitchell, and former Dance Theatre of Harlem dancers share the stage in memory of Gayle McKinney-Griffith. Performances October 16 and 17 at 7 PM, and October 18 at 3 PM.",
-      "status": "ongoing",
-      "urgentNote": "Closing soon",
-      "featured": true,
-      "juneteenth": false,
-      "startDate": "2026-10-14",
-      "endDate": "2026-10-18",
-      "featureNote": "Soirée Pick"
-    },
-    {
-      "id": "harlem-meet-africa-3",
-      "title": "Harlem Meet Africa 3",
-      "discipline": "Multi-arts / music and dance festival",
-      "venue": "Richard Rodgers Amphitheater, Marcus Garvey Park",
-      "address": "Manhattan (Harlem)",
-      "dates": "Sun, Oct 18, 2–7 PM",
-      "dateSort": "2026-10-18",
-      "price": "Free",
-      "free": true,
-      "url": "https://www.eventbrite.com/e/harlem-meet-africa-3-tickets-1999318728136",
-      "description": "Organized by Guinean vocalist Natu Camara. A free outdoor festival linking Harlem and West Africa.",
-      "status": "urgent",
-      "urgentNote": "This week · Free",
-      "featured": false,
-      "juneteenth": false,
-      "startDate": "2026-10-18",
-      "endDate": "2026-10-18"
-    },
-    {
-      "id": "home-to-harlem-celebrating-black-bibliography",
-      "title": "Home to Harlem: Celebrating Black Bibliography",
-      "discipline": "Literature / symposium",
-      "venue": "Schomburg Center for Research in Black Culture",
-      "address": "Manhattan (Harlem)",
-      "dates": "Mon, Oct 19, 1 PM–5 PM",
-      "dateSort": "2026-10-19",
-      "price": "Free, space limited",
-      "free": true,
-      "url": "https://www.eventbrite.com/e/home-to-harlem-celebrating-black-bibliography-at-the-schomburg-center-tickets-2002234782132",
-      "description": "Barrye Brown, Laura Helton, Cheryl Beredo, Miranda Mims, Jesse Erickson, Jennifer Garcon, Derrick Spires; with the Bibliographical Society of America. How researchers traced Arturo Schomburg's original books through bookplates and archives, with a pop-up display from his collection.",
-      "status": "upcoming",
-      "urgentNote": "This week · Free",
-      "featured": false,
-      "juneteenth": false,
-      "startDate": "2026-10-19",
-      "endDate": "2026-10-19"
-    },
-    {
-      "id": "macbeth-with-ryan-speedo-green-as-banquo",
-      "title": "Macbeth, with Ryan Speedo Green as Banquo",
-      "discipline": "Classical music / opera",
-      "venue": "Metropolitan Opera",
-      "address": "Manhattan (Lincoln Square)",
-      "dates": "Through Oct 20, 2026",
-      "dateSort": "2026-10-20",
-      "price": "See link",
-      "free": false,
-      "url": "https://www.metopera.org/season/2026-27-season/macbeth/",
-      "description": "Ryan Speedo Green sings Banquo alongside Quinn Kelsey and Lise Davidsen, conducted by Yannick Nézet-Séguin. Remaining performances are October 17 and 20.",
-      "status": "ongoing",
-      "urgentNote": "Now playing",
-      "featured": false,
-      "juneteenth": false,
-      "startDate": "2026-10-08",
-      "endDate": "2026-10-20"
-    },
-    {
-      "id": "porgy-and-bess-a-black-archival-journey",
-      "title": "Porgy and Bess: A Black Archival Journey",
-      "discipline": "Literature / lecture",
-      "venue": "NYPL, Stephen A. Schwarzman Building",
-      "address": "Manhattan (Midtown)",
-      "dates": "Tue, Oct 20, 5 PM",
-      "dateSort": "2026-10-20",
-      "price": "Not listed, register via link",
-      "free": false,
-      "url": "https://www.eventbrite.com/e/porgy-and-bess-a-black-archival-journey-tickets-2001239976642",
-      "description": "Dr. Daphne A. Brooks, Yale University. A leading scholar of Black music reads the opera through its archives.",
-      "status": "upcoming",
-      "urgentNote": "This week",
-      "featured": false,
-      "juneteenth": false,
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-20"
-    },
     {
       "id": "a-sonic-journey-through-san-juan-hill-with-mathis-picard",
       "title": "A Sonic Journey Through San Juan Hill with Mathis Picard",
@@ -418,7 +36,7 @@
       "free": false,
       "url": "https://www.lincolncenter.org/series/accessibility-at-lincoln-center/a-sonic-journey-through-san-juan-hill-with-mathis-picard-492",
       "description": "Mathis Picard, pianist and composer. A daytime, sensory-friendly encore of Picard's tribute to the Black and Puerto Rican neighborhood razed for Lincoln Center.",
-      "status": "upcoming",
+      "status": "urgent",
       "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
@@ -437,7 +55,26 @@
       "free": true,
       "url": "https://greenlightbookstore.com/event/2026-10-21/black-lit-book-group",
       "description": "Stephanie Wambugu's debut novel; led by Greenlight bookseller Micah. A monthly group devoted to Black writers, this month on an award-winning debut set in the 1990s New York art world.",
-      "status": "upcoming",
+      "status": "urgent",
+      "urgentNote": "This week · Free",
+      "featured": false,
+      "juneteenth": false,
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-21"
+    },
+    {
+      "id": "black-on-screen-honoring-marlon-riggs",
+      "title": "Black on Screen: Honoring Marlon Riggs",
+      "discipline": "Film / film and conversation",
+      "venue": "Schomburg Center for Research in Black Culture",
+      "address": "Manhattan (Harlem)",
+      "dates": "Wed, Oct 21, 6:30 PM",
+      "dateSort": "2026-10-21",
+      "price": "Free",
+      "free": true,
+      "url": "https://www.eventbrite.com/e/black-on-screen-honoring-marlon-riggs-tickets-1999272010402",
+      "description": "Screening of Non, Je Ne Regrette Rien (No Regrets); Dr. Gervais Marsh and Sur Rodney. Riggs's 1993 film on five HIV-positive Black gay men, with a conversation on his legacy.",
+      "status": "urgent",
       "urgentNote": "This week · Free",
       "featured": false,
       "juneteenth": false,
@@ -456,31 +93,12 @@
       "free": false,
       "url": "https://www.eventbrite.com/e/live-soundscaping-with-dial-an-ancestor-tickets-2002953437650",
       "description": "Tamika Abaka-Wood's Dial-an-Ancestor hotline, with a live DJ set. Guests record memories of changing neighborhoods into a living archive of diasporic voices, then hear them in the night's set.",
-      "status": "upcoming",
+      "status": "urgent",
       "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-21",
       "endDate": "2026-10-21"
-    },
-    {
-      "id": "the-ripple-the-wave-that-carried-me-home",
-      "title": "the ripple, the wave that carried me home",
-      "discipline": "Theatre / play",
-      "venue": "Playwrights Horizons",
-      "address": "Manhattan (Theatre Row)",
-      "dates": "Previews from Oct 21, thru Nov 29",
-      "dateSort": "2026-10-21",
-      "price": "See link",
-      "free": false,
-      "url": "https://www.playwrightshorizons.org/shows/production-history/2020s/2627/the-ripple-the-wave-that-carried-me-home",
-      "description": "Written by Christina Anderson, directed by Tiffany Nichole Greene. A family that fought to integrate 1960s Kansas swimming pools, and the daughter who must honor that legacy.",
-      "status": "upcoming",
-      "urgentNote": "This week",
-      "featured": false,
-      "juneteenth": false,
-      "startDate": "2026-10-21",
-      "endDate": "2026-11-29"
     },
     {
       "id": "tongo-eisen-martin-and-margaret-randall",
@@ -494,7 +112,7 @@
       "free": false,
       "url": "https://www.poetryproject.org/events/tongo-eisen-martin-margaret-randall",
       "description": "Tongo Eisen-Martin, Margaret Randall. San Francisco's former poet laureate reads for $10.",
-      "status": "upcoming",
+      "status": "urgent",
       "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
@@ -513,7 +131,7 @@
       "free": false,
       "url": "https://tickets.davidhkochtheater.com/syos/performance/9769",
       "description": "Soirée Ambassador Calvin Royal III performs Helen Pickett’s Petal with American Ballet Theatre. His fall appearances continue October 23–25 and 29–31; each performance is listed on the calendar.",
-      "status": "upcoming",
+      "status": "urgent",
       "urgentNote": "Soirée Ambassador",
       "featured": true,
       "juneteenth": false,
@@ -524,7 +142,7 @@
       "artist": "Calvin Royal III",
       "ambassador": true,
       "sourceUrl": "https://www.calvinroyaliii.com/",
-      "sourceChecked": "2026-10-15",
+      "sourceChecked": "2026-10-21",
       "featureNote": "Soirée Ambassador"
     },
     {
@@ -540,10 +158,29 @@
       "url": "https://www.eventbrite.com/e/chimen-art-works-presented-by-nathalie-jean-baptiste-tickets-2001939499935",
       "description": "Nathalie Jean-Baptiste, Haitian painter. A one-week show joining Haitian domestic landscapes with vodou symbolism.",
       "status": "ongoing",
-      "urgentNote": "On view",
+      "urgentNote": "Closing soon",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-15",
+      "endDate": "2026-10-22"
+    },
+    {
+      "id": "harlem-african-animation-festival",
+      "title": "Harlem African Animation Festival",
+      "discipline": "Film / animation festival",
+      "venue": "The Africa Center, 1280 Fifth Avenue",
+      "address": "Manhattan (East Harlem)",
+      "dates": "Thu, Oct 22, 7 PM",
+      "dateSort": "2026-10-22",
+      "price": "Not listed, register via link",
+      "free": false,
+      "url": "https://www.eventbrite.com/e/harlem-african-animation-festival-tickets-2002810955482",
+      "description": "Fifth edition, with Dr. Boukary Sawadogo. Animated films from across Africa and the diaspora on history, mythology, migration, and everyday life.",
+      "status": "urgent",
+      "urgentNote": "This week",
+      "featured": false,
+      "juneteenth": false,
+      "startDate": "2026-10-22",
       "endDate": "2026-10-22"
     },
     {
@@ -558,7 +195,7 @@
       "free": false,
       "url": "https://www.eventbrite.com/e/movimientos-dobleces-y-marcas-de-aguafuerte-feminismo-negro-en-el-caribe-tickets-2002646528677",
       "description": "Mayra Santos Febres, Vanessa Valdés, Yomaira C. Figueroa-Vásquez; moderated by Odette Casamayor-Cisneros. Three leading Afro-Caribbean scholars and writers on Black feminism in contemporary Caribbean literature, during the New York International Book Fair.",
-      "status": "upcoming",
+      "status": "urgent",
       "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
@@ -571,18 +208,38 @@
       "discipline": "Theatre / play with music",
       "venue": "Vineyard Theatre",
       "address": "Manhattan (Union Square)",
-      "dates": "Oct 22–Nov 22; opening night Nov 8",
+      "dates": "Oct 22–Nov 29; opening night Nov 8",
       "dateSort": "2026-10-22",
       "price": "See ticket link",
       "free": false,
       "url": "https://vineyardtheatre.org/shows/msblackforpresident/",
-      "description": "Ato Blankson-Wood stars as Terence Alan Smith / Joan Jett Blakk in Tarell Alvin McCraney and Tina Landau’s play with music, directed by Landau. The production follows the Black drag activist’s 1992 presidential campaign. Opening night is November 8.",
-      "status": "upcoming",
+      "description": "Ato Blankson-Wood stars as Terence Alan Smith / Joan Jett Blakk in Tarell Alvin McCraney and Tina Landau’s play with music, directed by Landau. The production follows the Black drag activist’s 1992 presidential campaign. Opening night is November 8; extended through November 29.",
+      "status": "urgent",
       "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-22",
-      "endDate": "2026-11-22"
+      "endDate": "2026-11-29"
+    },
+    {
+      "id": "from-cuba-to-the-crescent-city",
+      "title": "From Cuba to the Crescent City",
+      "discipline": "Jazz / jazz orchestra",
+      "venue": "Jazz at Lincoln Center, Rose Theater",
+      "address": "Manhattan (Columbus Circle)",
+      "dates": "Fri, Oct 23 and Sat, Oct 24, 7:30 PM; pre-concert lecture 6:30 PM",
+      "dateSort": "2026-10-23",
+      "price": "Not listed on the event page (TodayTix lists from $53)",
+      "free": false,
+      "url": "https://jazz.org/concert/from-cuba-to-the-crescent-city-the-jazz-at-lincoln-center-orchestra-with-wynton-marsalis/",
+      "description": "Jazz at Lincoln Center Orchestra with Wynton Marsalis; guests Pedrito Martinez, Weedie Braimah, Shenel Johns. Marsalis's Ochas, Afro!, and Congo Square suites trace Yoruba, Afro-Cuban, and Ghanaian roots into New Orleans jazz.",
+      "status": "urgent",
+      "urgentNote": "This week",
+      "featured": true,
+      "juneteenth": false,
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-24",
+      "featureNote": "Soirée Pick"
     },
     {
       "id": "irwin-hall-the-world-within-the-global-sounds-of-john-coltrane",
@@ -596,8 +253,8 @@
       "free": false,
       "url": "https://wl.eventim.us/event/irwin-hall/691661?afflky=TheCuttingRoom",
       "description": "Irwin Hall and ensemble. Coltrane's links to West African and diasporic music.",
-      "status": "upcoming",
-      "urgentNote": "Next 2 weeks",
+      "status": "urgent",
+      "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-23",
@@ -615,8 +272,8 @@
       "free": false,
       "url": "https://www.bam.org/music/2026/meshell",
       "description": "Meshell Ndegeocello, Samora Pinderhughes. One night only, celebrating Ndegeocello's new album Synonym.",
-      "status": "upcoming",
-      "urgentNote": "Next 2 weeks",
+      "status": "urgent",
+      "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-23",
@@ -634,8 +291,8 @@
       "free": false,
       "url": "https://www.symphonyspace.org/events/revelry-king-solomon-hicks",
       "description": "Harlem-born blues and jazz guitarist. A Harlem blues guitarist plays a hometown show.",
-      "status": "upcoming",
-      "urgentNote": "Next 2 weeks",
+      "status": "urgent",
+      "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-23",
@@ -653,8 +310,8 @@
       "free": false,
       "url": "https://www.bam.org/dance/2026/toi-moi-tituba",
       "description": "Dorothée Munyaneza, music by Khyam Allami. A Rwandan-born artist revives Tituba, drawing on Maryse Condé's novel.",
-      "status": "upcoming",
-      "urgentNote": "Next 2 weeks",
+      "status": "urgent",
+      "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-23",
@@ -672,7 +329,7 @@
       "free": false,
       "url": "https://tickets.davidhkochtheater.com/syos/performance/9771",
       "description": "Soirée Ambassador Calvin Royal III performs Kyle Abraham’s Mercurial Son with American Ballet Theatre.",
-      "status": "upcoming",
+      "status": "urgent",
       "urgentNote": "Soirée Ambassador",
       "featured": true,
       "juneteenth": false,
@@ -683,7 +340,7 @@
       "artist": "Calvin Royal III",
       "ambassador": true,
       "sourceUrl": "https://www.calvinroyaliii.com/",
-      "sourceChecked": "2026-10-15",
+      "sourceChecked": "2026-10-21",
       "featureNote": "Soirée Ambassador"
     },
     {
@@ -698,8 +355,8 @@
       "free": true,
       "url": "https://www.eventbrite.com/e/18th-annual-langston-hughes-literary-arts-festival-tickets-2002638426443",
       "description": "Hip Hop's Many Storytellers: photography exhibit and talk by DJ Baby J, Return of the Wax documentary preview, four local authors, keynote by Ron Lawrence. A free afternoon at the library named for Hughes, home to one of the city's largest public Black heritage collections.",
-      "status": "upcoming",
-      "urgentNote": "Next 2 weeks · Free",
+      "status": "urgent",
+      "urgentNote": "This week · Free",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-24",
@@ -717,8 +374,8 @@
       "free": false,
       "url": "https://www.eventbrite.com/e/blaktinx-dance-compilation-tickets-1998516097446",
       "description": "Ten choreographers including Jennifer Acosta, Arielle Telfort, Shontè Jackson. An artist-run Bronx space's showcase of Black and Latinx choreographers.",
-      "status": "upcoming",
-      "urgentNote": "Next 2 weeks",
+      "status": "urgent",
+      "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-24",
@@ -728,16 +385,16 @@
       "id": "book-launch-tengo-sed",
       "title": "Book Launch: Tengo Sed",
       "discipline": "Literature / anthology launch",
-      "venue": "Café con Libros, 724 Prospect Place",
-      "address": "Brooklyn (Crown Heights)",
+      "venue": "Café con Libros event, held at The Free Black Women's Library, 226 Marcus Garvey Blvd",
+      "address": "Brooklyn (Bed-Stuy)",
       "dates": "Sat, Oct 24, 7 PM",
       "dateSort": "2026-10-24",
-      "price": "$5 general admission sold out; $33.95 admission with signed book still listed",
+      "price": "Listed as almost sold out",
       "free": false,
       "url": "https://www.cafeconlibrosbk.com/event-info/book-launch-tengo-sed-by-yndia-lorick-wilmot-natasha-gordon-chipembere-with-natasha-johnson",
       "description": "Editors Yndia Lorick-Wilmot and Natasha Gordon-Chipembere, with Natasha Johnson. An anthology from writers' retreats for African-descended women, inspired by The Sisterhood of Alice Walker and June Jordan.",
-      "status": "upcoming",
-      "urgentNote": "Sold out · Check waitlist or released tickets",
+      "status": "urgent",
+      "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-24",
@@ -755,8 +412,8 @@
       "free": false,
       "url": "https://www.eventbrite.com/e/the-free-black-womens-library-presents-colorismthe-politics-of-skin-tone-tickets-1999705529068",
       "description": "The Free Black Women's Library. A conversation hosted by an artist-run Black feminist library and archive.",
-      "status": "upcoming",
-      "urgentNote": "Next 2 weeks",
+      "status": "urgent",
+      "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-24",
@@ -775,7 +432,7 @@
       "url": "https://gagosian.com/exhibitions/2026/deana-lawson/",
       "description": "Deana Lawson. Mirror-framed photographs and holograms.",
       "status": "ongoing",
-      "urgentNote": "On view · Free",
+      "urgentNote": "Closing soon · Free",
       "featured": false,
       "juneteenth": false,
       "startDate": "",
@@ -793,8 +450,8 @@
       "free": true,
       "url": "https://danspaceproject.org/calendar/draftwork-oct-fw26/",
       "description": "Victoria Lynn Awkward (VLA DANCE), JOYBOY (Joy-Marie Thompson). A free look at new work from a choreographer whose projects honor Nina Simone and Black femme movement artists.",
-      "status": "upcoming",
-      "urgentNote": "Next 2 weeks · Free",
+      "status": "urgent",
+      "urgentNote": "This week · Free",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-24",
@@ -813,7 +470,7 @@
       "url": "https://ryanleegallery.com/exhibitions/emma-amos-bathers",
       "description": "Emma Amos (1937 to 2020). Black women placed inside the bather tradition, dressed and self-possessed.",
       "status": "ongoing",
-      "urgentNote": "On view · Free",
+      "urgentNote": "Closing soon · Free",
       "featured": false,
       "juneteenth": false,
       "startDate": "",
@@ -832,7 +489,7 @@
       "url": "https://www.paulacoopergallery.com/exhibitions/eric-n-mack2",
       "description": "Eric N. Mack. Textile paintings that move off the wall.",
       "status": "ongoing",
-      "urgentNote": "On view · Free",
+      "urgentNote": "Closing soon · Free",
       "featured": false,
       "juneteenth": false,
       "startDate": "",
@@ -851,7 +508,7 @@
       "url": "https://www.companygallery.us/exhibitions/the-space-between",
       "description": "John Edmonds. Portraits made alongside African sculpture.",
       "status": "ongoing",
-      "urgentNote": "On view · Free",
+      "urgentNote": "Closing soon · Free",
       "featured": false,
       "juneteenth": false,
       "startDate": "",
@@ -870,7 +527,7 @@
       "url": "https://www.smjny.com/ex20260910malcolmpeacock",
       "description": "Malcolm Peacock. Hand-braided synthetic hair installations on Black intimacy.",
       "status": "ongoing",
-      "urgentNote": "On view · Free",
+      "urgentNote": "Closing soon · Free",
       "featured": false,
       "juneteenth": false,
       "startDate": "",
@@ -888,8 +545,8 @@
       "free": true,
       "url": "https://www.studiomuseum.org/events/climate-week-obsidian-soil-soul-song",
       "description": "Black Girl Environmentalist with the Studio Museum; panel with Karen Washington and others; laugh meditation with Laraaji; closing DJ set by LOVIE. A free day on land, ecology, and the Black diaspora, with the ambient music pioneer Laraaji.",
-      "status": "upcoming",
-      "urgentNote": "Next 2 weeks · Free",
+      "status": "urgent",
+      "urgentNote": "This week · Free",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-24",
@@ -908,10 +565,29 @@
       "url": "https://www.alexandergray.com/exhibitions/905-people-make-art-a-tribute-to-melvin-edwards/",
       "description": "Works by 15 artists who knew Melvin Edwards. Six decades of mentorship around a defining Black sculptor.",
       "status": "ongoing",
-      "urgentNote": "On view · Free",
+      "urgentNote": "Closing soon · Free",
       "featured": false,
       "juneteenth": false,
       "startDate": "",
+      "endDate": "2026-10-24"
+    },
+    {
+      "id": "relaxed-virtual-screening-san-juan-hill-manhattan-s-lost-neighborhood",
+      "title": "Relaxed Virtual Screening: San Juan Hill, Manhattan's Lost Neighborhood",
+      "discipline": "Film / virtual film",
+      "venue": "Lincoln Center (accessibility programming), on Zoom",
+      "address": "Virtual",
+      "dates": "Sat, Oct 24, 11 AM",
+      "dateSort": "2026-10-24",
+      "price": "Free",
+      "free": true,
+      "url": "https://www.lincolncenter.org/series/lincoln-center-presents/relaxed-virtual-screening-of-san-juan-hill-manhattanandrsquos-lost-neighborhood-693",
+      "description": "Documentary by Stanley Nelson. An hour-long history of the Black and Puerto Rican neighborhood razed to build Lincoln Center, from one of the country's leading documentary filmmakers. Watch from home.",
+      "status": "urgent",
+      "urgentNote": "This week · Free",
+      "featured": false,
+      "juneteenth": false,
+      "startDate": "2026-10-24",
       "endDate": "2026-10-24"
     },
     {
@@ -926,8 +602,8 @@
       "free": false,
       "url": "https://www.eventbrite.com/e/since-76-brooklyn-new-york-billie-holiday-theatre-saturday-10242026-tickets-2001274027489",
       "description": "By the late Rev. Dr. Shirlene Holmes; Dee Wright Productions. A one-day staging on Black women's resilience at a Black theatre founded in 1972.",
-      "status": "upcoming",
-      "urgentNote": "Next 2 weeks",
+      "status": "urgent",
+      "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-24",
@@ -946,7 +622,7 @@
       "url": "https://acagalleries.com/exhibitions/89-kandy-g-lopez-taking-up-space-new-works-by-kandy-g/",
       "description": "Kandy G Lopez, Afro-Caribbean American fiber artist. Yarn portraits up to 14 feet tall.",
       "status": "ongoing",
-      "urgentNote": "On view · Free",
+      "urgentNote": "Closing soon · Free",
       "featured": false,
       "juneteenth": false,
       "startDate": "",
@@ -965,7 +641,7 @@
       "url": "https://www.pacegallery.com/exhibitions/torkwase-dyson-seeing-in-blue/",
       "description": "Torkwase Dyson. New abstract paintings drawn from the artist's deep-sea diving.",
       "status": "ongoing",
-      "urgentNote": "On view · Free",
+      "urgentNote": "Closing soon · Free",
       "featured": false,
       "juneteenth": false,
       "startDate": "",
@@ -983,8 +659,8 @@
       "free": false,
       "url": "https://givebutter.com/sisters-uptown-bookstore-gala-fundraiser-u3znbj",
       "description": "Sister's Uptown Bookstore & Cultural Center. First-ever fundraiser for a Black-owned bookstore serving Harlem since 2000.",
-      "status": "upcoming",
-      "urgentNote": "Next 2 weeks",
+      "status": "urgent",
+      "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-24",
@@ -1003,7 +679,7 @@
       "url": "https://www.levygorvydayan.com/exhibitions/wangari-mathenge-re-membering",
       "description": "Wangari Mathenge, Kenyan-born painter. New paintings and the artist's first public sculpture.",
       "status": "ongoing",
-      "urgentNote": "On view · Free",
+      "urgentNote": "Closing soon · Free",
       "featured": false,
       "juneteenth": false,
       "startDate": "",
@@ -1021,7 +697,7 @@
       "free": false,
       "url": "https://tickets.davidhkochtheater.com/syos/performance/9772",
       "description": "Soirée Ambassador Calvin Royal III performs George Balanchine’s Ballet Imperial with American Ballet Theatre.",
-      "status": "upcoming",
+      "status": "urgent",
       "urgentNote": "Soirée Ambassador",
       "featured": true,
       "juneteenth": false,
@@ -1032,7 +708,7 @@
       "artist": "Calvin Royal III",
       "ambassador": true,
       "sourceUrl": "https://www.calvinroyaliii.com/",
-      "sourceChecked": "2026-10-15",
+      "sourceChecked": "2026-10-21",
       "featureNote": "Soirée Ambassador"
     },
     {
@@ -1047,7 +723,7 @@
       "free": false,
       "url": "https://tickets.davidhkochtheater.com/syos/performance/9773",
       "description": "Soirée Ambassador Calvin Royal III performs Kyle Abraham’s Mercurial Son with American Ballet Theatre.",
-      "status": "upcoming",
+      "status": "urgent",
       "urgentNote": "Soirée Ambassador",
       "featured": true,
       "juneteenth": false,
@@ -1058,7 +734,7 @@
       "artist": "Calvin Royal III",
       "ambassador": true,
       "sourceUrl": "https://www.calvinroyaliii.com/",
-      "sourceChecked": "2026-10-15",
+      "sourceChecked": "2026-10-21",
       "featureNote": "Soirée Ambassador"
     },
     {
@@ -1093,7 +769,7 @@
       "url": "https://www.eventbrite.com/e/poetry-song-joy-harjo-band-and-the-cornelius-eady-group-tickets-2001415511672",
       "description": "Cornelius Eady and his avant blues trio; Joy Harjo Band. A Cave Canem co-founder plays contemporary blues.",
       "status": "upcoming",
-      "urgentNote": "Next 2 weeks",
+      "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-25",
@@ -1112,11 +788,30 @@
       "url": "https://www.bam.org/poetry/2026/poetry-overnight",
       "description": "Hosted by Jon Goode, with Hanif Abdurraqib, Helga Davis, and guests. An all-night reading celebrating June Jordan.",
       "status": "upcoming",
-      "urgentNote": "Next 2 weeks · Free",
+      "urgentNote": "This week · Free",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-25",
       "endDate": "2026-10-26"
+    },
+    {
+      "id": "reel-sisters-of-the-diaspora-section-g",
+      "title": "Reel Sisters of the Diaspora: Section G",
+      "discipline": "Film / film festival",
+      "venue": "651 ARTS, 10 Lafayette Avenue",
+      "address": "Brooklyn (Fort Greene)",
+      "dates": "Sun, Oct 25, 2:50 PM",
+      "dateSort": "2026-10-25",
+      "price": "See link",
+      "free": false,
+      "url": "https://www.eventbrite.com/e/reel-sisters-oct-25-2026-250-pm-section-g-tickets-2002398782662",
+      "description": "Making Their Pointe, dir. Kamilah Thurmon; Swim Sistas, dir. Catherine Joy White; presented by African Voices. Includes a documentary on the Black ballet teachers of segregated Washington, D.C.",
+      "status": "upcoming",
+      "urgentNote": "This week",
+      "featured": false,
+      "juneteenth": false,
+      "startDate": "2026-10-25",
+      "endDate": "2026-10-25"
     },
     {
       "id": "revolutionary-women",
@@ -1150,7 +845,7 @@
       "url": "https://www.eventbrite.com/e/stolen-from-the-goldcoast-a-dinner-book-premiere-tickets-2003037876208",
       "description": "APMWorld (Emmanuel Mensah Agbeble), Accra-born photographer; with Brooklyn Suya. A 30-seat dinner launching a Ghanaian photographer's first book, with a portrait sitting for each guest.",
       "status": "upcoming",
-      "urgentNote": "Next 2 weeks",
+      "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-25",
@@ -1169,11 +864,12 @@
       "url": "https://www.studiomuseum.org/events/studio-salon-touched-by-the-mother",
       "description": "Huey Copeland, Glenn Ligon, Thomas Lax; performance by Alicia Hall Moran. A leading scholar's new book on Black masculinity in art, discussed with Glenn Ligon and a MoMA curator.",
       "status": "upcoming",
-      "urgentNote": "Next 2 weeks · Free",
-      "featured": false,
+      "urgentNote": "This week · Free",
+      "featured": true,
       "juneteenth": false,
       "startDate": "2026-10-25",
-      "endDate": "2026-10-25"
+      "endDate": "2026-10-25",
+      "featureNote": "Soirée Pick"
     },
     {
       "id": "violines-para-ochun-iru-duru-kan-omo-oshun",
@@ -1188,7 +884,7 @@
       "url": "https://www.cccadi.org/events/violinesparaochun",
       "description": "Caribbean Cultural Center African Diaspora Institute; music direction by Louis Bauzó. Yoruba sacred tradition from Africa to Cuba to New York, for CCCADI's 50th anniversary.",
       "status": "upcoming",
-      "urgentNote": "Next 2 weeks",
+      "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-25",
@@ -1226,7 +922,7 @@
       "url": "https://www.eventbrite.com/e/what-divides-or-unites-us-a-storytelling-workshop-with-ashley-devon-tickets-2001777746125",
       "description": "Ashley-Devon Williamston, poet and storyteller. Paired poetry exercises in a small Black feminist reading room.",
       "status": "upcoming",
-      "urgentNote": "Next 2 weeks",
+      "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-25",
@@ -1255,7 +951,7 @@
       "artist": "Calvin Royal III",
       "ambassador": true,
       "sourceUrl": "https://www.calvinroyaliii.com/",
-      "sourceChecked": "2026-10-15",
+      "sourceChecked": "2026-10-21",
       "featureNote": "Soirée Ambassador"
     },
     {
@@ -1281,7 +977,7 @@
       "artist": "Calvin Royal III",
       "ambassador": true,
       "sourceUrl": "https://www.calvinroyaliii.com/",
-      "sourceChecked": "2026-10-15",
+      "sourceChecked": "2026-10-21",
       "featureNote": "Soirée Ambassador"
     },
     {
@@ -1297,7 +993,7 @@
       "url": "https://www.92ny.org/event/an-evening-with-tituss-burgess",
       "description": "Tituss Burgess. A Tony-nominated Broadway voice in conversation and song.",
       "status": "upcoming",
-      "urgentNote": "Next 2 weeks",
+      "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-26",
@@ -1335,7 +1031,7 @@
       "url": "https://www.eventbrite.com/e/literary-salon-champions-for-the-arts-in-conversation-w-donna-walker-kuhne-tickets-2001238586484",
       "description": "Donna Walker-Kuhne, moderated by Aaron L. McKinney of Hi-ARTS. The audience-development strategist behind work at Dance Theatre of Harlem and The Public on building arts audiences.",
       "status": "upcoming",
-      "urgentNote": "Next 2 weeks",
+      "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-26",
@@ -1354,7 +1050,7 @@
       "url": "https://www.carnegiehall.org/Calendar/2026/10/27/American-Composers-Orchestra-0730PM",
       "description": "Daniel Bernard Roumain's America, To Us; conducted by Kedrick Armstrong. A Black composer and a Black conductor anchor ACO's 50th-anniversary season.",
       "status": "upcoming",
-      "urgentNote": "Next 2 weeks",
+      "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-27",
@@ -1373,7 +1069,7 @@
       "url": "https://www.lincolncenter.org/series/lincoln-center-presents/the-universal-language-of-jazz-946",
       "description": "Wynton Marsalis in conversation with Peter Gelb. A free talk with Marsalis in his final season leading Jazz at Lincoln Center.",
       "status": "upcoming",
-      "urgentNote": "Next 2 weeks · Free",
+      "urgentNote": "This week · Free",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-27",
@@ -1392,7 +1088,7 @@
       "url": "https://www.lincolncenter.org/series/lincoln-center-presents/ambrose-akinmusire-and-aszure-barton",
       "description": "Ambrose Akinmusire with choreographer Aszure Barton. A jazz trumpeter's original score made for dancers.",
       "status": "upcoming",
-      "urgentNote": "Next 2 weeks",
+      "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-28",
@@ -1411,7 +1107,26 @@
       "url": "https://greenlightbookstore.com/event/2026-10-28/book-launch-party-ikwo-ntekim-ibi-zoboi",
       "description": "Ikwo Ntekim (Where We Go at Night), Ibi Zoboi. A former Greenlight bookseller's debut, launched with a Coretta Scott King Award winner and a costume \"fae masquerade\".",
       "status": "upcoming",
-      "urgentNote": "Next 2 weeks · Free",
+      "urgentNote": "This week · Free",
+      "featured": false,
+      "juneteenth": false,
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-28"
+    },
+    {
+      "id": "film-at-the-africa-center-samia",
+      "title": "Film at The Africa Center: Samia",
+      "discipline": "Film / film",
+      "venue": "The Africa Center",
+      "address": "Manhattan (East Harlem)",
+      "dates": "Wed, Oct 28, 7 PM",
+      "dateSort": "2026-10-28",
+      "price": "Not listed, register via link",
+      "free": false,
+      "url": "https://www.eventbrite.com/e/film-at-the-africa-center-presents-samia-tickets-2002805673684",
+      "description": "Drama on Somali Olympic runner Samia Yusuf Omar; with African Film Festival, Inc. The monthly African cinema series continues with a true story from Mogadishu.",
+      "status": "upcoming",
+      "urgentNote": "This week",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-28",
@@ -1449,12 +1164,11 @@
       "url": "https://www.wordupbooks.com/event/2026-10-01/joshua-jelly-schapiros-daylight-come",
       "description": "Joshua Jelly-Schapiro (Daylight Come) with Harlem historian Karen D. Taylor. Belafonte's Harlem and uptown years, told by his new biographer and the founder of While We Are Still Here.",
       "status": "upcoming",
-      "urgentNote": "Next 2 weeks",
-      "featured": true,
+      "urgentNote": "This week",
+      "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "featureNote": "Soirée Pick"
+      "endDate": "2026-10-28"
     },
     {
       "id": "southern-oracles",
@@ -1469,7 +1183,7 @@
       "url": "https://www.bam.org/music/2026/southern-oracles",
       "description": "Scott Woods, Dr. Mark Lomax II, The Black Air Poets. Jazz, hip-hop, and poetry on the memory of a Black neighborhood.",
       "status": "upcoming",
-      "urgentNote": "Next 2 weeks · Free",
+      "urgentNote": "This week · Free",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-28",
@@ -1533,6 +1247,25 @@
       "endDate": "2026-10-29"
     },
     {
+      "id": "once-upon-a-time-in-harlem",
+      "title": "Once Upon a Time in Harlem",
+      "discipline": "Film / documentary, newly restored",
+      "venue": "BAM Rose Cinemas",
+      "address": "Brooklyn (Fort Greene)",
+      "dates": "Opens Thu, Oct 29; showtimes via link",
+      "dateSort": "2026-10-29",
+      "price": "$17, members $12, plus $2 fee",
+      "free": false,
+      "url": "https://www.bam.org/film/2026/once-upon-a-time-in-harlem",
+      "description": "Directed by William Greaves and David Greaves; Duke Ellington, Aaron Douglas, Arna Bontemps, Eubie Blake, Noble Sissle, James Van Der Zee. Harlem Renaissance figures gathered at Duke Ellington's home in 1972, filmed by William Greaves and finished by his son fifty years later.",
+      "status": "upcoming",
+      "urgentNote": "Next 2 weeks",
+      "featured": false,
+      "juneteenth": false,
+      "startDate": "2026-10-29",
+      "endDate": ""
+    },
+    {
       "id": "romeo-mivekannin-porteurs-de-feu-bearers-of-fire",
       "title": "Roméo Mivekannin: Porteurs de feu",
       "discipline": "Visual art / gallery exhibition",
@@ -1581,7 +1314,7 @@
       "price": "See gala ticket information",
       "free": false,
       "url": "https://www.abt.org/support/special-events/fall-gala/",
-      "description": "Soirée Ambassador Calvin Royal III appears in American Ballet Theatre’s Fall Gala.",
+      "description": "Soirée Ambassador Calvin Royal III and Christine Shevchenko perform the Act III pas de deux from Frederick Ashton’s Sylvia at ABT’s Angels and Demons Fall Gala, honoring Cynthia Erivo. The October 29 gala is excluded from the Soirée 35% member offer.",
       "status": "upcoming",
       "urgentNote": "Soirée Ambassador",
       "featured": true,
@@ -1593,7 +1326,7 @@
       "artist": "Calvin Royal III",
       "ambassador": true,
       "sourceUrl": "https://www.calvinroyaliii.com/",
-      "sourceChecked": "2026-10-15",
+      "sourceChecked": "2026-10-21",
       "featureNote": "Soirée Ambassador"
     },
     {
@@ -1666,7 +1399,7 @@
       "url": "https://www.bam.org/poetry/2026/stones-in-the-water",
       "description": "Clint Smith, Hanif Abdurraqib, Sarah Kay, Anis Mojgani. The tenth year of an annual reading by four friends.",
       "status": "upcoming",
-      "urgentNote": "Plan ahead",
+      "urgentNote": "Next 2 weeks",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-30",
@@ -1685,7 +1418,7 @@
       "url": "https://www.studiomuseum.org/events/visions-of-the-american-landscape-an-evening-of-films-by-allison-janae-hamilton-with-imani-perry-in-conversation",
       "description": "Films by Allison Janae Hamilton, with Imani Perry in conversation. Films on Southern folklore, ecology, and Black life, with the National Book Award-winning author of South to America.",
       "status": "upcoming",
-      "urgentNote": "Plan ahead · Free",
+      "urgentNote": "Next 2 weeks · Free",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-30",
@@ -1714,7 +1447,7 @@
       "artist": "Calvin Royal III",
       "ambassador": true,
       "sourceUrl": "https://www.calvinroyaliii.com/",
-      "sourceChecked": "2026-10-15",
+      "sourceChecked": "2026-10-21",
       "featureNote": "Soirée Ambassador"
     },
     {
@@ -1787,7 +1520,7 @@
       "url": "https://www.eventbrite.com/e/women-and-the-blues-beareather-reddy-sings-the-classics-tickets-2001114117193",
       "description": "Beareather Reddy, Richard Harper, Ayodele Maakheru. Ma Rainey, Bessie Smith, and Mamie Smith at a small folk arts center.",
       "status": "upcoming",
-      "urgentNote": "Plan ahead",
+      "urgentNote": "Next 2 weeks",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-10-31",
@@ -1816,7 +1549,7 @@
       "artist": "Calvin Royal III",
       "ambassador": true,
       "sourceUrl": "https://www.calvinroyaliii.com/",
-      "sourceChecked": "2026-10-15",
+      "sourceChecked": "2026-10-21",
       "featureNote": "Soirée Ambassador"
     },
     {
@@ -1832,7 +1565,7 @@
       "url": "https://www.eventbrite.com/e/a-natural-history-of-the-spiritsa-book-release-celebration-tickets-2000917101915",
       "description": "Jori Lewis in conversation with photographer Laylah Amatullah Barrayn. Essays moving from Illinois prairies to Senegalese mangroves, launched in a Black feminist reading room.",
       "status": "upcoming",
-      "urgentNote": "Plan ahead",
+      "urgentNote": "Next 2 weeks",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-11-01",
@@ -1889,11 +1622,31 @@
       "url": "https://www.eventbrite.com/e/nkiru-books-tickets-2003246316659",
       "description": "Nkiru Books, described as Brooklyn's longest-running African American bookstore. The first showcase in more than 20 years for a bookstore with deep roots in Black Brooklyn.",
       "status": "upcoming",
-      "urgentNote": "Plan ahead",
+      "urgentNote": "Next 2 weeks",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-11-01",
       "endDate": "2026-11-01"
+    },
+    {
+      "id": "rosana-paulino-historia-natural",
+      "title": "Rosana Paulino: ¿História Natural?",
+      "discipline": "Visual art / exhibition",
+      "venue": "Vera List Center, Arnold and Sheila Aronson Galleries, The New School",
+      "address": "66 Fifth Avenue, Manhattan (Greenwich Village)",
+      "startDate": "2026-10-09",
+      "endDate": "2026-11-01",
+      "dates": "Through Nov 1, 2026",
+      "price": "Free",
+      "free": true,
+      "url": "https://www.veralistcenter.org/exhibitions/rosana-paulino-historia-natural",
+      "description": "The Afro-Brazilian artist revisits colonial natural-history imagery through prints, drawings, notebooks, and her 2016 artist’s book. Open daily noon–6 PM; Thursdays until 8 PM.",
+      "featured": false,
+      "status": "ongoing",
+      "juneteenth": false,
+      "urgentNote": "On view · Free",
+      "dateSort": "2026-11-01",
+      "sourceChecked": "2026-10-21"
     },
     {
       "id": "let-s-make-an-anthology-with-blackmass-publishing",
@@ -1908,7 +1661,7 @@
       "url": "https://www.eventbrite.com/e/lets-make-an-anthology-with-blackmass-publishing-tickets-1998262942252",
       "description": "Yusuf Hassan, artist and founder of BlackMass Publishing. An independent Black press leads a collage zine workshop inspired by the Schomburg library exhibition; the finished anthology is printed for participants.",
       "status": "upcoming",
-      "urgentNote": "Plan ahead · Free",
+      "urgentNote": "Next 2 weeks · Free",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-11-02",
@@ -1920,18 +1673,37 @@
       "discipline": "Dance / contemporary dance",
       "venue": "Danspace Project, St. Mark's Church",
       "address": "Manhattan (East Village)",
-      "dates": "Nov 5–7, 7:30 PM; free open dress rehearsal Tue, Nov 3, 7:30 PM",
+      "dates": "Nov 3, 7:30 PM (free open dress rehearsal); Nov 5–7, 7:30 PM",
       "dateSort": "2026-11-03",
       "price": "$20+, $10+ members; open dress free with RSVP",
       "free": false,
       "url": "https://danspaceproject.org/calendar/fw2026-marshall/",
       "description": "Kyle Marshall, two-time Bessie Award winner; text by Frederick Douglass. Five dancers embody Black Americans' covert strategies for liberation, with live sound. A free open dress rehearsal takes place November 3 at 7:30 PM; ticketed performances run November 5–7.",
       "status": "upcoming",
-      "urgentNote": "Plan ahead",
+      "urgentNote": "Next 2 weeks",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-11-03",
       "endDate": "2026-11-07"
+    },
+    {
+      "id": "author-talk-the-black-madonna",
+      "title": "Author Talk: The Black Madonna",
+      "discipline": "Literature / author talk",
+      "venue": "Café con Libros, 724 Prospect Place",
+      "address": "Brooklyn (Crown Heights)",
+      "dates": "Wed, Nov 4, 7 PM (doors 6:45)",
+      "dateSort": "2026-11-04",
+      "price": "$5; $23.99 with signed book",
+      "free": false,
+      "url": "https://www.cafeconlibrosbk.com/event-info/author-talk-the-black-madonna-with-dr-christena-cleveland",
+      "description": "Dr. Christena Cleveland, social psychologist and public theologian. The Black Madonna as an icon of refuge and resistance, with stories from Haiti, South Africa, and Europe, at a Black-owned feminist bookstore.",
+      "status": "upcoming",
+      "urgentNote": "Next 2 weeks",
+      "featured": false,
+      "juneteenth": false,
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-04"
     },
     {
       "id": "garth-fagan-dance",
@@ -1946,7 +1718,7 @@
       "url": "https://www.joyce.org/performances/garth-fagan-dance-f2nq",
       "description": "Premieres by Norwood \"PJ\" Pennewell and Natalie Rogers-Cropper. The Lion King choreographer's company in its 55th season.",
       "status": "upcoming",
-      "urgentNote": "Plan ahead",
+      "urgentNote": "Next 2 weeks",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-11-04",
@@ -1965,7 +1737,7 @@
       "url": "https://www.bam.org/dance/2026/turn-turning-turnt",
       "description": "Cynthia Oliver Company Dance Theatre. A Bessie Award winner's work on Black girlhood.",
       "status": "upcoming",
-      "urgentNote": "Plan ahead",
+      "urgentNote": "Next 2 weeks",
       "featured": false,
       "juneteenth": false,
       "startDate": "2026-11-04",
@@ -1985,11 +1757,10 @@
       "description": "Directed by Ruben Santiago-Hudson; Russell Hornsby, Chanté Adams, Daniel J. Watts, John Douglas Thompson, Michael Potts, Roslyn Ruff, Kristolyn Lloyd. Wilson's blues play, directed by the man who staged Jitney's Tony-winning revival, with a cast likely to sell out a small house.",
       "status": "upcoming",
       "urgentNote": "Plan ahead",
-      "featured": true,
+      "featured": false,
       "juneteenth": false,
       "startDate": "2026-11-05",
-      "endDate": "",
-      "featureNote": "Soirée Pick"
+      "endDate": ""
     },
     {
       "id": "hard-art",
@@ -2005,11 +1776,10 @@
       "description": "Frank Bowling, Mark Bradford, Peter Bradley, Ed Clark, Torkwase Dyson, Nikita Gale, and 35+ others. A major survey of Black abstraction from 1969 to today, with free admission.",
       "status": "upcoming",
       "urgentNote": "Plan ahead · Free",
-      "featured": true,
+      "featured": false,
       "juneteenth": false,
       "startDate": "2026-11-05",
-      "endDate": "",
-      "featureNote": "Soirée Pick"
+      "endDate": ""
     },
     {
       "id": "apollo-new-works-in-place-of-monuments",
@@ -2063,11 +1833,10 @@
       "description": "Danny Simmons (1953 to 2026); curated by James Cavello. The first exhibition since the painter and Rush Arts co-founder died in June, including the 11-panel study for his MTA commission in Jamaica, Queens.",
       "status": "ongoing",
       "urgentNote": "On view · Free",
-      "featured": true,
+      "featured": false,
       "juneteenth": false,
       "startDate": "",
-      "endDate": "2026-11-07",
-      "featureNote": "Soirée Pick"
+      "endDate": "2026-11-07"
     },
     {
       "id": "gordon-parks-voices-in-the-mirror",
@@ -2127,6 +1896,25 @@
       "endDate": "2026-11-08"
     },
     {
+      "id": "asale-angel-ajani-fugitive-archives",
+      "title": "Asale Angel-Ajani: Fugitive Archives",
+      "discipline": "Literature / memoir talk",
+      "venue": "Word Up Community Bookshop, 2113 Amsterdam Ave",
+      "address": "Manhattan (Washington Heights)",
+      "dates": "Tue, Nov 10, 7 PM",
+      "dateSort": "2026-11-10",
+      "price": "$5 suggested; capped at 30, RSVP required",
+      "free": false,
+      "url": "https://wordupbooks.com/event/2026-11-10/asale-angel-ajanis-fugitive-archive",
+      "description": "Asale Angel-Ajani, writer and anthropologist, City College of New York. A Black woman raised in a white working-class family traces ancestors who were enslaved, free, Indigenous, and white. Thirty seats.",
+      "status": "upcoming",
+      "urgentNote": "Plan ahead",
+      "featured": false,
+      "juneteenth": false,
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-10"
+    },
+    {
       "id": "black-feminist-theories-transnational-approaches",
       "title": "Black Feminist Theories: Transnational Approaches",
       "discipline": "Literature / book talk",
@@ -2165,6 +1953,26 @@
       "endDate": "2026-11-15"
     },
     {
+      "id": "national-black-theatre-inaugural-fall-fete",
+      "title": "National Black Theatre Inaugural Fall Fete",
+      "discipline": "Theatre / benefit gala",
+      "venue": "National Black Theatre, at Current at Chelsea Piers (Pier 59)",
+      "address": "Manhattan (Chelsea Piers)",
+      "dates": "Wed, Nov 11, 6 PM reception, 7 PM dinner and performances",
+      "dateSort": "2026-11-11",
+      "price": "Tables and tickets via link; price not listed",
+      "free": false,
+      "url": "https://nationalblacktheatre.org/event/nbt-inaugural-fall-fete/",
+      "description": "Honorees John Legend, Mike Jackson and Get Lifted Film Co., Margaret Anadu, Sanford Biggers, Nona Hendryx; hosted by Bevy Smith. The first fall benefit for Harlem's National Black Theatre, honoring artist Sanford Biggers and Labelle's Nona Hendryx ten days before Imitation of Life begins previews.",
+      "status": "upcoming",
+      "urgentNote": "Plan ahead",
+      "featured": true,
+      "juneteenth": false,
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-11",
+      "featureNote": "Soirée Pick"
+    },
+    {
       "id": "j-vanessa-lyon-presents-blackness-thirteen-ways",
       "title": "J. Vanessa Lyon presents Blackness Thirteen Ways",
       "discipline": "Literature and visual art / memoir talk",
@@ -2182,6 +1990,25 @@
       "juneteenth": false,
       "startDate": "2026-11-13",
       "endDate": "2026-11-13"
+    },
+    {
+      "id": "apollo-music-cafe-adeva",
+      "title": "Apollo Music Café: Adeva",
+      "discipline": "Performance / concert",
+      "venue": "The Apollo Stages at The Victoria",
+      "address": "Manhattan (Harlem)",
+      "dates": "Sat, Nov 14, 10 PM",
+      "dateSort": "2026-11-14",
+      "price": "Not listed",
+      "free": false,
+      "url": "https://www.apollotheater.org/event/apollo-music-cafe-adeva",
+      "description": "Adeva, vocalist. A late set from the voice behind classic house and soul records, in the Apollo's small café series.",
+      "status": "upcoming",
+      "urgentNote": "Plan ahead",
+      "featured": false,
+      "juneteenth": false,
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-14"
     },
     {
       "id": "norman-lewis-jumping-jive",
@@ -2226,18 +2053,38 @@
       "title": "School Girls; Or, The African Mean Girls Play",
       "discipline": "Theatre / Broadway",
       "venue": "Manhattan Theatre Club, Samuel J. Friedman Theatre",
-      "address": "Manhattan (Midtown)",
+      "address": "Manhattan (Theater District)",
       "dates": "Through Nov 15, 2026",
       "dateSort": "2026-11-15",
-      "price": "See link",
+      "price": "Via Telecharge; $35 for MTC35 members",
       "free": false,
       "url": "https://www.manhattantheatreclub.com/shows/2026-27-season/school-girls-or-the-african-mean-girls-play/",
-      "description": "Jocelyn Bioh’s Broadway comedy about colorism and belonging, directed by Whitney White, with Patina Miller and Denée Benton. Extended through November 15.",
+      "description": "Jocelyn Bioh’s Broadway comedy about colorism and belonging, directed by Whitney White, with Patina Miller, Denée Benton, and an all-Black women cast. Extended through November 15. A captured performance also streams November 10–15 through the League of Live Stream Theater.",
       "status": "ongoing",
       "urgentNote": "Now playing",
+      "featured": true,
+      "juneteenth": false,
+      "startDate": "2026-09-08",
+      "endDate": "2026-11-15",
+      "featureNote": "Soirée Pick"
+    },
+    {
+      "id": "studio-sunday-celebrating-one-year-in-our-new-home",
+      "title": "Studio Sunday: Celebrating One Year in Our New Home",
+      "discipline": "Visual art / museum open day",
+      "venue": "Studio Museum in Harlem",
+      "address": "Manhattan (Harlem)",
+      "dates": "Sun, Nov 15, 11 AM–6 PM",
+      "dateSort": "2026-11-15",
+      "price": "Free, tickets required",
+      "free": true,
+      "url": "https://www.studiomuseum.org/events/building-anniversary-2026",
+      "description": "Storytime with Christopher Myers; curator chat on architecture and Black placemaking; Black Crossword trivia. A free birthday for the museum's building, easy to bring friends and family to.",
+      "status": "upcoming",
+      "urgentNote": "Plan ahead · Free",
       "featured": false,
       "juneteenth": false,
-      "startDate": "",
+      "startDate": "2026-11-15",
       "endDate": "2026-11-15"
     },
     {
@@ -2252,6 +2099,25 @@
       "free": false,
       "url": "https://www.eventbrite.com/e/blue-hands-brown-skin-2026-cave-canem-prize-reading-new-york-city-tickets-1998991360972",
       "description": "Awuor Ouma, 2026 Cave Canem Prize winner, with Kwame Dawes. A Kenyan poet's prize-winning debut on migration and grief, introduced by one of the most important poets of the African diaspora.",
+      "status": "upcoming",
+      "urgentNote": "Plan ahead",
+      "featured": false,
+      "juneteenth": false,
+      "startDate": "2026-11-16",
+      "endDate": "2026-11-16"
+    },
+    {
+      "id": "lincoln-center-benefit-concert-featuring-cynthia-erivo",
+      "title": "Lincoln Center Benefit Concert Featuring Cynthia Erivo",
+      "discipline": "Performance / benefit concert",
+      "venue": "Lincoln Center, Wu Tsai Theater, David Geffen Hall",
+      "address": "Manhattan (Lincoln Square)",
+      "dates": "Mon, Nov 16, 8:30 PM",
+      "dateSort": "2026-11-16",
+      "price": "Not listed",
+      "free": false,
+      "url": "https://www.lincolncenter.org/series/lincoln-center-presents/lincoln-center-benefit-concert-featuring-cynthia-erivo",
+      "description": "Cynthia Erivo. The Tony, Emmy, and Grammy winner headlines Lincoln Center's benefit. The event page gives no program or prices yet.",
       "status": "upcoming",
       "urgentNote": "Plan ahead",
       "featured": false,
@@ -2277,6 +2143,26 @@
       "juneteenth": false,
       "startDate": "2026-11-16",
       "endDate": "2026-11-18"
+    },
+    {
+      "id": "complexions-contemporary-ballet-homecoming-season",
+      "title": "Complexions Contemporary Ballet: Homecoming Season",
+      "discipline": "Dance / contemporary ballet",
+      "venue": "The Joyce Theater",
+      "address": "Manhattan (Chelsea)",
+      "dates": "Nov 17–29",
+      "dateSort": "2026-11-17",
+      "price": "See link",
+      "free": false,
+      "url": "https://www.joyce.org/performances/complexions-contemporary-ballet-7lb8",
+      "description": "Founded by Dwight Rhoden and Desmond Richardson; world premieres by Rhoden, Tommie-Waheed Evans, and Jillian Davis. Desmond Richardson, ABT's first African American principal dancer, co-leads a company built on dancers of every background. Three programs.",
+      "status": "upcoming",
+      "urgentNote": "Plan ahead",
+      "featured": true,
+      "juneteenth": false,
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-29",
+      "featureNote": "Soirée Pick"
     },
     {
       "id": "stoop-talk-colson-whitehead-with-thelma-golden",
@@ -2317,6 +2203,102 @@
       "endDate": ""
     },
     {
+      "id": "black-lit-book-group-the-catacombs",
+      "title": "Black Lit Book Group: The Catacombs",
+      "discipline": "Literature / book group",
+      "venue": "Greenlight Bookstore, at BierWax, 556 Vanderbilt Ave",
+      "address": "Brooklyn (Prospect Heights)",
+      "dates": "Wed, Nov 18, 7 PM",
+      "dateSort": "2026-11-18",
+      "price": "Free, RSVP",
+      "free": true,
+      "url": "https://greenlightbookstore.com/event/2026-11-18/black-lit-book-group",
+      "description": "Greenlight’s monthly Black Lit Book Group discusses William Demby’s The Catacombs at BierWax, led by bookseller Micah. Free with RSVP.",
+      "status": "upcoming",
+      "urgentNote": "Plan ahead · Free",
+      "featured": false,
+      "juneteenth": false,
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-18"
+    },
+    {
+      "id": "ballroom-has-something-to-say-an-ode-to-black-gay-and-queer-men",
+      "title": "Ballroom Has Something to Say: An Ode to Black Gay and Queer Men",
+      "discipline": "Performance / performance-lecture",
+      "venue": "NYU Grand Hall; NYU Center for the Study of Gender and Sexuality, with the Center for Black Visual Culture",
+      "address": "Manhattan (Greenwich Village)",
+      "dates": "Thu, Nov 19, 6 PM (reception 8 PM)",
+      "dateSort": "2026-11-19",
+      "price": "Not listed, registration required; photo ID",
+      "free": false,
+      "url": "https://www.eventbrite.com/e/ballroom-has-something-to-say-an-ode-to-black-gay-and-queer-men-tickets-2003363236369",
+      "description": "Michael Roberson Maison-Margiela, with Ballroom artists and voguers. Song, spoken word, ballet, and vogue on the history of Black LGBTQ+ House and Ballroom culture, from one of its founding icons.",
+      "status": "upcoming",
+      "urgentNote": "Plan ahead",
+      "featured": true,
+      "juneteenth": false,
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-19",
+      "featureNote": "Soirée Pick"
+    },
+    {
+      "id": "camille-t-dungy-and-tina-chang-america-a-love-story-and-lion",
+      "title": "Camille T. Dungy and Tina Chang: America, A Love Story and Lion",
+      "discipline": "Literature / poetry reading",
+      "venue": "Books Are Magic, 225 Smith Street",
+      "address": "Brooklyn (Cobble Hill)",
+      "dates": "Thu, Nov 19, 7 PM (doors 6:30)",
+      "dateSort": "2026-11-19",
+      "price": "Ticket includes the books or a $10 gift card",
+      "free": false,
+      "url": "https://www.eventbrite.com/e/in-store-tina-chang-camille-t-dungy-lion-america-a-love-story-tickets-2003376063736",
+      "description": "Camille T. Dungy, Tina Chang. Dungy, editor of the Black Nature anthology, reads new poems on love and on parenting as a Black woman in America.",
+      "status": "upcoming",
+      "urgentNote": "Plan ahead",
+      "featured": false,
+      "juneteenth": false,
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-19"
+    },
+    {
+      "id": "gather-get-free",
+      "title": "GATHER: Get Free!",
+      "discipline": "Literature and community arts / benefit celebration",
+      "venue": "BRIC House, 647 Fulton Street",
+      "address": "Brooklyn (Fort Greene)",
+      "dates": "Thu, Nov 19, 6–9 PM",
+      "dateSort": "2026-11-19",
+      "price": "Not listed, advance RSVP required",
+      "free": false,
+      "url": "https://www.eventbrite.com/e/gather-get-free-tickets-2003527922951",
+      "description": "The Laundromat Project; Patricia Spears Jones, Staceyann Chin, Kai Diato Giovanni; tarot by Dreamseed Collective; Gladys Books & Wine pop-up. A community arts nonprofit honors Brooklyn's spoken-word lineage with poets including Patricia Spears Jones. Dress code: '90s Afro-boho.",
+      "status": "upcoming",
+      "urgentNote": "Plan ahead",
+      "featured": false,
+      "juneteenth": false,
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-19"
+    },
+    {
+      "id": "book-launch-a-body-made-home-they-black-trans-love",
+      "title": "Book Launch: A Body Made Home: They Black Trans Love",
+      "discipline": "Literature / memoir launch",
+      "venue": "Café con Libros, 724 Prospect Place",
+      "address": "Brooklyn (Crown Heights)",
+      "dates": "Fri, Nov 20, 7 PM (doors 6:45)",
+      "dateSort": "2026-11-20",
+      "price": "$5; $22.95 with signed book; free community option",
+      "free": false,
+      "url": "https://www.cafeconlibrosbk.com/event-info/book-launch-a-body-made-home-they-black-trans-love-with-dr-kai-marshall-green",
+      "description": "Dr. Kai Marshall Green, with Steven G. Fullwood, founder of the In the Life Archive. A debut memoir mixing poetry and scholarship on Black trans love, with the Schomburg archivist who built a home for Black LGBTQ history.",
+      "status": "upcoming",
+      "urgentNote": "Plan ahead",
+      "featured": false,
+      "juneteenth": false,
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-20"
+    },
+    {
       "id": "the-billie-presents-ronald-k-brown-evidence",
       "title": "The Billie Presents Ronald K. Brown/EVIDENCE",
       "discipline": "Dance / contemporary dance",
@@ -2334,6 +2316,25 @@
       "juneteenth": false,
       "startDate": "2026-11-20",
       "endDate": ""
+    },
+    {
+      "id": "black-history-and-culture-tour-of-fort-greene",
+      "title": "Black History and Culture Tour of Fort Greene",
+      "discipline": "Cultural history / guided walking tour",
+      "venue": "Fort Greene Park Conservancy and Myrtle Avenue BID",
+      "address": "Brooklyn (Fort Greene), meet at DeKalb Ave and Washington Park",
+      "dates": "Sat, Nov 21, from 11 AM",
+      "dateSort": "2026-11-21",
+      "price": "Free, RSVP encouraged",
+      "free": true,
+      "url": "https://mocada.org/event/black-history-and-culture-tour-of-fort-greene-9/",
+      "description": "Historian Suzanne Spellen; with BlackSpace, BRIC's Future Historical Society, MoCADA, and Weeksville Heritage Center. The free Black history walk returns. Pair it with WORN WITNESS at MoCADA that afternoon.",
+      "status": "upcoming",
+      "urgentNote": "Plan ahead · Free",
+      "featured": false,
+      "juneteenth": false,
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21"
     },
     {
       "id": "imitation-of-life",
@@ -2355,6 +2356,26 @@
       "endDate": "2027-01-03"
     },
     {
+      "id": "worn-witness-jewelry-as-afro-testimony",
+      "title": "WORN WITNESS: Jewelry as Afro-Testimony",
+      "discipline": "Visual art / artist talk and exhibition",
+      "venue": "MoCADA Gallery + Cafe, 10 Lafayette Avenue, for NYC Jewelry Week",
+      "address": "Brooklyn (Fort Greene)",
+      "dates": "Sat, Nov 21, 2–4:30 PM",
+      "dateSort": "2026-11-21",
+      "price": "Not listed, register via link",
+      "free": false,
+      "url": "https://www.eventbrite.com/e/worn-witness-jewelry-as-afro-testimony-at-nyc-jewelry-week-2026-tickets-2003213456373",
+      "description": "Diana Baird N'Diaye and Elaine Robnett Moore; moderated by Dr. JoAnne Hyppolite of the Smithsonian NMAAHC. Two artists who build jewelry from reclaimed textiles and beads collected over decades, on adornment as memory and testimony. The accompanying exhibition runs November 18–22.",
+      "status": "upcoming",
+      "urgentNote": "Plan ahead",
+      "featured": true,
+      "juneteenth": false,
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "featureNote": "Soirée Pick"
+    },
+    {
       "id": "dance-magazine-awards-2026",
       "title": "2026 Dance Magazine Awards",
       "discipline": "Dance / awards and performances",
@@ -2374,6 +2395,25 @@
       "endDate": "2026-11-23"
     },
     {
+      "id": "the-ripple-the-wave-that-carried-me-home",
+      "title": "the ripple, the wave that carried me home",
+      "discipline": "Theatre / play",
+      "venue": "Playwrights Horizons",
+      "address": "Manhattan (Theatre Row)",
+      "dates": "Through Nov 29, 2026",
+      "dateSort": "2026-11-29",
+      "price": "See link",
+      "free": false,
+      "url": "https://www.playwrightshorizons.org/shows/production-history/2020s/2627/the-ripple-the-wave-that-carried-me-home",
+      "description": "Written by Christina Anderson, directed by Tiffany Nichole Greene. A family that fought to integrate 1960s Kansas swimming pools, and the daughter who must honor that legacy.",
+      "status": "ongoing",
+      "urgentNote": "Now playing",
+      "featured": false,
+      "juneteenth": false,
+      "startDate": "2026-10-21",
+      "endDate": "2026-11-29"
+    },
+    {
       "id": "ailey-at-new-york-city-center",
       "title": "Ailey at New York City Center",
       "discipline": "Dance / contemporary dance",
@@ -2391,6 +2431,25 @@
       "juneteenth": false,
       "startDate": "2026-12-02",
       "endDate": "2027-01-03"
+    },
+    {
+      "id": "black-america-the-last-10-years",
+      "title": "Black America: The Last 10 Years",
+      "discipline": "Literature / panel",
+      "venue": "CUNY Graduate Center, Elebash Recital Hall",
+      "address": "Manhattan (Midtown)",
+      "dates": "Wed, Dec 2, 7 PM",
+      "dateSort": "2026-12-02",
+      "price": "Not listed, register via link",
+      "free": false,
+      "url": "https://www.eventbrite.com/e/black-america-the-last-10-years-tickets-1999071779506",
+      "description": "Carol Jenkins with Kimberlé Crenshaw, Trymaine Lee, Nell Irvin Painter, Frederick Joseph. CUNY TV's Black America marks ten years with historian and painter Nell Irvin Painter and Kimberlé Crenshaw.",
+      "status": "upcoming",
+      "urgentNote": "Plan ahead",
+      "featured": false,
+      "juneteenth": false,
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-02"
     },
     {
       "id": "human",
@@ -2526,6 +2585,25 @@
       "endDate": "2027-01-03"
     },
     {
+      "id": "tone",
+      "title": "Tone",
+      "discipline": "Visual art / museum exhibition",
+      "venue": "Studio Museum in Harlem",
+      "address": "Manhattan (Harlem)",
+      "dates": "Through Jan 3, 2027",
+      "dateSort": "2027-01-03",
+      "price": "See link",
+      "free": false,
+      "url": "https://www.studiomuseum.org/exhibitions/tone",
+      "description": "Roy DeCarava, Gordon Parks, Lorna Simpson, Glenn Ligon, Kerry James Marshall, Ming Smith, Lynette Yiadom-Boakye, Zanele Muholi, and others; organized by Jayson Overby Jr. Photographs, paintings, and drawings built on black, white, and every gray between, opening with DeCarava.",
+      "status": "ongoing",
+      "urgentNote": "On view",
+      "featured": false,
+      "juneteenth": false,
+      "startDate": "",
+      "endDate": "2027-01-03"
+    },
+    {
       "id": "mix-and-master",
       "title": "Mix and Master",
       "discipline": "Theatre / Broadway",
@@ -2624,7 +2702,7 @@
       "artist": "Calvin Royal III",
       "ambassador": true,
       "sourceUrl": "https://www.calvinroyaliii.com/",
-      "sourceChecked": "2026-10-15",
+      "sourceChecked": "2026-10-21",
       "featureNote": "Soirée Ambassador"
     },
     {
@@ -2652,8 +2730,8 @@
       "discipline": "Visual art / museum exhibition",
       "venue": "Studio Museum in Harlem",
       "address": "Manhattan (Harlem)",
-      "dates": "Through Jan 31, 2027",
-      "dateSort": "2027-01-31",
+      "dates": "Through Feb 7, 2027",
+      "dateSort": "2027-02-07",
       "price": "See link",
       "free": false,
       "url": "https://www.studiomuseum.org/exhibitions/geometries",
@@ -2663,7 +2741,27 @@
       "featured": false,
       "juneteenth": false,
       "startDate": "",
-      "endDate": "2027-01-31"
+      "endDate": "2027-02-07"
+    },
+    {
+      "id": "grass-daniel-kaluuya-branden-jacobs-jenkins",
+      "title": "Grass — Daniel Kaluuya and Branden Jacobs-Jenkins",
+      "discipline": "Theatre / world premiere",
+      "venue": "Park Avenue Armory, Wade Thompson Drill Hall",
+      "address": "643 Park Avenue, Manhattan (Upper East Side)",
+      "startDate": "2027-02-19",
+      "endDate": "2027-03-28",
+      "dates": "Feb 19–Mar 28, 2027; opening night Feb 26",
+      "price": "See ticket link",
+      "free": false,
+      "url": "https://www.armoryonpark.org/season-events/2027-season/grass/",
+      "description": "Daniel Kaluuya makes his American stage debut in Branden Jacobs-Jenkins’s play about a mother and son traveling through the American South. Directed by Sarah Benson; co-commissioned with National Black Theatre.",
+      "featured": false,
+      "status": "upcoming",
+      "juneteenth": false,
+      "urgentNote": "Plan ahead",
+      "dateSort": "2027-02-19",
+      "sourceChecked": "2026-10-21"
     },
     {
       "id": "dreams-of-this-future-the-collection-of-peggy-cooper-cafritz",
@@ -2683,6 +2781,25 @@
       "juneteenth": false,
       "startDate": "",
       "endDate": "2027-02-28"
+    },
+    {
+      "id": "woody-de-othello-guardian-spirit",
+      "title": "Woody De Othello: Guardian Spirit",
+      "discipline": "Visual art / public sculpture",
+      "venue": "Public Art Fund, Brooklyn Bridge Park, Pier 1 and Manhattan Bridge View",
+      "address": "Brooklyn (DUMBO)",
+      "dates": "Through Mar 8, 2027",
+      "dateSort": "2027-03-08",
+      "price": "Free, public art",
+      "free": true,
+      "url": "https://www.publicartfund.org/exhibitions/view/woody-de-othello-guardian-spirit/",
+      "description": "Woody De Othello, Miami-born artist of Haitian descent; curated by Jenée-Daria Strand. His first outdoor show in New York: bronzes and redwood totems drawing on the Central African nkisi tradition.",
+      "status": "ongoing",
+      "urgentNote": "On view · Free",
+      "featured": false,
+      "juneteenth": false,
+      "startDate": "",
+      "endDate": "2027-03-08"
     },
     {
       "id": "we-be-the-luminous-blues",
@@ -2854,9 +2971,432 @@
       "juneteenth": false,
       "startDate": "",
       "endDate": ""
+    },
+    {
+      "id": "wanted",
+      "title": "Wanted",
+      "discipline": "Theatre / Broadway musical",
+      "venue": "James Earl Jones Theatre",
+      "address": "Manhattan (Theater District)",
+      "dates": "Closing date to be announced",
+      "dateSort": "",
+      "price": "Via Telecharge",
+      "free": false,
+      "url": "https://wantedmusical.com/",
+      "description": "Book and lyrics by Angelica Chéri, music by Ross Baum, directed by Stevie Walker-Webb; Solea Pfeiffer, Liisi LaFontaine, Ledisi, Luke James. Two Black sisters who pass for white in 1893 Texas, drawn from the writer's great-great-aunts, with Grammy winner Ledisi as their mother.",
+      "status": "ongoing",
+      "urgentNote": "Now playing",
+      "featured": false,
+      "juneteenth": false,
+      "startDate": "",
+      "endDate": ""
     }
   ],
   "news": [
+    {
+      "id": "daniel-kaluuya-to-make-his-american-stage-debut-in-grass",
+      "title": "Daniel Kaluuya to Make His American Stage Debut in Grass",
+      "discipline": "Theatre",
+      "category": "Theatre",
+      "date": "Oct 20, 2026",
+      "url": "https://playbill.com/article/daniel-kaluuya-to-star-in-branden-jacobs-jenkins-grass",
+      "summary": "Daniel Kaluuya will star in Branden Jacobs-Jenkins’s new play at Park Avenue Armory, February 19–March 28, 2027.",
+      "detail": "Directed by Sarah Benson and co-commissioned with National Black Theatre, Grass follows a mother and son on a journey through the American South. Previews begin February 19, with opening night February 26.",
+      "meta": [
+        "Playbill",
+        "Daniel Kaluuya, Branden Jacobs-Jenkins, Sarah Benson, Mimi Lien, National Black Theatre (co-commissioner), Park Avenue Armory",
+        "Read"
+      ],
+      "image": "https://images.ctfassets.net/6pezt69ih962/oER8BTyKbNewoRGcfi3bH/ee54a961d10ee9e17fb3691ac96d3c95/daniel_kaluuya-1200x600-NYTG.png",
+      "featured": true,
+      "urgent": false,
+      "weekAdded": "2026-10-21",
+      "displaySection": "mainTopStory",
+      "displayLabel": "Main Top Story",
+      "displayOrder": 1,
+      "imageSourceUrl": "https://www.newyorktheatreguide.com/theatre-news/news/daniel-kaluuya-and-more-featured-in-park-avenue-armorys-2027-season",
+      "imageCredit": "Courtesy of Park Avenue Armory",
+      "imageAlt": "Daniel Kaluuya."
+    },
+    {
+      "id": "calvin-royal-iii-joins-abts-fall-gala-honoring-cynthia-erivo",
+      "title": "Calvin Royal III Joins ABT’s Fall Gala Honoring Cynthia Erivo",
+      "discipline": "Ballet",
+      "category": "Ballet",
+      "date": "Oct 6, 2026",
+      "url": "https://www.broadwayworld.com/article/American-Ballet-Theatre-Unveils-2026-Fall-Gala-Program-20261006",
+      "summary": "Soirée Ambassador Calvin Royal III and Christine Shevchenko will dance the Sylvia pas de deux at ABT’s October 29 Fall Gala.",
+      "detail": "The Angels and Demons program honors Cynthia Erivo and begins at 6:30 PM at the David H. Koch Theater. Celebrate Calvin’s performances and explore the full fall season; the gala is excluded from the Soirée 35% member offer.",
+      "meta": [
+        "BroadwayWorld",
+        "Calvin Royal III, Christine Shevchenko, Cynthia Erivo, Susan Jaffe, American Ballet Theatre",
+        "Read"
+      ],
+      "image": "https://images.squarespace-cdn.com/content/v1/583a735a197aead7adfc25cd/6d148862-3921-43e8-902b-5691deec2613/IMG_6648.png",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-10-21",
+      "displaySection": "topStories",
+      "displayLabel": "Top Stories",
+      "displayOrder": 2,
+      "imageSourceUrl": "https://www.calvinroyaliii.com/",
+      "imageCredit": "Quinn Wharton",
+      "imageAlt": "Calvin Royal III and Christine Shevchenko in Ballet Imperial; promotional portrait.",
+      "highlightRank": 1
+    },
+    {
+      "id": "ailey-opens-its-december-season-with-a-luther-vandross-tribute",
+      "title": "Ailey Opens Its December Season with a Luther Vandross Tribute",
+      "discipline": "Dance",
+      "category": "Dance",
+      "date": "Oct 13, 2026",
+      "url": "https://pressroom.ailey.org/_gallery/get_file/?file_id=6ace5ca53d633286395dc50d&file_ext=.pdf&page_id=&ir=1",
+      "summary": "Jamar Roberts’s Power of Love premieres at Ailey’s December 2 opening gala, celebrating the music of Luther Vandross.",
+      "detail": "SZA, Spike Lee, and Tonya Lee serve as honorary chairs. The evening begins at 6:30 PM at New York City Center, followed by dinner and dancing at the Ziegfeld Ballroom. The company’s season continues through January 3.",
+      "meta": [
+        "Ailey press room (institutional announcement)",
+        "Alvin Ailey American Dance Theater, Alicia Graf Mack, Jamar Roberts, SZA, Spike Lee, Tonya Lee, New York City Center",
+        "Read"
+      ],
+      "image": "https://files.ailey.org/sites/default/files/styles/default/public/2026-09/Choreographer%20Jamar%20Roberts.%20Photo%20by%20Andrew%20Eccles_030.jpg?h=e8740d1c&itok=51oZykt2",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-10-21",
+      "displaySection": "topStories",
+      "displayLabel": "Top Stories",
+      "displayOrder": 3,
+      "imageSourceUrl": "https://ailey.org/repertory/power-love",
+      "imageCredit": "Andrew Eccles",
+      "imageAlt": "Choreographer Jamar Roberts.",
+      "highlightRank": 2
+    },
+    {
+      "id": "rosana-paulino-reworks-the-colonial-archive",
+      "title": "Rosana Paulino Reworks the Colonial Archive",
+      "discipline": "Visual art",
+      "category": "Visual art",
+      "date": "Oct 19, 2026",
+      "url": "https://hyperallergic.com/rosana-paulino-reads-the-archive-against-those-who-made-it/",
+      "summary": "The Afro-Brazilian artist discusses how her exhibition ¿História Natural? challenges the images through which Europeans represented Black people and Brazil.",
+      "detail": "Hyperallergic’s interview connects Paulino’s artist’s book, drawings, and prints with questions of race, science, and power. The exhibition at the Vera List Center’s New School galleries runs through November 1.",
+      "meta": [
+        "Hyperallergic",
+        "Rosana Paulino, Vera List Center for Art and Politics, The New School",
+        "Read"
+      ],
+      "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/10/IMG_0512.jpeg",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-10-21",
+      "displaySection": "topStories",
+      "displayLabel": "Top Stories",
+      "displayOrder": 4,
+      "imageSourceUrl": "https://hyperallergic.com/rosana-paulino-reads-the-archive-against-those-who-made-it/",
+      "imageCredit": "Daniela Mayer / Hyperallergic",
+      "imageAlt": "Rosana Paulino at her exhibition ¿História Natural? at the Vera List Center.",
+      "highlightRank": 3
+    },
+    {
+      "id": "school-girls-will-stream-its-final-broadway-week",
+      "title": "School Girls Will Stream Its Final Broadway Week",
+      "discipline": "Theatre",
+      "category": "Theatre",
+      "date": "Oct 21, 2026",
+      "url": "https://playbill.com/article/school-girls-on-livestream-final-week-of-performances-on-broadway",
+      "summary": "Jocelyn Bioh’s Broadway comedy will be available online November 10–15 through the League of Live Stream Theater.",
+      "detail": "The captured production streams at scheduled curtain times, with a 24-hour replay window. Tickets are $59 including the service fee. A separate free program gives high schools access to a filmed version November 2–13.",
+      "meta": [
+        "Playbill",
+        "Jocelyn Bioh, Manhattan Theatre Club, League of Live Stream Theater (LOLST)",
+        "Read"
+      ],
+      "image": "https://imaging.broadway.com/images/regular-43/w1470/142914-17.jpg",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-10-21",
+      "displaySection": "topStories",
+      "displayLabel": "Top Stories",
+      "displayOrder": 5,
+      "imageSourceUrl": "https://www.broadway.com/buzz/207728/picture-day-see-denee-benton-patina-miller-and-jasmine-amy-rogers-in-broadways-school-girls/",
+      "imageCredit": "Matthew Murphy",
+      "imageAlt": "The 2026 Broadway cast of School Girls; Or, The African Mean Girls Play in performance.",
+      "highlightRank": 4
+    },
+    {
+      "id": "culturecons-museum-of-us-celebrates-black-creativity",
+      "title": "CultureCon’s Museum of Us Celebrates Black Creativity",
+      "discipline": "Visual art / creative industry",
+      "category": "Visual art / creative industry",
+      "date": "Oct 15, 2026",
+      "url": "https://amsterdamnews.com/news/2026/10/15/culturecons-museum-of-us-shows-off-black-creativity/",
+      "summary": "Amsterdam News explores the visual art and installations that shaped CultureCon 2026’s Museum of Us theme.",
+      "detail": "The report highlights Black creativity across the conference, including work connected with Black Girl Art Show and Black Boy Art Show. The Protect Our Piece couch brings Black cultural memory into a familiar domestic setting.",
+      "meta": [
+        "New York Amsterdam News",
+        "CultureCon, Black Girl Art Show, Black Boy Art Show",
+        "Read"
+      ],
+      "image": "https://i0.wp.com/amsterdamnews.com/wp-content/uploads/2026/10/Full-couch-no-plastic.jpg?fit=2048%2C1366&ssl=1",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-10-21",
+      "displaySection": "topStories",
+      "displayLabel": "Top Stories",
+      "displayOrder": 6,
+      "imageSourceUrl": "https://amsterdamnews.com/news/2026/10/15/culturecons-museum-of-us-shows-off-black-creativity/",
+      "imageCredit": "Dennis Larance / BarkleyOKRP",
+      "imageAlt": "The Protect Our Piece couch at CultureCon.",
+      "highlightRank": 5
+    },
+    {
+      "id": "broadways-economic-impact-reaches-21-billion",
+      "title": "Broadway’s Economic Impact Reaches $21 Billion",
+      "discipline": "Theatre / economics",
+      "category": "Theatre / economics",
+      "date": "Oct 20, 2026",
+      "url": "https://playbill.com/article/broadway-contributed-21-billion-in-economic-revenue-for-nyc-in-the-2024-2025-season",
+      "summary": "The Broadway League estimates that Broadway generated $21 billion in New York City economic activity during the 2024–25 season.",
+      "detail": "The study credits Broadway with $979 million in city taxes and 114,600 full-time-equivalent jobs. It also reports rising costs: production and operating expenditures totaled $1.9 billion, underscoring the pressure behind the sector’s growth.",
+      "meta": [
+        "Playbill",
+        "The Broadway League",
+        "Read"
+      ],
+      "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/Broadway-Contributed-21-Billion-to-New-York-City-Economy-in-2024-25-Season-1792520336.jpg?format=jpeg&quality=80&width=1200",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-10-21",
+      "displaySection": "topStories",
+      "displayLabel": "Top Stories",
+      "displayOrder": 7,
+      "imageSourceUrl": "https://www.broadwayworld.com/article/Broadway-Contributed-21-Billion-to-New-York-City-Economy-in-2024-25-Season-20261020",
+      "imageAlt": "Times Square and the Broadway theatre district.",
+      "highlightRank": 6
+    },
+    {
+      "id": "connecticut-arts-alliance-closes-moving-its-work-to-ct-humanities",
+      "title": "Connecticut Arts Alliance Closes, Moving Its Work to CT Humanities",
+      "discipline": "Arts advocacy / policy",
+      "category": "Arts advocacy / policy · Funding and Policy",
+      "date": "Oct 21, 2026",
+      "url": "https://ctmirror.org/2026/10/21/ct-arts-alliance-closure-ct-humanities/",
+      "summary": "After 21 years, Connecticut’s statewide arts advocacy organization has dissolved amid financial strain and cuts to cultural funding.",
+      "detail": "Its mission and remaining assets move to CT Humanities, where Rufus de Rham becomes director of cultural advocacy and community engagement. The change preserves advocacy work while consolidating the organizations’ operations.",
+      "meta": [
+        "CT Mirror",
+        "Connecticut Arts Alliance, Rufus de Rham, CT Humanities",
+        "Read"
+      ],
+      "image": "https://ctmirror.org/wp-content/uploads/2026/10/CAA-1020-SG-02.jpg",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-10-21",
+      "displaySection": "topStories",
+      "displayLabel": "Top Stories",
+      "displayOrder": 8,
+      "imageSourceUrl": "https://ctmirror.org/2026/10/21/ct-arts-alliance-closure-ct-humanities/",
+      "imageCredit": "Sarah Gordon / CT Mirror",
+      "imageAlt": "Rufus de Rham and Jason Mancini in Middletown, Connecticut, October 20, 2026.",
+      "highlightRank": 7
+    },
+    {
+      "id": "ronald-e-scott-and-deborah-willis-honored-at-american-book-awards",
+      "title": "Ronald E. Scott and Deborah Willis Honored at American Book Awards",
+      "discipline": "Literature / criticism",
+      "category": "Literature / criticism · Awards and Appointments",
+      "date": "Oct 15, 2026",
+      "url": "https://amsterdamnews.com/news/2026/10/15/amnews-jazz-writer-ronald-e-scott-honored-at-47th-american-book-awards/",
+      "summary": "Amsterdam News jazz writer Ronald E. Scott receives the Walter and Lilian Lowenfels Award for Criticism at the 47th American Book Awards.",
+      "detail": "The October 15 report recognizes Scott’s writing on jazz and Black theatre. Deborah Willis was also honored for Reflections in Black at the September 26 ceremony in Berkeley.",
+      "meta": [
+        "New York Amsterdam News",
+        "Ronald E. Scott, Ishmael Reed, Before Columbus Foundation, Deborah Willis, Matthew Shipp",
+        "Read"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-10-21",
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week",
+      "displayOrder": 9
+    },
+    {
+      "id": "home-to-harlem-looks-toward-a-2027-return",
+      "title": "Home To Harlem Looks Toward a 2027 Return",
+      "discipline": "Visual art / Black-founded space",
+      "category": "Visual art / Black-founded space",
+      "date": "Oct 15, 2026",
+      "url": "https://amsterdamnews.com/news/2026/10/15/maria-granville-provides-space-for-art-and-community-at-home-to-harlem/",
+      "summary": "Amsterdam News profiles Maria Granville, whose Harlem community website grew into a townhouse gallery and gathering space.",
+      "detail": "Home To Harlem is currently on hiatus and plans to reopen in early 2027. The profile traces the space’s roots in Granville’s website, launched in 1997, and its physical home, opened in 2019.",
+      "meta": [
+        "New York Amsterdam News",
+        "Maria Granville, Home To Harlem",
+        "Read"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-10-21",
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week",
+      "displayOrder": 10
+    },
+    {
+      "id": "solanges-a-seat-at-the-table-ten-years-later",
+      "title": "Solange’s A Seat at the Table, Ten Years Later",
+      "discipline": "Music / cultural criticism",
+      "category": "Music / cultural criticism",
+      "date": "Oct 15, 2026",
+      "url": "https://amsterdamnews.com/news/2026/10/15/solange-and-what-it-means-to-have-a-seat-at-the-table/",
+      "summary": "A new Amsterdam News essay revisits Solange’s album as a statement of Black cultural expression and artistic independence.",
+      "detail": "The anniversary offers a chance to return to the record’s questions of ownership, belonging, and creative control.",
+      "meta": [
+        "New York Amsterdam News",
+        "Solange Knowles",
+        "Read"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-10-21",
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week",
+      "displayOrder": 11
+    },
+    {
+      "id": "andre-d-wagner-documents-a-changing-new-york",
+      "title": "Andre D. Wagner Documents a Changing New York",
+      "discipline": "Photography / books",
+      "category": "Photography / books",
+      "date": "Oct 15, 2026",
+      "url": "https://amsterdamnews.com/news/2026/10/15/new-city-old-blues-bears-witness-to-a-changing-city/",
+      "summary": "New City, Old Blues gathers the photographer’s observations of gentrification and displacement across Brooklyn and Manhattan.",
+      "detail": "Amsterdam News considers the book’s record of neighborhood life, from Bushwick to the wider city, as familiar places and communities change.",
+      "meta": [
+        "New York Amsterdam News",
+        "Andre D. Wagner",
+        "Read"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-10-21",
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week",
+      "displayOrder": 12
+    },
+    {
+      "id": "denee-benton-and-jordan-donica-will-join-the-new-york-pops",
+      "title": "Denée Benton and Jordan Donica Will Join the New York Pops",
+      "discipline": "Music / theatre",
+      "category": "Music / theatre",
+      "date": "Oct 20, 2026",
+      "url": "https://playbill.com/article/denee-benton-and-jordan-donica-will-join-new-york-pops-for-carnegie-hall-concert",
+      "summary": "The Broadway performers are announced for a New York Pops concert at Carnegie Hall.",
+      "detail": "Playbill reports the pairing while Benton continues in School Girls. Follow the concert announcement for the performance date and ticket details.",
+      "meta": [
+        "Playbill",
+        "Denée Benton, Jordan Donica, New York Pops, Carnegie Hall",
+        "Read"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-10-21",
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week",
+      "displayOrder": 13
+    },
+    {
+      "id": "alicia-graf-mack-introduces-young-readers-to-rhythm",
+      "title": "Alicia Graf Mack Introduces Young Readers to Rhythm",
+      "discipline": "Dance / publishing",
+      "category": "Dance / publishing",
+      "date": "Sep 24, 2026",
+      "url": "https://pressroom.alvinailey.org/_gallery/get_file/?file_id=6ab54c213d6332af5b20e7f1&file_ext=.pdf&page_id=&ir=1",
+      "summary": "Ailey’s artistic director announces Introducing Rhythm, her first children’s book, illustrated by Justin Campbell.",
+      "detail": "The book is scheduled for November 9 and is intended for readers ages 4–12. Its release coincides with National Children’s Book Week.",
+      "meta": [
+        "Ailey press room (institutional announcement)",
+        "Alicia Graf Mack, Justin Campbell, AILEY",
+        "Read"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-10-21",
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week",
+      "displayOrder": 14
+    },
+    {
+      "id": "lincoln-center-theater-launches-a-new-development-lab",
+      "title": "Lincoln Center Theater Launches a New Development Lab",
+      "discipline": "Theatre / new work",
+      "category": "Theatre / new work",
+      "date": "Oct 15, 2026",
+      "url": "https://www.americantheatre.org/2026/10/15/lincoln-center-theater-launches-helen-gurley-brown-theater-lab/",
+      "summary": "The Helen Gurley Brown Theater Lab adds a new home for developing work at Lincoln Center Theater.",
+      "detail": "American Theatre reports the launch as the institution expands its support for new theatre.",
+      "meta": [
+        "American Theatre",
+        "Lincoln Center Theater",
+        "Read"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-10-21",
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week",
+      "displayOrder": 15
+    },
+    {
+      "id": "lincoln-in-the-bardo-brings-american-grief-to-the-met",
+      "title": "Lincoln in the Bardo Brings American Grief to the Met",
+      "discipline": "Opera",
+      "category": "Opera",
+      "date": "Oct 19, 2026",
+      "url": "https://www.michiganpublic.org/2026-10-19/lincoln-in-the-bardo-takes-a-distinctly-american-grief-to-the-met-stage",
+      "summary": "NPR previews Missy Mazzoli’s opera based on George Saunders’s novel, staged by Lileana Blain-Cruz.",
+      "detail": "The production features Peter Mattei and Christine Goerke, with Yannick Nézet-Séguin conducting. The report explores the novel’s passage from page to opera stage.",
+      "meta": [
+        "NPR (via Michigan Public)",
+        "Missy Mazzoli, Peter Mattei, Christine Goerke, Lileana Blain-Cruz",
+        "Read"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-10-21",
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week",
+      "displayOrder": 16
+    },
+    {
+      "id": "v-a-workers-plan-strikes-across-four-london-sites",
+      "title": "V&A Workers Plan Strikes Across Four London Sites",
+      "discipline": "Museums / labor",
+      "category": "Museums / labor",
+      "date": "Oct 20, 2026",
+      "url": "https://hyperallergic.com/v-a-museum-staff-set-to-strike-across-all-four-london-sites/",
+      "summary": "Unionized staff at the Victoria and Albert Museum plan strikes on October 29 and 30 over pay and working conditions.",
+      "detail": "Hyperallergic reports that the action will include V&A East Storehouse. The dispute extends the season’s museum labor coverage beyond New York.",
+      "meta": [
+        "Hyperallergic",
+        "Victoria & Albert Museum, Prospect, PCS",
+        "Read"
+      ],
+      "image": "",
+      "featured": false,
+      "urgent": false,
+      "weekAdded": "2026-10-21",
+      "displaySection": "moreThisWeek",
+      "displayLabel": "More This Week",
+      "displayOrder": 17
+    },
     {
       "id": "jocelyn-bioh-steps-into-her-own-school-girls-on-broadway",
       "title": "Jocelyn Bioh Steps Into Her Own School Girls on Broadway",
@@ -2872,11 +3412,11 @@
         "Read"
       ],
       "image": "https://images.ctfassets.net/6pezt69ih962/6qx9gOFXswNM5r14Hk6g2Z/ea3493d72db6214920d0e307c5c08aa3/jocelyn_bioh-1200x600-NYTG.png",
-      "featured": true,
+      "featured": false,
       "urgent": false,
       "weekAdded": "2026-10-15",
-      "displaySection": "mainTopStory",
-      "displayLabel": "Main Top Story",
+      "displaySection": "archive",
+      "displayLabel": "The Archive",
       "displayOrder": 1,
       "imageSourceUrl": "https://www.newyorktheatreguide.com/theatre-news/news/jocelyn-bioh-to-star-in-her-play-school-girls-on-broadway-for-four-performances-only"
     },
@@ -2898,11 +3438,10 @@
       "featured": false,
       "urgent": false,
       "weekAdded": "2026-10-15",
-      "displaySection": "topStories",
-      "displayLabel": "Top Stories",
+      "displaySection": "archive",
+      "displayLabel": "The Archive",
       "displayOrder": 2,
-      "imageSourceUrl": "https://www.broadwayworld.com/off-broadway/article/Paul-Tazewell-and-More-to-be-Honored-at-Black-Theatre-United-2026-Gala-20260521",
-      "highlightRank": 1
+      "imageSourceUrl": "https://www.broadwayworld.com/off-broadway/article/Paul-Tazewell-and-More-to-be-Honored-at-Black-Theatre-United-2026-Gala-20260521"
     },
     {
       "id": "ava-duvernay-calls-for-artist-led-film-financing",
@@ -2922,11 +3461,10 @@
       "featured": false,
       "urgent": false,
       "weekAdded": "2026-10-15",
-      "displaySection": "topStories",
-      "displayLabel": "Top Stories",
+      "displaySection": "archive",
+      "displayLabel": "The Archive",
       "displayOrder": 3,
-      "imageSourceUrl": "https://thegrio.com/2026/10/13/ava-duvernay-hollywood-over-14th-documentary/",
-      "highlightRank": 2
+      "imageSourceUrl": "https://thegrio.com/2026/10/13/ava-duvernay-hollywood-over-14th-documentary/"
     },
     {
       "id": "deana-lawsons-edge-control-raises-questions-about-image-ownership",
@@ -2946,11 +3484,10 @@
       "featured": false,
       "urgent": false,
       "weekAdded": "2026-10-15",
-      "displaySection": "topStories",
-      "displayLabel": "Top Stories",
+      "displaySection": "archive",
+      "displayLabel": "The Archive",
       "displayOrder": 4,
-      "imageSourceUrl": "https://hyperallergic.com/whos-the-thief-in-deana-lawsons-photography/",
-      "highlightRank": 3
+      "imageSourceUrl": "https://hyperallergic.com/whos-the-thief-in-deana-lawsons-photography/"
     },
     {
       "id": "kennedy-center-honors-move-to-capital-one-arena-during-closure",
@@ -2970,11 +3507,10 @@
       "featured": false,
       "urgent": false,
       "weekAdded": "2026-10-15",
-      "displaySection": "topStories",
-      "displayLabel": "Top Stories",
+      "displaySection": "archive",
+      "displayLabel": "The Archive",
       "displayOrder": 5,
-      "imageSourceUrl": "https://www.inquirer.com/politics/nation/kennedy-center-honors-trump-capital-one-arena-20261002.html",
-      "highlightRank": 4
+      "imageSourceUrl": "https://www.inquirer.com/politics/nation/kennedy-center-honors-trump-capital-one-arena-20261002.html"
     },
     {
       "id": "sir-willard-white-celebrates-80-at-the-royal-albert-hall",
@@ -2994,11 +3530,10 @@
       "featured": false,
       "urgent": false,
       "weekAdded": "2026-10-15",
-      "displaySection": "topStories",
-      "displayLabel": "Top Stories",
+      "displaySection": "archive",
+      "displayLabel": "The Archive",
       "displayOrder": 6,
-      "imageSourceUrl": "https://www.classicfm.com/events/classic-fm-live/photo-highlights-out-of-this-world-concert/",
-      "highlightRank": 5
+      "imageSourceUrl": "https://www.classicfm.com/events/classic-fm-live/photo-highlights-out-of-this-world-concert/"
     },
     {
       "id": "latelier-awards-recognize-a-new-generation-of-african-artists",
@@ -3018,11 +3553,10 @@
       "featured": false,
       "urgent": false,
       "weekAdded": "2026-10-15",
-      "displaySection": "topStories",
-      "displayLabel": "Top Stories",
+      "displaySection": "archive",
+      "displayLabel": "The Archive",
       "displayOrder": 7,
-      "imageSourceUrl": "https://www.timeout.com/johannesburg/news/absa-latelier-art-awards-101226",
-      "highlightRank": 6
+      "imageSourceUrl": "https://www.timeout.com/johannesburg/news/absa-latelier-art-awards-101226"
     },
     {
       "id": "ina-norris-builds-community-through-storytelling",
@@ -3042,11 +3576,10 @@
       "featured": false,
       "urgent": false,
       "weekAdded": "2026-10-15",
-      "displaySection": "topStories",
-      "displayLabel": "Top Stories",
+      "displaySection": "archive",
+      "displayLabel": "The Archive",
       "displayOrder": 8,
-      "imageSourceUrl": "https://amsterdamnews.com/news/2026/10/08/ina-norris-is-building-community-through-storytelling/",
-      "highlightRank": 7
+      "imageSourceUrl": "https://amsterdamnews.com/news/2026/10/08/ina-norris-is-building-community-through-storytelling/"
     },
     {
       "id": "washington-national-opera-discusses-life-beyond-the-kennedy-center",
@@ -3066,8 +3599,8 @@
       "featured": false,
       "urgent": false,
       "weekAdded": "2026-10-15",
-      "displaySection": "moreThisWeek",
-      "displayLabel": "More This Week",
+      "displaySection": "archive",
+      "displayLabel": "The Archive",
       "displayOrder": 9
     },
     {
@@ -3088,8 +3621,8 @@
       "featured": false,
       "urgent": false,
       "weekAdded": "2026-10-15",
-      "displaySection": "moreThisWeek",
-      "displayLabel": "More This Week",
+      "displaySection": "archive",
+      "displayLabel": "The Archive",
       "displayOrder": 10
     },
     {
@@ -3110,8 +3643,8 @@
       "featured": false,
       "urgent": false,
       "weekAdded": "2026-10-15",
-      "displaySection": "moreThisWeek",
-      "displayLabel": "More This Week",
+      "displaySection": "archive",
+      "displayLabel": "The Archive",
       "displayOrder": 11
     },
     {
@@ -3132,8 +3665,8 @@
       "featured": false,
       "urgent": false,
       "weekAdded": "2026-10-15",
-      "displaySection": "moreThisWeek",
-      "displayLabel": "More This Week",
+      "displaySection": "archive",
+      "displayLabel": "The Archive",
       "displayOrder": 12
     },
     {
@@ -3154,8 +3687,8 @@
       "featured": false,
       "urgent": false,
       "weekAdded": "2026-10-15",
-      "displaySection": "moreThisWeek",
-      "displayLabel": "More This Week",
+      "displaySection": "archive",
+      "displayLabel": "The Archive",
       "displayOrder": 13
     },
     {
@@ -3176,8 +3709,8 @@
       "featured": false,
       "urgent": false,
       "weekAdded": "2026-10-15",
-      "displaySection": "moreThisWeek",
-      "displayLabel": "More This Week",
+      "displaySection": "archive",
+      "displayLabel": "The Archive",
       "displayOrder": 14
     },
     {
@@ -3200,7 +3733,7 @@
       "weekAdded": "2026-10-08",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 1
+      "displayOrder": 15
     },
     {
       "id": "tayari-jones-and-elizabeth-acevedo-win-2026-kirkus-prizes",
@@ -3222,7 +3755,7 @@
       "weekAdded": "2026-10-08",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 2
+      "displayOrder": 16
     },
     {
       "id": "edwidge-danticat-and-camonghne-felix-named-national-book-award-finalists",
@@ -3244,7 +3777,7 @@
       "weekAdded": "2026-10-08",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 3
+      "displayOrder": 17
     },
     {
       "id": "centros-dearchiving-the-gaze-reframes-afro-puerto-rican-history",
@@ -3266,7 +3799,7 @@
       "weekAdded": "2026-10-08",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 4
+      "displayOrder": 18
     },
     {
       "id": "dance-magazine-honors-germaine-acogny-ayodele-casel-and-cleo-parker-robinson",
@@ -3288,7 +3821,7 @@
       "weekAdded": "2026-10-08",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 5
+      "displayOrder": 19
     },
     {
       "id": "whitney-workers-ratify-contract-joining-brooklyn-museum-and-folk-art-settlements",
@@ -3310,7 +3843,7 @@
       "weekAdded": "2026-10-08",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 6
+      "displayOrder": 20
     },
     {
       "id": "arthur-jafas-i-am-tony-receives-a-black-press-appraisal",
@@ -3332,7 +3865,7 @@
       "weekAdded": "2026-10-08",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 7
+      "displayOrder": 21
     },
     {
       "id": "roger-guenveur-smiths-basquiat-tribute-runs-through-october-10",
@@ -3354,7 +3887,7 @@
       "weekAdded": "2026-10-08",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 8
+      "displayOrder": 22
     },
     {
       "id": "lynn-garafola-discusses-the-research-behind-her-arthur-mitchell-biography",
@@ -3376,7 +3909,7 @@
       "weekAdded": "2026-10-08",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 9
+      "displayOrder": 23
     },
     {
       "id": "adesola-akinleye-joins-the-royal-academy-of-dance-as-u-s-national-director",
@@ -3398,7 +3931,7 @@
       "weekAdded": "2026-10-08",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 10
+      "displayOrder": 24
     },
     {
       "id": "catherine-russell-celebrates-her-jazz-lineage-at-lincoln-center",
@@ -3420,7 +3953,7 @@
       "weekAdded": "2026-10-08",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 11
+      "displayOrder": 25
     },
     {
       "id": "new-york-musicians-gather-to-honor-sonny-rollins",
@@ -3442,7 +3975,7 @@
       "weekAdded": "2026-10-08",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 12
+      "displayOrder": 26
     },
     {
       "id": "octobers-black-literary-releases-offer-a-new-reading-list",
@@ -3464,7 +3997,7 @@
       "weekAdded": "2026-10-08",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 13
+      "displayOrder": 27
     },
     {
       "id": "angela-t-ryes-black-independence-anthology-goes-to-maroon-visions",
@@ -3486,7 +4019,7 @@
       "weekAdded": "2026-10-08",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 14
+      "displayOrder": 28
     },
     {
       "id": "banned-books-week-puts-literary-access-back-in-focus",
@@ -3508,7 +4041,7 @@
       "weekAdded": "2026-10-08",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 15
+      "displayOrder": 29
     },
     {
       "id": "theatre-leaders-debate-subscriptions-new-work-and-audience-trust",
@@ -3530,7 +4063,7 @@
       "weekAdded": "2026-10-08",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 16
+      "displayOrder": 30
     },
     {
       "id": "anthony-mackies-macbeth-is-reported-for-a-broadway-transfer",
@@ -3552,7 +4085,7 @@
       "weekAdded": "2026-10-08",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 17
+      "displayOrder": 31
     },
     {
       "id": "a-black-press-review-examines-colorism-in-school-girls",
@@ -3574,7 +4107,7 @@
       "weekAdded": "2026-10-08",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 18
+      "displayOrder": 32
     },
     {
       "id": "seven-black-creatives-and-scholars-named-2026-macarthur-fellows",
@@ -3596,7 +4129,7 @@
       "weekAdded": "2026-09-30",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 19
+      "displayOrder": 33
     },
     {
       "id": "whitney-sets-october-5-strike-as-brooklyn-and-folk-art-museums-reach-tentative-deals",
@@ -3618,7 +4151,7 @@
       "weekAdded": "2026-09-30",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 20
+      "displayOrder": 34
     },
     {
       "id": "kyle-abraham-dance-vanguard-pairs-a-new-name-with-year-round-dancer-pay",
@@ -3640,7 +4173,7 @@
       "weekAdded": "2026-09-30",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 21
+      "displayOrder": 35
     },
     {
       "id": "jocelyn-biohs-school-girls-opens-on-broadway",
@@ -3662,7 +4195,7 @@
       "weekAdded": "2026-09-30",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 22
+      "displayOrder": 36
     },
     {
       "id": "shuffle-alongs-reunion-concert-will-reach-pbs-in-2027",
@@ -3684,7 +4217,7 @@
       "weekAdded": "2026-09-30",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 23
+      "displayOrder": 37
     },
     {
       "id": "lawmakers-renew-effort-to-protect-the-kennedy-center-from-demolition",
@@ -3706,7 +4239,7 @@
       "weekAdded": "2026-09-30",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 24
+      "displayOrder": 38
     },
     {
       "id": "edmonia-lewiss-montana-connections-inspire-a-new-exhibition",
@@ -3728,7 +4261,7 @@
       "weekAdded": "2026-09-30",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 25
+      "displayOrder": 39
     },
     {
       "id": "nyancho-nwanri-wins-the-flickr-black-women-photographers-grant",
@@ -3750,7 +4283,7 @@
       "weekAdded": "2026-09-30",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 26
+      "displayOrder": 40
     },
     {
       "id": "federal-arts-cuts-continue-to-disrupt-artists-and-black-history-projects",
@@ -3772,7 +4305,7 @@
       "weekAdded": "2026-09-30",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 27
+      "displayOrder": 41
     },
     {
       "id": "a-new-arthur-mitchell-biography-examines-a-ballet-pioneers-legacy",
@@ -3794,7 +4327,7 @@
       "weekAdded": "2026-09-30",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 28
+      "displayOrder": 42
     },
     {
       "id": "atlanta-theatre-confronts-the-gap-between-its-stages-and-its-city",
@@ -3816,7 +4349,7 @@
       "weekAdded": "2026-09-30",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 29
+      "displayOrder": 43
     },
     {
       "id": "revada-arts-center-opens-a-shared-home-for-washington-arts-groups",
@@ -3838,7 +4371,7 @@
       "weekAdded": "2026-09-30",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 30
+      "displayOrder": 44
     },
     {
       "id": "chibundu-onuzos-the-great-shaking-goes-to-flatiron",
@@ -3860,7 +4393,7 @@
       "weekAdded": "2026-09-30",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 31
+      "displayOrder": 45
     },
     {
       "id": "tochi-onyebuchis-kill-your-masters-is-acquired-by-bloomsbury",
@@ -3882,7 +4415,7 @@
       "weekAdded": "2026-09-30",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 32
+      "displayOrder": 46
     },
     {
       "id": "nayara-lopes-describes-the-cost-of-a-whiteface-incident-in-ballet",
@@ -3904,7 +4437,7 @@
       "weekAdded": "2026-09-30",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 33
+      "displayOrder": 47
     },
     {
       "id": "the-mighty-sparrow-a-defining-voice-of-calypso-dies-at-91",
@@ -3926,7 +4459,7 @@
       "weekAdded": "2026-09-30",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 34
+      "displayOrder": 48
     },
     {
       "id": "tyler-mitchell-wins-the-250-000-don-tyson-prize",
@@ -3948,7 +4481,7 @@
       "weekAdded": "2026-09-27",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 35
+      "displayOrder": 49
     },
     {
       "id": "kennedy-center-closure-faces-new-questions-over-delayed-repairs",
@@ -3970,7 +4503,7 @@
       "weekAdded": "2026-09-27",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 36
+      "displayOrder": 50
     },
     {
       "id": "seaport-joins-whitney-and-brooklyn-museum-workers-in-authorizing-strikes",
@@ -3992,7 +4525,7 @@
       "weekAdded": "2026-09-27",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 37
+      "displayOrder": 51
     },
     {
       "id": "met-and-nigeria-agree-on-ownership-and-display-of-three-sculptures",
@@ -4014,7 +4547,7 @@
       "weekAdded": "2026-09-27",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 38
+      "displayOrder": 52
     },
     {
       "id": "joan-mitchell-foundation-report-examines-who-gets-remembered",
@@ -4036,7 +4569,7 @@
       "weekAdded": "2026-09-27",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 39
+      "displayOrder": 53
     },
     {
       "id": "willie-birchs-first-retrospective-traces-five-decades-of-black-life",
@@ -4058,7 +4591,7 @@
       "weekAdded": "2026-09-27",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 40
+      "displayOrder": 54
     },
     {
       "id": "jennifer-archibald-makes-her-new-york-city-ballet-debut",
@@ -4080,7 +4613,7 @@
       "weekAdded": "2026-09-27",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 41
+      "displayOrder": 55
     },
     {
       "id": "golda-schultz-lawrence-brownlee-and-morris-robinson-named-opera-awards-finalists",
@@ -4102,7 +4635,7 @@
       "weekAdded": "2026-09-27",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 42
+      "displayOrder": 56
     },
     {
       "id": "kelundra-smith-calls-for-reimagining-nonprofit-theatre",
@@ -4124,7 +4657,7 @@
       "weekAdded": "2026-09-27",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 43
+      "displayOrder": 57
     },
     {
       "id": "new-york-opens-80-million-in-arts-capital-grants",
@@ -4146,7 +4679,7 @@
       "weekAdded": "2026-09-27",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 44
+      "displayOrder": 58
     },
     {
       "id": "naomi-beckwith-addresses-artist-withdrawals-ahead-of-documenta-16",
@@ -4168,7 +4701,7 @@
       "weekAdded": "2026-09-27",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 45
+      "displayOrder": 59
     },
     {
       "id": "school-girls-broadway-arrival-marks-a-milestone-for-jocelyn-bioh",
@@ -4190,7 +4723,7 @@
       "weekAdded": "2026-09-27",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 46
+      "displayOrder": 60
     },
     {
       "id": "a-critical-look-at-the-armory-show-and-independent-20th-century",
@@ -4212,7 +4745,7 @@
       "weekAdded": "2026-09-27",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 47
+      "displayOrder": 61
     },
     {
       "id": "new-york-city-and-the-met-launch-opera-for-all",
@@ -4234,7 +4767,7 @@
       "weekAdded": "2026-09-23",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 48
+      "displayOrder": 62
     },
     {
       "id": "nmaahc-marks-ten-years-amid-political-pressure",
@@ -4256,7 +4789,7 @@
       "weekAdded": "2026-09-23",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 49
+      "displayOrder": 63
     },
     {
       "id": "gordon-parks-voices-in-the-mirror-brings-subjects-stories-into-view",
@@ -4278,7 +4811,7 @@
       "weekAdded": "2026-09-23",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 50
+      "displayOrder": 64
     },
     {
       "id": "the-armory-show-spotlights-caribbean-artists-and-galleries",
@@ -4300,7 +4833,7 @@
       "weekAdded": "2026-09-23",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 51
+      "displayOrder": 65
     },
     {
       "id": "tina-m-campt-named-momas-202627-scholar-in-residence",
@@ -4322,7 +4855,7 @@
       "weekAdded": "2026-09-23",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 52
+      "displayOrder": 66
     },
     {
       "id": "jocelyn-bioh-returns-to-broadway-in-her-own-school-girls",
@@ -4344,7 +4877,7 @@
       "weekAdded": "2026-09-23",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 53
+      "displayOrder": 67
     },
     {
       "id": "harlem-seniors-make-their-literary-debut-in-a-new-story-collection",
@@ -4366,7 +4899,7 @@
       "weekAdded": "2026-09-23",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 54
+      "displayOrder": 68
     },
     {
       "id": "birmingham-museum-of-art-surveys-two-centuries-of-black-american-art",
@@ -4388,7 +4921,7 @@
       "weekAdded": "2026-09-23",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 55
+      "displayOrder": 69
     },
     {
       "id": "new-nmaahc-exhibitions-put-black-art-in-focus",
@@ -4410,7 +4943,7 @@
       "weekAdded": "2026-09-23",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 56
+      "displayOrder": 70
     },
     {
       "id": "arthur-jafas-i-am-tony-among-new-yorks-fall-exhibition-highlights",
@@ -4432,7 +4965,7 @@
       "weekAdded": "2026-09-23",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 57
+      "displayOrder": 71
     },
     {
       "id": "education-department-redirects-235-million-to-hbcus-and-tribal-colleges",
@@ -4454,7 +4987,7 @@
       "weekAdded": "2026-09-23",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 58
+      "displayOrder": 72
     },
     {
       "id": "sarah-joness-america-who-hurt-you-draws-critical-attention",
@@ -4476,7 +5009,7 @@
       "weekAdded": "2026-09-23",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 59
+      "displayOrder": 73
     },
     {
       "id": "bill-t-jones-and-samora-pinderhughes-feature-in-dance-season-preview",
@@ -4498,7 +5031,7 @@
       "weekAdded": "2026-09-23",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 60
+      "displayOrder": 74
     },
     {
       "id": "colin-kaepernick-launches-the-perilous-fight-in-brooklyn",
@@ -4520,7 +5053,7 @@
       "weekAdded": "2026-09-23",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 61
+      "displayOrder": 75
     },
     {
       "id": "jazz-in-unexpected-places-explores-music-and-civil-rights-history",
@@ -4542,7 +5075,7 @@
       "weekAdded": "2026-09-23",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 62
+      "displayOrder": 76
     },
     {
       "id": "peggy-cooper-cafritzs-legacy-of-black-patronage-at-the-studio-museum",
@@ -4564,7 +5097,7 @@
       "weekAdded": "2026-09-23",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 63
+      "displayOrder": 77
     },
     {
       "id": "vmfa-acquisitions-include-work-by-adam-pendleton",
@@ -4586,7 +5119,7 @@
       "weekAdded": "2026-09-23",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 64
+      "displayOrder": 78
     },
     {
       "id": "tayari-jones-and-colson-whitehead-named-kirkus-prize-finalists",
@@ -4608,7 +5141,7 @@
       "weekAdded": "2026-09-23",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 65
+      "displayOrder": 79
     },
     {
       "id": "the-black-rep-opens-its-50th-season-in-st-louis",
@@ -4630,7 +5163,7 @@
       "weekAdded": "2026-09-23",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 66
+      "displayOrder": 80
     },
     {
       "id": "a-new-black-led-theatre-company-takes-shape-in-washington-dc",
@@ -4652,7 +5185,7 @@
       "weekAdded": "2026-09-23",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 67
+      "displayOrder": 81
     },
     {
       "id": "smithsonian-chief-lonnie-g-bunch-iii-resigns",
@@ -4674,7 +5207,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 68
+      "displayOrder": 82
     },
     {
       "id": "kennedy-center-board-votes-to-close-main-building-september-15-2026",
@@ -4696,7 +5229,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 69
+      "displayOrder": 83
     },
     {
       "id": "whitney-brooklyn-museum-american-folk-art-museum-workers-authorize-strikes-2026",
@@ -4718,7 +5251,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 70
+      "displayOrder": 84
     },
     {
       "id": "tschabalala-selfs-lady-in-blue-unveiled-on-londons-fourth-plinth",
@@ -4740,7 +5273,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 71
+      "displayOrder": 85
     },
     {
       "id": "schomburg-center-announces-its-largest-show-of-contemporary-black-womens-art",
@@ -4762,7 +5295,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 72
+      "displayOrder": 86
     },
     {
       "id": "nea-honors-2026-jazz-masters-including-carmen-lundy-and-patrice-rushen",
@@ -4784,7 +5317,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 73
+      "displayOrder": 87
     },
     {
       "id": "wil-haygood-and-camonghne-felix-named-to-national-book-award-nonfiction-longlist",
@@ -4806,7 +5339,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 74
+      "displayOrder": 88
     },
     {
       "id": "micaela-taylor-brings-tap-history-to-english-national-ballet-in-bow-out",
@@ -4828,7 +5361,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 75
+      "displayOrder": 89
     },
     {
       "id": "kennedy-center-temporarily-closes-for-safety-assessment-september-17-2026",
@@ -4850,7 +5383,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 76
+      "displayOrder": 90
     },
     {
       "id": "judge-orders-explanation-of-kennedy-center-closure-plans-september-16-2026",
@@ -4872,7 +5405,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 77
+      "displayOrder": 91
     },
     {
       "id": "national-book-award-for-translated-literature-announces-2026-longlist",
@@ -4894,7 +5427,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 78
+      "displayOrder": 92
     },
     {
       "id": "museum-contract-disputes-put-october-exhibition-openings-in-focus-2026",
@@ -4916,7 +5449,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 79
+      "displayOrder": 93
     },
     {
       "id": "jonah-mixon-webster-named-to-national-book-award-poetry-longlist",
@@ -4938,7 +5471,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 80
+      "displayOrder": 94
     },
     {
       "id": "shae-sanders-sells-two-book-romance-deal-for-the-stars-between-us",
@@ -4960,7 +5493,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 81
+      "displayOrder": 95
     },
     {
       "id": "apollo-receives-inaugural-african-american-day-parade-community-institution-award",
@@ -4982,7 +5515,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 82
+      "displayOrder": 96
     },
     {
       "id": "rabkin-foundation-awards-eight-50-000-arts-journalism-grants",
@@ -5004,7 +5537,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 83
+      "displayOrder": 97
     },
     {
       "id": "howardena-pindell-to-receive-romare-bearden-foundations-artistic-legacy-award",
@@ -5026,7 +5559,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 84
+      "displayOrder": 98
     },
     {
       "id": "black-ensemble-theater-to-receive-special-equity-jeff-award-for-its-50-year-legacy",
@@ -5048,7 +5581,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 85
+      "displayOrder": 99
     },
     {
       "id": "leilah-babirye-joins-salon-94",
@@ -5070,7 +5603,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 86
+      "displayOrder": 100
     },
     {
       "id": "mildred-howard-receives-25-000-artists-legacy-foundation-award",
@@ -5092,7 +5625,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 87
+      "displayOrder": 101
     },
     {
       "id": "anonymous-was-a-woman-awards-498-180-in-environmental-art-grants",
@@ -5114,7 +5647,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 88
+      "displayOrder": 102
     },
     {
       "id": "lucas-museum-of-narrative-art-draws-divided-reviews-ahead-of-opening",
@@ -5136,7 +5669,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 89
+      "displayOrder": 103
     },
     {
       "id": "alvin-ailey-american-dance-theater-announces-holiday-season-at-new-york-city-center",
@@ -5158,7 +5691,7 @@
       "weekAdded": "2026-09-16",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 90
+      "displayOrder": 104
     },
     {
       "id": "fridman-gallery-presents-dindga-mccannon-solo-exhibition-yesterday-and-today",
@@ -5180,7 +5713,7 @@
       "weekAdded": "2026-09-09",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 91
+      "displayOrder": 105
     },
     {
       "id": "lynda-roscoe-hartigan-named-smithsonian-american-art-museum-director",
@@ -5202,7 +5735,7 @@
       "weekAdded": "2026-09-09",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 92
+      "displayOrder": 106
     },
     {
       "id": "kennedy-center-ceiling-collapse-renews-push-for-shutdown",
@@ -5224,7 +5757,7 @@
       "weekAdded": "2026-09-09",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 93
+      "displayOrder": 107
     },
     {
       "id": "spoken-word-artist-lyrical-faith-ready-for-her-debut-album-says-she-wants-to-ins",
@@ -5246,7 +5779,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 94
+      "displayOrder": 108
     },
     {
       "id": "dreaming-soca-why-granville-straker-was-a-brooklyn-music-legend-and-a-connection",
@@ -5268,7 +5801,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 95
+      "displayOrder": 109
     },
     {
       "id": "cassandra-wilson-grammy-winning-jazz-singer-dies-at-70",
@@ -5290,7 +5823,7 @@
       "weekAdded": "2026-09-09",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 96
+      "displayOrder": 110
     },
     {
       "id": "kennedy-center-removes-beloved-joel-shapiro-sculpture-blue",
@@ -5312,7 +5845,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 97
+      "displayOrder": 111
     },
     {
       "id": "the-missing-colors-of-black-american-pigment-making",
@@ -5334,7 +5867,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 98
+      "displayOrder": 112
     },
     {
       "id": "minnesota-state-fair-removes-anti-trump-crop-art-after-artist-was-harassed",
@@ -5356,7 +5889,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 99
+      "displayOrder": 113
     },
     {
       "id": "a-smithsonian-museum-director-departs-for-the-guggenheim",
@@ -5378,7 +5911,7 @@
       "weekAdded": "2026-09-09",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 100
+      "displayOrder": 114
     },
     {
       "id": "new-york-artist-a-k-lovelace-builds-future-creative-generations-at-harlem-school-of-th",
@@ -5400,7 +5933,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 101
+      "displayOrder": 115
     },
     {
       "id": "from-the-stage-to-the-screen-poster-house-puts-together-a-nearly-lost-narrative-of-bla",
@@ -5422,7 +5955,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 102
+      "displayOrder": 116
     },
     {
       "id": "yayoi-kusama-artist-of-infinities-dies-at-97",
@@ -5444,7 +5977,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 103
+      "displayOrder": 117
     },
     {
       "id": "major-exhibition-of-pompeii-treasures-will-make-its-us-debut",
@@ -5466,7 +5999,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 104
+      "displayOrder": 118
     },
     {
       "id": "morning-links-for-august-26-2026-national-museum-of-ireland-explosives-charge-artist-g",
@@ -5488,7 +6021,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 105
+      "displayOrder": 119
     },
     {
       "id": "dance-theatre-of-harlem-announces-2026-2027-tour-schedule-and-2027-new-york-seas",
@@ -5510,7 +6043,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 106
+      "displayOrder": 120
     },
     {
       "id": "creating-anyway-black-art-cultural-investment-and-the-courage-to-be-seen",
@@ -5532,7 +6065,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 107
+      "displayOrder": 121
     },
     {
       "id": "reports-dreamgirls-revival-will-not-open-on-broadway-in-fall-2026",
@@ -5554,7 +6087,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 108
+      "displayOrder": 122
     },
     {
       "id": "famed-portrait-of-omai-will-go-on-view-at-las-getty-museum",
@@ -5576,7 +6109,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 109
+      "displayOrder": 123
     },
     {
       "id": "nyc-arts-nonprofits-benefit-from-mamdanis-8-4-million-in-grants",
@@ -5598,7 +6131,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 110
+      "displayOrder": 124
     },
     {
       "id": "amid-trumps-threats-a-potential-home-for-smithsonian-latino-museum",
@@ -5620,7 +6153,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 111
+      "displayOrder": 125
     },
     {
       "id": "sliman-mansour-painter-of-palestinian-hope-and-humanity-dies-at-79",
@@ -5642,7 +6175,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 112
+      "displayOrder": 126
     },
     {
       "id": "detroit-institute-of-arts-unveils-neighhh-borly-display-of-love",
@@ -5664,7 +6197,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 113
+      "displayOrder": 127
     },
     {
       "id": "maya-lin-to-build-otherworldly-floating-landscape-at-ut-austin",
@@ -5686,7 +6219,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 114
+      "displayOrder": 128
     },
     {
       "id": "soul-satisfaction-in-todays-black-hamptons-sanford-biggerss-drift-on-at-the-parrish",
@@ -5708,7 +6241,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 115
+      "displayOrder": 129
     },
     {
       "id": "an-american-daughter-screams-the-double-standard-and-media-impact-in-our-society",
@@ -5730,7 +6263,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 116
+      "displayOrder": 130
     },
     {
       "id": "shifters-tells-stunning-poignant-story-of-true-soulmates",
@@ -5752,7 +6285,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 117
+      "displayOrder": 131
     },
     {
       "id": "from-bills-place-to-the-renaissance-out-and-about-on-the-trail-of-harlems-gold-and-glo",
@@ -5774,7 +6307,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 118
+      "displayOrder": 132
     },
     {
       "id": "spotlight-on-billie-holiday-theatre-jazzmobile-chicken-bone-beach",
@@ -5796,7 +6329,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 119
+      "displayOrder": 133
     },
     {
       "id": "harlem-book-fair-returns-featuring-live-music-book-readings-and-panel-discussions",
@@ -5818,7 +6351,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 120
+      "displayOrder": 134
     },
     {
       "id": "wolf-kahn-foundation-opens-new-space-in-nyc",
@@ -5840,7 +6373,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 121
+      "displayOrder": 135
     },
     {
       "id": "us-national-gallery-of-art-acquires-paintings-sculptures-and-photographs-spanning-fiv",
@@ -5862,7 +6395,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 122
+      "displayOrder": 136
     },
     {
       "id": "angie-nixon-champion-of-black-art-and-culture-wins-florida-senate-primary-in-upset",
@@ -5884,7 +6417,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 123
+      "displayOrder": 137
     },
     {
       "id": "mit-students-can-now-borrow-works-by-jennie-c-jones-and-nayland-blake",
@@ -5906,7 +6439,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 124
+      "displayOrder": 138
     },
     {
       "id": "speed-art-museum-returns-24-native-artifacts-to-oklahoma-tribes",
@@ -5928,7 +6461,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 125
+      "displayOrder": 139
     },
     {
       "id": "justice-visits-west-virginia-state-highlights-hbcu-arts-act",
@@ -5950,7 +6483,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 126
+      "displayOrder": 140
     },
     {
       "id": "school-of-visual-arts-faculty-blindsided-by-course-cuts-amid-22m-deficit",
@@ -5972,7 +6505,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 127
+      "displayOrder": 141
     },
     {
       "id": "taiwanese-artists-accuse-south-koreas-gwangju-biennale-of-censorship",
@@ -5994,7 +6527,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 128
+      "displayOrder": 142
     },
     {
       "id": "nyc-culture-commissioner-diya-vij-appoints-bryan-joseph-lee-as-deputy",
@@ -6016,7 +6549,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 129
+      "displayOrder": 143
     },
     {
       "id": "priceless-renaissance-paintings-stolen-from-italian-museum",
@@ -6038,7 +6571,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 130
+      "displayOrder": 144
     },
     {
       "id": "mary-heilmann-painter-of-irreverent-abstractions-dies-at-86",
@@ -6060,7 +6593,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 131
+      "displayOrder": 145
     },
     {
       "id": "national-museum-of-african-american-history-and-culture-announces-the-reunion-a-multi",
@@ -6082,7 +6615,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 132
+      "displayOrder": 146
     },
     {
       "id": "danceusas-new-executive-director-says-the-organization-needs-to-rebuild",
@@ -6104,7 +6637,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 133
+      "displayOrder": 147
     },
     {
       "id": "new-exhibit-shows-intersection-between-black-civil-rights-struggle-and-jewish-american",
@@ -6126,7 +6659,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 134
+      "displayOrder": 148
     },
     {
       "id": "kennedy-center-board-votes-again-to-shut-main-building-down-and-add-trumps-name-back",
@@ -6148,7 +6681,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 135
+      "displayOrder": 149
     },
     {
       "id": "mayor-mamdani-tdf-announce-thousands-of-free-and-low-cost-broadway-tickets-for-high-s",
@@ -6170,7 +6703,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 136
+      "displayOrder": 150
     },
     {
       "id": "dallas-black-dance-theatre-starts-50th-season-with-its-first-union-contract",
@@ -6192,7 +6725,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 137
+      "displayOrder": 151
     },
     {
       "id": "dance-theatre-of-harlem-galvanizes-arts-community-with-inaugural-artis",
@@ -6214,7 +6747,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 138
+      "displayOrder": 152
     },
     {
       "id": "15-artists-named-2026-joan-mitchell-fellows",
@@ -6236,7 +6769,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 139
+      "displayOrder": 153
     },
     {
       "id": "baltimore-museum-of-art-acquires-margaret-burroughs-s-on-the-beach",
@@ -6258,7 +6791,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 140
+      "displayOrder": 154
     },
     {
       "id": "ari-emanuels-mari-acquires-atg-entertainment",
@@ -6280,7 +6813,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 141
+      "displayOrder": 155
     },
     {
       "id": "an-inspired-august",
@@ -6302,7 +6835,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 142
+      "displayOrder": 156
     },
     {
       "id": "how-west-african-music-shapes-adji-cissokos-teaching",
@@ -6324,7 +6857,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 143
+      "displayOrder": 157
     },
     {
       "id": "book-deals-week-of-august-10-2026",
@@ -6346,7 +6879,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 144
+      "displayOrder": 158
     },
     {
       "id": "the-quotable-dr-joycelyn-elders-now-onstage-in-little-rock",
@@ -6368,7 +6901,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 145
+      "displayOrder": 159
     },
     {
       "id": "cats-the-jellicle-ball-takes-final-broadway-death-drop-august-8",
@@ -6390,7 +6923,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 146
+      "displayOrder": 160
     },
     {
       "id": "intellectual-freedom-news-872026",
@@ -6412,7 +6945,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 147
+      "displayOrder": 161
     },
     {
       "id": "could-this-new-legislation-protect-historic-sites-from-trumps-wrath",
@@ -6434,7 +6967,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 148
+      "displayOrder": 162
     },
     {
       "id": "east-hamptons-guild-hall-presents-the-dance-theatre-of-harlem-celebrates-black-cultur",
@@ -6456,7 +6989,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 149
+      "displayOrder": 163
     },
     {
       "id": "twenty-two-poets-laureate-awarded-1-1-million-for-community-poetry-projects",
@@ -6478,7 +7011,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 150
+      "displayOrder": 164
     },
     {
       "id": "your-august-2026-roster-roundup-dancers-and-directors-on-the-move",
@@ -6500,7 +7033,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 151
+      "displayOrder": 165
     },
     {
       "id": "international-black-theatre-fest-is-feast-of-theater-community-and-rejuvenation-of-th",
@@ -6522,7 +7055,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 152
+      "displayOrder": 166
     },
     {
       "id": "betye-saar-a-brilliant-artist-of-transformative-assemblages-passes-at",
@@ -6544,7 +7077,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 153
+      "displayOrder": 167
     },
     {
       "id": "holy-ground-theater-doc-documents-the-birth-of-a-great-and-needed-lega",
@@ -6566,7 +7099,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 154
+      "displayOrder": 168
     },
     {
       "id": "cooling-system-malfunction-shutters-seven-smithsonian-museums",
@@ -6588,7 +7121,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 155
+      "displayOrder": 169
     },
     {
       "id": "cubas-gloria-rolando-is-making-a-film-about-the-buffalo-soldiers-she-n",
@@ -6610,7 +7143,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 156
+      "displayOrder": 170
     },
     {
       "id": "new-book-revisits-gordon-parks-groundbreaking-photography-in-a-harlem",
@@ -6632,7 +7165,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 157
+      "displayOrder": 171
     },
     {
       "id": "jazz-notes-spotlight-on-andrew-cyrille-amber-weekes-and-the-oscar-brow",
@@ -6654,7 +7187,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 158
+      "displayOrder": 172
     },
     {
       "id": "san-diego-museum-of-art-lays-off-11-employees",
@@ -6676,7 +7209,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 159
+      "displayOrder": 173
     },
     {
       "id": "oif-releases-additional-reports-on-censorship-in-2025",
@@ -6698,7 +7231,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 160
+      "displayOrder": 174
     },
     {
       "id": "lincoln-center-announces-202627-season-of-live-programming-including-a",
@@ -6720,7 +7253,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 161
+      "displayOrder": 175
     },
     {
       "id": "aaww-names-ed-lin-interim-executive-director",
@@ -6742,7 +7275,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 162
+      "displayOrder": 176
     },
     {
       "id": "black-author-vows-to-fight-back-after-he-loses-2-million-publishing-de",
@@ -6764,7 +7297,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 163
+      "displayOrder": 177
     },
     {
       "id": "trump-proposes-lowest-smithsonian-budget-in-years",
@@ -6786,7 +7319,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 164
+      "displayOrder": 178
     },
     {
       "id": "creative-forces-expands-arts-engagement-opportunities-for-military-nat",
@@ -6808,7 +7341,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 165
+      "displayOrder": 179
     },
     {
       "id": "danceusa-announces-conclusion-of-fellowships-to-artists-program",
@@ -6830,7 +7363,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 166
+      "displayOrder": 180
     },
     {
       "id": "book-deals-week-of-august-3-2026",
@@ -6852,7 +7385,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 167
+      "displayOrder": 181
     },
     {
       "id": "people-to-watch-phanesia-pharel",
@@ -6874,7 +7407,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 168
+      "displayOrder": 182
     },
     {
       "id": "san-francisco-ballet-returns-to-jacobs-pillow-after-70-years",
@@ -6896,7 +7429,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 169
+      "displayOrder": 183
     },
     {
       "id": "dreams-of-this-future-the-collection-of-peggy-cooper-cafritz",
@@ -6918,7 +7451,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 170
+      "displayOrder": 184
     },
     {
       "id": "arts-southeast-revives-residency-program-on-georgias-remote-ossabaw-island",
@@ -6940,7 +7473,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 171
+      "displayOrder": 185
     },
     {
       "id": "agma-and-opera-philadelphia-reach-new-three-year-agreement",
@@ -6962,7 +7495,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 172
+      "displayOrder": 186
     },
     {
       "id": "news-of-note-what-you-might-have-missed-in-august-2026",
@@ -6984,7 +7517,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 173
+      "displayOrder": 187
     },
     {
       "id": "your-september-2026-roster-roundup-dancers-and-directors-on-the-move",
@@ -7006,7 +7539,7 @@
       "weekAdded": "2026-09-03",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 174
+      "displayOrder": 188
     },
     {
       "id": "actors-equity-association-gets-strike-ready-as-broadway-contract-expires",
@@ -7028,7 +7561,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 175
+      "displayOrder": 189
     },
     {
       "id": "pouring-into-our-own-a-black-tradition-of-collective-investment",
@@ -7050,7 +7583,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 176
+      "displayOrder": 190
     },
     {
       "id": "san-diego-museum-of-art-lays-off-11-workers",
@@ -7072,7 +7605,7 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 177
+      "displayOrder": 191
     },
     {
       "id": "orchestra-execs-the-next-generation-arrives",
@@ -7094,10 +7627,18 @@
       "weekAdded": "earlier",
       "displaySection": "archive",
       "displayLabel": "The Archive",
-      "displayOrder": 178
+      "displayOrder": 192
     }
   ],
   "appointments": [
+    {
+      "id": "ronald-e-scott-american-book-awards-2026",
+      "name": "Ronald E. Scott and Deborah Willis",
+      "role": "47th American Book Awards honorees",
+      "category": "Literature / criticism",
+      "url": "https://amsterdamnews.com/news/2026/10/15/amnews-jazz-writer-ronald-e-scott-honored-at-47th-american-book-awards/",
+      "description": "Scott receives the Walter and Lilian Lowenfels Award for Criticism; Willis is honored for Reflections in Black. The ceremony took place September 26 in Berkeley."
+    },
     {
       "id": "black-theatre-united-2026-honorees",
       "name": "Paul Tazewell, Delroy Lindo, and George Cheeks",
@@ -7324,36 +7865,6 @@
     }
   ],
   "exhibitions": [
-    {
-      "id": "maren-hassinger-blanket-of-branches",
-      "title": "Maren Hassinger: Blanket of Branches",
-      "venue": "Susan Inglett Gallery",
-      "address": "Manhattan (Chelsea)",
-      "through": "Through Oct 17, 2026",
-      "url": "https://www.inglettgallery.com/exhibitions/225-maren-hassinger-blanket-of-branches/overview/",
-      "description": "Maren Hassinger. Final days for a pioneer of Black postminimalist sculpture.",
-      "free": true,
-      "price": "Free",
-      "startDate": "",
-      "endDate": "2026-10-17",
-      "dateSort": "2026-10-17",
-      "status": "ongoing"
-    },
-    {
-      "id": "dindga-mccannon-yesterday-and-today",
-      "title": "Dindga McCannon: Yesterday and Today",
-      "venue": "Fridman Gallery",
-      "address": "Manhattan (Lower East Side)",
-      "through": "Through Oct 18, 2026",
-      "url": "https://fridmangallery.com/2026/07/26/exhibitions-dindga-mccannon-yesterday-and-today-09-09-10-15-2026/",
-      "description": "Mixed-media quilts, paintings, and prints by Dindga McCannon, a founding member of Where We At Black Women Artists. Fridman Gallery confirms a fashion show and closing reception October 18, 4–6 PM.",
-      "free": true,
-      "price": "Free",
-      "startDate": "2026-09-09",
-      "endDate": "2026-10-18",
-      "dateSort": "2026-10-18",
-      "status": "ongoing"
-    },
     {
       "id": "chimen-paintings-by-nathalie-jean-baptiste",
       "title": "Chimen: Paintings by Nathalie Jean-Baptiste",
@@ -7625,6 +8136,21 @@
       "status": "ongoing"
     },
     {
+      "id": "rosana-paulino-historia-natural",
+      "title": "Rosana Paulino: ¿História Natural?",
+      "venue": "Vera List Center, Arnold and Sheila Aronson Galleries, The New School",
+      "address": "66 Fifth Avenue, Manhattan (Greenwich Village)",
+      "through": "Through Nov 1, 2026",
+      "url": "https://www.veralistcenter.org/exhibitions/rosana-paulino-historia-natural",
+      "description": "The Afro-Brazilian artist revisits colonial natural-history imagery through prints, drawings, notebooks, and her 2016 artist’s book. Open daily noon–6 PM; Thursdays until 8 PM.",
+      "free": true,
+      "price": "Free",
+      "startDate": "2026-10-09",
+      "endDate": "2026-11-01",
+      "dateSort": "2026-11-01",
+      "status": "ongoing"
+    },
+    {
       "id": "hard-art",
       "title": "Hard Art",
       "venue": "MoMA PS1",
@@ -7775,6 +8301,21 @@
       "status": "ongoing"
     },
     {
+      "id": "tone",
+      "title": "Tone",
+      "venue": "Studio Museum in Harlem",
+      "address": "Manhattan (Harlem)",
+      "through": "Through Jan 3, 2027",
+      "url": "https://www.studiomuseum.org/exhibitions/tone",
+      "description": "Roy DeCarava, Gordon Parks, Lorna Simpson, Glenn Ligon, Kerry James Marshall, Ming Smith, Lynette Yiadom-Boakye, Zanele Muholi, and others; organized by Jayson Overby Jr. Photographs, paintings, and drawings built on black, white, and every gray between, opening with DeCarava.",
+      "free": false,
+      "price": "See link",
+      "startDate": "",
+      "endDate": "2027-01-03",
+      "dateSort": "2027-01-03",
+      "status": "ongoing"
+    },
+    {
       "id": "christopher-myers-unbound",
       "title": "Christopher Myers: Unbound",
       "venue": "Brooklyn Public Library, Central Library",
@@ -7839,14 +8380,14 @@
       "title": "Geometries",
       "venue": "Studio Museum in Harlem",
       "address": "Manhattan (Harlem)",
-      "through": "Through Jan 31, 2027",
+      "through": "Through Feb 7, 2027",
       "url": "https://www.studiomuseum.org/exhibitions/geometries",
       "description": "Julie Mehretu, Alma Thomas, Jack Whitten, William T. Williams, and others. Black abstraction organized around geometry.",
       "free": false,
       "price": "See link",
       "startDate": "",
-      "endDate": "2027-01-31",
-      "dateSort": "2027-01-31",
+      "endDate": "2027-02-07",
+      "dateSort": "2027-02-07",
       "status": "ongoing"
     },
     {
@@ -7862,6 +8403,21 @@
       "startDate": "",
       "endDate": "2027-02-28",
       "dateSort": "2027-02-28",
+      "status": "ongoing"
+    },
+    {
+      "id": "woody-de-othello-guardian-spirit",
+      "title": "Woody De Othello: Guardian Spirit",
+      "venue": "Public Art Fund, Brooklyn Bridge Park, Pier 1 and Manhattan Bridge View",
+      "address": "Brooklyn (DUMBO)",
+      "through": "Through Mar 8, 2027",
+      "url": "https://www.publicartfund.org/exhibitions/view/woody-de-othello-guardian-spirit/",
+      "description": "Woody De Othello, Miami-born artist of Haitian descent; curated by Jenée-Daria Strand. His first outdoor show in New York: bronzes and redwood totems drawing on the Central African nkisi tradition.",
+      "free": true,
+      "price": "Free, public art",
+      "startDate": "",
+      "endDate": "2027-03-08",
+      "dateSort": "2027-03-08",
       "status": "ongoing"
     },
     {
@@ -7986,34 +8542,50 @@
     }
   ],
   "urgencyItems": [
-    "Calvin Royal III at ABT — First performance Oct 21, 7:30 PM; select dates through Oct 31",
-    "In Plain Sight: Art Song by Black Composers — Oct 16, 7:30 PM · Merkin Hall · $30",
-    "Sphinx Virtuosi at Carnegie Hall — Oct 16, 7:30 PM",
-    "The Swans of Harlem — Performances Oct 16–18 · 14th Street Y",
-    "Maren Hassinger: Blanket of Branches — Closes Oct 17 · Free",
-    "Dindga McCannon — Closing reception and fashion show Oct 18, 4–6 PM · Free"
+    "Calvin Royal III at ABT — Petal Oct 21 and 25; Mercurial Son Oct 23–24; Ballet Imperial Oct 24–25",
+    "Calvin Royal III — Fall Gala Oct 29; Trio Élégiaque Oct 30–31",
+    "Studio Salon: Touched by the Mother — Oct 25, 3 PM · Studio Museum · Free with RSVP",
+    "From Cuba to the Crescent City — Oct 23–24, 7:30 PM · Jazz at Lincoln Center",
+    "Chelsea gallery closings — Deana Lawson, Torkwase Dyson, Emma Amos, and more close Oct 24",
+    "School Girls — Extended through Nov 15; streaming Nov 10–15"
   ],
   "newsDisplay": {
-    "currentWeek": "2026-10-15",
-    "mainTopStory": "jocelyn-bioh-steps-into-her-own-school-girls-on-broadway",
+    "mainTopStory": "daniel-kaluuya-to-make-his-american-stage-debut-in-grass",
     "topStories": [
+      "calvin-royal-iii-joins-abts-fall-gala-honoring-cynthia-erivo",
+      "ailey-opens-its-december-season-with-a-luther-vandross-tribute",
+      "rosana-paulino-reworks-the-colonial-archive",
+      "school-girls-will-stream-its-final-broadway-week",
+      "culturecons-museum-of-us-celebrates-black-creativity",
+      "broadways-economic-impact-reaches-21-billion",
+      "connecticut-arts-alliance-closes-moving-its-work-to-ct-humanities"
+    ],
+    "moreThisWeek": [
+      "ronald-e-scott-and-deborah-willis-honored-at-american-book-awards",
+      "home-to-harlem-looks-toward-a-2027-return",
+      "solanges-a-seat-at-the-table-ten-years-later",
+      "andre-d-wagner-documents-a-changing-new-york",
+      "denee-benton-and-jordan-donica-will-join-the-new-york-pops",
+      "alicia-graf-mack-introduces-young-readers-to-rhythm",
+      "lincoln-center-theater-launches-a-new-development-lab",
+      "lincoln-in-the-bardo-brings-american-grief-to-the-met",
+      "v-a-workers-plan-strikes-across-four-london-sites"
+    ],
+    "archive": [
+      "jocelyn-bioh-steps-into-her-own-school-girls-on-broadway",
       "black-theatre-united-honors-paul-tazewell-and-delroy-lindo",
       "ava-duvernay-calls-for-artist-led-film-financing",
       "deana-lawsons-edge-control-raises-questions-about-image-ownership",
       "kennedy-center-honors-move-to-capital-one-arena-during-closure",
       "sir-willard-white-celebrates-80-at-the-royal-albert-hall",
       "latelier-awards-recognize-a-new-generation-of-african-artists",
-      "ina-norris-builds-community-through-storytelling"
-    ],
-    "moreThisWeek": [
+      "ina-norris-builds-community-through-storytelling",
       "washington-national-opera-discusses-life-beyond-the-kennedy-center",
       "nadia-hopkins-wins-the-50-000-relentless-award",
       "anne-carson-wins-the-2026-nobel-prize-in-literature",
       "new-scholarship-reconsiders-turner-and-the-slave-trade",
       "marlon-james-joins-the-2026-booker-prize-shortlist",
-      "arthur-jafas-i-am-tony-draws-a-new-critical-reading"
-    ],
-    "archive": [
+      "arthur-jafas-i-am-tony-draws-a-new-critical-reading",
       "new-york-city-doubles-individual-artist-grants-to-10-000",
       "tayari-jones-and-elizabeth-acevedo-win-2026-kirkus-prizes",
       "edwidge-danticat-and-camonghne-felix-named-national-book-award-finalists",
@@ -8192,30 +8764,48 @@
       "pouring-into-our-own-a-black-tradition-of-collective-investment",
       "san-diego-museum-of-art-lays-off-11-workers",
       "orchestra-execs-the-next-generation-arrives"
-    ]
+    ],
+    "currentWeek": "2026-10-21"
   },
   "newsLayout": {
     "mainTopStory": [
-      "jocelyn-bioh-steps-into-her-own-school-girls-on-broadway"
+      "daniel-kaluuya-to-make-his-american-stage-debut-in-grass"
     ],
     "topStories": [
+      "calvin-royal-iii-joins-abts-fall-gala-honoring-cynthia-erivo",
+      "ailey-opens-its-december-season-with-a-luther-vandross-tribute",
+      "rosana-paulino-reworks-the-colonial-archive",
+      "school-girls-will-stream-its-final-broadway-week",
+      "culturecons-museum-of-us-celebrates-black-creativity",
+      "broadways-economic-impact-reaches-21-billion",
+      "connecticut-arts-alliance-closes-moving-its-work-to-ct-humanities"
+    ],
+    "moreThisWeek": [
+      "ronald-e-scott-and-deborah-willis-honored-at-american-book-awards",
+      "home-to-harlem-looks-toward-a-2027-return",
+      "solanges-a-seat-at-the-table-ten-years-later",
+      "andre-d-wagner-documents-a-changing-new-york",
+      "denee-benton-and-jordan-donica-will-join-the-new-york-pops",
+      "alicia-graf-mack-introduces-young-readers-to-rhythm",
+      "lincoln-center-theater-launches-a-new-development-lab",
+      "lincoln-in-the-bardo-brings-american-grief-to-the-met",
+      "v-a-workers-plan-strikes-across-four-london-sites"
+    ],
+    "archive": [
+      "jocelyn-bioh-steps-into-her-own-school-girls-on-broadway",
       "black-theatre-united-honors-paul-tazewell-and-delroy-lindo",
       "ava-duvernay-calls-for-artist-led-film-financing",
       "deana-lawsons-edge-control-raises-questions-about-image-ownership",
       "kennedy-center-honors-move-to-capital-one-arena-during-closure",
       "sir-willard-white-celebrates-80-at-the-royal-albert-hall",
       "latelier-awards-recognize-a-new-generation-of-african-artists",
-      "ina-norris-builds-community-through-storytelling"
-    ],
-    "moreThisWeek": [
+      "ina-norris-builds-community-through-storytelling",
       "washington-national-opera-discusses-life-beyond-the-kennedy-center",
       "nadia-hopkins-wins-the-50-000-relentless-award",
       "anne-carson-wins-the-2026-nobel-prize-in-literature",
       "new-scholarship-reconsiders-turner-and-the-slave-trade",
       "marlon-james-joins-the-2026-booker-prize-shortlist",
-      "arthur-jafas-i-am-tony-draws-a-new-critical-reading"
-    ],
-    "archive": [
+      "arthur-jafas-i-am-tony-draws-a-new-critical-reading",
       "new-york-city-doubles-individual-artist-grants-to-10-000",
       "tayari-jones-and-elizabeth-acevedo-win-2026-kirkus-prizes",
       "edwidge-danticat-and-camonghne-felix-named-national-book-award-finalists",
